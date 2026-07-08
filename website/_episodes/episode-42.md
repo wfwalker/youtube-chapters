@@ -5,6 +5,7 @@ episode_number: "42"
 date_string: "1/1/2021"
 date: 2021-01-01
 song_count: 9
+rerun: false
 youtube_url: "https://youtu.be/i7H03-9N1As"
 ---
 

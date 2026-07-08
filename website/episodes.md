@@ -120,7 +120,7 @@ title: "All Episodes"
 </style>
 
 <div class="hero-section">
-  <h1 class="hero-title">Live Stream Episodes</h1>
+  <h1 class="hero-title">Episodes</h1>
   <p class="hero-subtitle">Chronological record of live performances. Click an episode to see its full setlist, tempos, styles, and timing details.</p>
 </div>
 

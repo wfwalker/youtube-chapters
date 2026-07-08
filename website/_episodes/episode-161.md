@@ -5,6 +5,7 @@ episode_number: "161"
 date_string: "5/5/2023"
 date: 2023-05-05
 song_count: 8
+rerun: false
 youtube_url: "https://youtube.com/live/iSBCTTvF5RM"
 ---
 

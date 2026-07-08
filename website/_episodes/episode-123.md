@@ -5,6 +5,7 @@ episode_number: "123"
 date_string: "7/22/2022"
 date: 2022-07-22
 song_count: 8
+rerun: false
 youtube_url: "https://youtu.be/D42v7I8kocA"
 ---
 

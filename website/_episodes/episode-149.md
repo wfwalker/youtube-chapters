@@ -5,6 +5,7 @@ episode_number: "149"
 date_string: "2/10/2023"
 date: 2023-02-10
 song_count: 8
+rerun: false
 youtube_url: "https://youtube.com/live/9WTFsLMNhHk"
 ---
 

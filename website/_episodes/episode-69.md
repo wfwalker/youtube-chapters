@@ -5,6 +5,7 @@ episode_number: "69"
 date_string: "7/9/2021"
 date: 2021-07-09
 song_count: 6
+rerun: false
 youtube_url: "https://youtu.be/LcOwt_X_aog"
 ---
 

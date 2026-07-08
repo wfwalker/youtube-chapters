@@ -5,6 +5,7 @@ episode_number: "203"
 date_string: "3/22/2024"
 date: 2024-03-22
 song_count: 8
+rerun: false
 youtube_url: "https://youtube.com/live/kPqhJAREXfo"
 ---
 

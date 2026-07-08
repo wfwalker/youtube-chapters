@@ -5,6 +5,7 @@ episode_number: "176"
 date_string: "8/18/2023"
 date: 2023-08-18
 song_count: 9
+rerun: false
 youtube_url: "https://youtu.be/MIwLmoFc8Dk"
 ---
 

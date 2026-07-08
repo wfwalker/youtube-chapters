@@ -1,12 +1,12 @@
 ---
 layout: song
-title: "Close your Eyes"
+title: "Close your eyes"
 composer: "Berenice Petkere"
 style: "pop"
 play_count: 10
 ---
 
-# Close your Eyes
+# Close your eyes
 
 Played **10** times in the live shows.
 

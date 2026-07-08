@@ -5,6 +5,7 @@ episode_number: "53"
 date_string: "3/19/2021"
 date: 2021-03-19
 song_count: 8
+rerun: false
 youtube_url: "https://youtu.be/ZgfrgSTJNSo"
 ---
 

@@ -5,6 +5,7 @@ episode_number: "264"
 date_string: "7/18/2025"
 date: 2025-07-18
 song_count: 8
+rerun: false
 youtube_url: ""
 ---
 

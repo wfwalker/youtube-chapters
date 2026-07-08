@@ -5,6 +5,7 @@ episode_number: "199"
 date_string: "2/9/2024"
 date: 2024-02-09
 song_count: 8
+rerun: false
 youtube_url: "https://youtube.com/live/58Ubua0JmUU"
 ---
 

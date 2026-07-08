@@ -1,12 +1,12 @@
 ---
 layout: song
-title: "Some other time"
+title: "Some Other time"
 composer: ""
 style: ""
 play_count: 2
 ---
 
-# Some other time
+# Some Other time
 
 Played **2** times in the live shows.
 

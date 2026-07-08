@@ -4,7 +4,8 @@ title: "Episode 127 (8/19/2022)"
 episode_number: "127"
 date_string: "8/19/2022"
 date: 2022-08-19
-song_count: 16
+song_count: 8
+rerun: false
 youtube_url: "https://youtu.be/VXmjfiJz2ZM"
 ---
 
@@ -17,18 +18,10 @@ youtube_url: "https://youtu.be/VXmjfiJz2ZM"
 | # | Song | Time | Style | Notes |
 | --- | --- | --- | --- | --- |
 | 1 | [Bye Bye Blackbird]({{ '/songs/' | relative_url }}bye-bye-blackbird/) | [03:20](https://youtu.be/VXmjfiJz2ZM?t=200) |  | swingin'! done! |
-| 1 | [Bye Bye Blackbird]({{ '/songs/' | relative_url }}bye-bye-blackbird/) |  |  |  |
 | 2 | [Nardis]({{ '/songs/' | relative_url }}nardis/) | [08:47](https://youtu.be/VXmjfiJz2ZM?t=527) |  | done |
-| 2 | [Nardis]({{ '/songs/' | relative_url }}nardis/) |  |  |  |
 | 3 | [Close your eyes]({{ '/songs/' | relative_url }}close-your-eyes/) | [16:03](https://youtu.be/VXmjfiJz2ZM?t=963) |  | accordion too loud? more drums, more reverb |
-| 3 | [Close your eyes]({{ '/songs/' | relative_url }}close-your-eyes/) |  |  |  |
 | 4 | [Stolen Moments]({{ '/songs/' | relative_url }}stolen-moments/) | [22:30](https://youtu.be/VXmjfiJz2ZM?t=1350) |  |  |
-| 4 | [Stolen Moments]({{ '/songs/' | relative_url }}stolen-moments/) |  |  |  |
 | 5 | [Alberta]({{ '/songs/' | relative_url }}alberta/) | [29:52](https://youtu.be/VXmjfiJz2ZM?t=1792) |  | fix some drum fills |
-| 5 | [Alberta]({{ '/songs/' | relative_url }}alberta/) |  |  |  |
 | 6 | [O Cantador (Like a Lover)]({{ '/songs/' | relative_url }}o-cantador-like-a-lover/) | [37:30](https://youtu.be/VXmjfiJz2ZM?t=2250) |  |  |
-| 6 | [O Cantador (Like a Lover)]({{ '/songs/' | relative_url }}o-cantador-like-a-lover/) |  |  |  |
 | 7 | [Umbrella]({{ '/songs/' | relative_url }}umbrella/) | [45:54](https://youtu.be/VXmjfiJz2ZM?t=2754) |  | try Rock Drummer? bring up organ? horns? |
-| 7 | [Umbrella]({{ '/songs/' | relative_url }}umbrella/) |  |  |  |
 | 8 | [Closer Aug 19]({{ '/songs/' | relative_url }}closer-aug-19/) | [52:55](https://youtu.be/VXmjfiJz2ZM?t=3175) |  |  |
-| 8 | [Closer Aug 19]({{ '/songs/' | relative_url }}closer-aug-19/) |  |  |  |

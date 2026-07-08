@@ -5,6 +5,7 @@ episode_number: "184"
 date_string: "10/27/2023"
 date: 2023-10-27
 song_count: 8
+rerun: false
 youtube_url: "https://youtube.com/live/3TUXOsOjp-U"
 ---
 

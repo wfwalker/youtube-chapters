@@ -5,6 +5,7 @@ episode_number: "272"
 date_string: "9/19/2025"
 date: 2025-09-19
 song_count: 8
+rerun: false
 youtube_url: ""
 ---
 

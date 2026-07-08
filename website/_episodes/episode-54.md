@@ -5,6 +5,7 @@ episode_number: "54"
 date_string: "3/26/2021"
 date: 2021-03-26
 song_count: 8
+rerun: false
 youtube_url: "https://youtu.be/L9jDIlX7bjs"
 ---
 

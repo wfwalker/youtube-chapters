@@ -5,6 +5,7 @@ episode_number: "95"
 date_string: "1/7/2022"
 date: 2022-01-07
 song_count: 8
+rerun: false
 youtube_url: "https://youtu.be/lnzNHv36_sI"
 ---
 

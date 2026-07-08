@@ -1,12 +1,12 @@
 ---
 layout: song
-title: "Our love is here to stay"
+title: "Our Love is here to Stay"
 composer: "George Gerswin"
 style: ""
 play_count: 2
 ---
 
-# Our love is here to stay
+# Our Love is here to Stay
 
 Played **2** times in the live shows.
 

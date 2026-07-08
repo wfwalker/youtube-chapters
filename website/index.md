@@ -120,7 +120,7 @@ title: "All Songs"
 </style>
 
 <div class="hero-section">
-  <h1 class="hero-title">Live Show Song Index</h1>
+  <h1 class="hero-title">Songs</h1>
   <p class="hero-subtitle">Exploring all songs performed live by Bill Walker. Searchable log of show dates, styles, tempos, and performance notes.</p>
 </div>
 

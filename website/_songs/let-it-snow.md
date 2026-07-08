@@ -1,12 +1,12 @@
 ---
 layout: song
-title: "Let it Snow"
+title: "Let It Snow"
 composer: ""
 style: ""
 play_count: 2
 ---
 
-# Let it Snow
+# Let It Snow
 
 Played **2** times in the live shows.
 

@@ -5,6 +5,7 @@ episode_number: "98"
 date_string: "1/28/2022"
 date: 2022-01-28
 song_count: 8
+rerun: false
 youtube_url: "https://youtu.be/zEpV0UCl2es"
 ---
 

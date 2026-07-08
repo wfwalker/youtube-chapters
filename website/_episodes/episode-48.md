@@ -5,6 +5,7 @@ episode_number: "48"
 date_string: "2/12/2021"
 date: 2021-02-12
 song_count: 8
+rerun: false
 youtube_url: "https://youtu.be/qK4QPjXbR7g"
 ---
 

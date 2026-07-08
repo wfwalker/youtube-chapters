@@ -5,6 +5,7 @@ episode_number: "113"
 date_string: "5/13/2022"
 date: 2022-05-13
 song_count: 8
+rerun: false
 youtube_url: "https://youtu.be/nAFvdIaHBQc"
 ---
 

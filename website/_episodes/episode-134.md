@@ -5,6 +5,7 @@ episode_number: "134"
 date_string: "10/7/2022"
 date: 2022-10-07
 song_count: 8
+rerun: false
 youtube_url: "https://youtu.be/i_sLaxvBK_E"
 ---
 

@@ -5,6 +5,7 @@ episode_number: "58"
 date_string: "4/23/2021"
 date: 2021-04-23
 song_count: 7
+rerun: false
 youtube_url: "https://youtu.be/yYYl7DQc0K0"
 ---
 

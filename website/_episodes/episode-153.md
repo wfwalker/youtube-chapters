@@ -5,6 +5,7 @@ episode_number: "153"
 date_string: "3/10/2023"
 date: 2023-03-10
 song_count: 9
+rerun: false
 youtube_url: "https://youtube.com/live/4WWV1-H7mrQ"
 ---
 

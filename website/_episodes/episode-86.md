@@ -5,6 +5,7 @@ episode_number: "86"
 date_string: "11/5/2021"
 date: 2021-11-05
 song_count: 8
+rerun: false
 youtube_url: "https://youtu.be/iRH85IdbcpY"
 ---
 

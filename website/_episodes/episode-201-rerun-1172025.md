@@ -1,14 +1,15 @@
 ---
 layout: episode
-title: "Show (3/7/2025)"
-episode_number: ""
-date_string: "3/7/2025"
-date: 2025-03-07
+title: "Episode 201 (1/17/2025) (Rerun)"
+episode_number: "201"
+date_string: "1/17/2025"
+date: 2025-01-17
 song_count: 8
+rerun: true
 youtube_url: ""
 ---
 
-# Show (3/7/2025)
+# Episode 201 (1/17/2025) (Rerun)
 
 ### Set List
 

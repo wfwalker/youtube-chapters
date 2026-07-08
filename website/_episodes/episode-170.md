@@ -5,6 +5,7 @@ episode_number: "170"
 date_string: "7/7/2023"
 date: 2023-07-07
 song_count: 8
+rerun: false
 youtube_url: "https://youtube.com/live/V1eMn0Axslw"
 ---
 

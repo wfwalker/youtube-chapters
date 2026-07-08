@@ -5,6 +5,7 @@ episode_number: "96"
 date_string: "1/14/2022"
 date: 2022-01-14
 song_count: 8
+rerun: false
 youtube_url: "https://youtu.be/VAUYw5v0RiQ"
 ---
 

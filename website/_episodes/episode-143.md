@@ -5,6 +5,7 @@ episode_number: "143"
 date_string: "12/30/2022"
 date: 2022-12-30
 song_count: 9
+rerun: false
 youtube_url: "https://youtube.com/live/ayeY3t9WvGA"
 ---
 

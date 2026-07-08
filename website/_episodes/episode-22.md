@@ -5,6 +5,7 @@ episode_number: "22"
 date_string: "8/14/2020"
 date: 2020-08-14
 song_count: 6
+rerun: false
 youtube_url: "https://youtu.be/ngdgSgM8f3U"
 ---
 

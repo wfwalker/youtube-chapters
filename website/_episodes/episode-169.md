@@ -5,6 +5,7 @@ episode_number: "169"
 date_string: "6/30/2023"
 date: 2023-06-30
 song_count: 9
+rerun: false
 youtube_url: "https://youtube.com/live/mIqp0kq__Ck"
 ---
 

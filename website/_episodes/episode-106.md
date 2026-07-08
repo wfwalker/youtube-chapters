@@ -5,6 +5,7 @@ episode_number: "106"
 date_string: "3/25/2022"
 date: 2022-03-25
 song_count: 7
+rerun: false
 youtube_url: "https://youtu.be/-yO13Zr2O50"
 ---
 

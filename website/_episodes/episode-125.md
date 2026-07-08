@@ -5,6 +5,7 @@ episode_number: "125"
 date_string: "8/5/2022"
 date: 2022-08-05
 song_count: 8
+rerun: false
 youtube_url: "https://youtu.be/3bVGI3r8vCY"
 ---
 

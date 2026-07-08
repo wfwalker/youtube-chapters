@@ -5,6 +5,7 @@ episode_number: "187"
 date_string: "11/17/2023"
 date: 2023-11-17
 song_count: 8
+rerun: false
 youtube_url: ""
 ---
 

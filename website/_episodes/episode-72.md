@@ -5,6 +5,7 @@ episode_number: "72"
 date_string: "7/30/2021"
 date: 2021-07-30
 song_count: 8
+rerun: false
 youtube_url: "https://youtu.be/SFHGArSt8qo"
 ---
 

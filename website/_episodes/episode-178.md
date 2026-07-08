@@ -5,6 +5,7 @@ episode_number: "178"
 date_string: "9/1/2023"
 date: 2023-09-01
 song_count: 8
+rerun: false
 youtube_url: "https://youtu.be/zxhyx-uWlJQ"
 ---
 

@@ -5,6 +5,7 @@ episode_number: "4"
 date_string: "4/10/2020"
 date: 2020-04-10
 song_count: 6
+rerun: false
 youtube_url: "https://youtu.be/a4UEJSQN9Zw"
 ---
 
