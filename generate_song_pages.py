@@ -273,407 +273,53 @@ Played **{count}** times in the live shows.
         return x["title"].lower(), parse_perf_date_key(x)
     one_offs_performances.sort(key=parse_one_off_key)
     
-    # 2. Generate website/one-off-songs.md
-    one_offs_path = "/Users/walker/Dropbox/youtube-chapters/website/one-off-songs.md"
-    
-    unique_styles = sorted(list(set(song["style"] for song in one_offs_performances if song["style"])))
-    style_options = "\n      ".join(f'<option value="{style.lower()}">{style}</option>' for style in unique_styles)
-    
-    table_rows = ""
-    for song in one_offs_performances:
-        date_parts = song["date"].split('/')
-        date_sort_key = "2000-01-01"
-        if len(date_parts) == 3:
-            try:
-                date_sort_key = f"{int(date_parts[2]):04d}-{int(date_parts[0]):02d}-{int(date_parts[1]):02d}"
-            except ValueError:
-                pass
+    # 2. Write one-offs performances structured YAML feed
+    one_offs_perf_path = os.path.join(data_dir, "one_offs_performances.yml")
+    with open(one_offs_perf_path, mode='w', encoding='utf-8') as f:
+        for song in one_offs_performances:
+            title_esc = song["title"].replace('"', '\\"')
+            comp_esc = song["composer"].replace('"', '\\"')
+            style_esc = song["style"].replace('"', '\\"')
+            notes_esc = song["notes"].replace('"', '\\"')
+            
+            # Calculate episode slug and title properties
+            epi = song["episode"]
+            date = song["date"]
+            if not date and epi in canonical_dates:
+                date = canonical_dates[epi]
                 
-        try:
-            # Strip non-digits from episode (e.g. 299D -> 299)
-            epi_digits = re.sub(r'\D', '', song["episode"])
-            epi_sort_key = int(epi_digits) if epi_digits else 9999
-        except ValueError:
-            epi_sort_key = 9999
+            epi_title = "Show"
+            epi_slug = ""
+            if date:
+                if epi:
+                    is_rerun = (epi, date) in rerun_keys
+                    if is_rerun:
+                        epi_slug = f"episode-{slugify(epi)}-rerun-{slugify(date)}"
+                        epi_title = f"#{epi} (Rerun)"
+                    else:
+                        epi_slug = f"episode-{slugify(epi)}"
+                        epi_title = f"#{epi}"
+                else:
+                    epi_slug = f"show-{slugify(date)}"
+                    epi_title = "Show"
+            elif epi:
+                epi_title = f"#{epi}"
+                
+            f.write(f"- title: \"{title_esc}\"\n")
+            f.write(f"  slug: \"{song['slug']}\"\n")
+            f.write(f"  composer: \"{comp_esc}\"\n")
+            f.write(f"  style: \"{style_esc}\"\n")
+            f.write(f"  date: \"{date}\"\n")
+            f.write(f"  url: \"{song['url']}\"\n")
+            f.write(f"  episode: \"{epi}\"\n")
+            f.write(f"  episode_slug: \"{epi_slug}\"\n")
+            f.write(f"  episode_title: \"{epi_title}\"\n")
+            f.write(f"  tempo: \"{song['tempo']}\"\n")
+            f.write(f"  notes: \"{notes_esc}\"\n")
             
-        title_tag = f'<span id="{song["slug"]}"><strong>{song["title"]}</strong></span>'
-        if song["composer"]:
-            title_tag += f'<br><small style="color:var(--text-secondary);">by {song["composer"]}</small>'
-            
-        date_link = f'<a href="{song["url"]}" target="_blank" class="song-title-link" onclick="event.stopPropagation();">{song["date"]}</a>' if song["url"] else song["date"]
-        epi_link = get_episode_link(song["episode"], song["date"], rerun_keys, canonical_dates)
-        
-        style_badge = f'<span class="badge-style">{song["style"]}</span>' if song["style"] else "-"
-        tempo_val = song["tempo"] if song["tempo"] else "-"
-        notes_val = song["notes"] if song["notes"] else ""
-        
-        title_esc = song["title"].lower().replace('"', '&quot;')
-        composer_esc = song["composer"].lower().replace('"', '&quot;')
-        style_esc = song["style"].lower().replace('"', '&quot;')
-        
-        table_rows += f"""        <tr class="song-row"
-            data-title="{title_esc}"
-            data-composer="{composer_esc}"
-            data-style="{style_esc}"
-            data-date="{date_sort_key}"
-            data-episode="{epi_sort_key}"
-            data-tempo="{tempo_val}">
-          <td>{title_tag}</td>
-          <td>{date_link}</td>
-          <td>{epi_link}</td>
-          <td>{style_badge}</td>
-          <td style="text-align: right;">{tempo_val}</td>
-          <td>{notes_val}</td>
-        </tr>
-"""
-        
-    one_offs_md_template = """---
-layout: default
-title: "One-Off Songs"
----
-
-<style>
-  .hero-section {
-    text-align: center;
-    margin-bottom: 3rem;
-    padding: 3rem 1rem;
-  }
-  
-  .hero-title {
-    font-family: 'Outfit', sans-serif;
-    font-weight: 800;
-    font-size: 3.5rem;
-    margin: 0 0 1rem 0;
-    background: var(--accent-gradient);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    letter-spacing: -0.03em;
-    line-height: 1.1;
-  }
-  
-  .hero-subtitle {
-    color: var(--text-secondary);
-    font-size: 1.2rem;
-    max-width: 600px;
-    margin: 0 auto;
-    font-weight: 400;
-  }
-  
-  /* Filter Container Styles */
-  .search-filter-container {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    gap: 1.5rem;
-    margin-bottom: 2.5rem;
-    flex-wrap: wrap;
-  }
-  
-  .search-wrapper {
-    position: relative;
-    flex: 1;
-    min-width: 300px;
-  }
-  
-  .search-icon {
-    position: absolute;
-    left: 1.2rem;
-    top: 50%;
-    transform: translateY(-50%);
-    color: var(--text-secondary);
-    font-size: 1.1rem;
-    pointer-events: none;
-  }
-  
-  #songSearch {
-    width: 100%;
-    padding: 0.85rem 1rem 0.85rem 2.8rem;
-    background: var(--card-bg);
-    border: 1px solid var(--border-color);
-    border-radius: 14px;
-    color: var(--text-primary);
-    font-family: inherit;
-    font-size: 0.95rem;
-    outline: none;
-    box-sizing: border-box;
-    transition: all 0.2s ease;
-    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
-  }
-  
-  #songSearch:focus {
-    border-color: var(--accent-color);
-    box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.15), 0 4px 20px rgba(0, 0, 0, 0.1);
-  }
-  
-  .filters-wrapper {
-    display: flex;
-    gap: 1rem;
-    flex-wrap: wrap;
-  }
-  
-  .filters-wrapper select {
-    padding: 0.85rem 1.2rem;
-    background: var(--card-bg);
-    border: 1px solid var(--border-color);
-    border-radius: 14px;
-    color: var(--text-primary);
-    font-family: inherit;
-    font-size: 0.95rem;
-    outline: none;
-    cursor: pointer;
-    transition: all 0.2s ease;
-    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
-  }
-  
-  .filters-wrapper select:focus {
-    border-color: var(--accent-color);
-  }
-  
-  /* Table Grid Card Styles */
-  .songs-table-container {
-    overflow-x: auto;
-    margin-bottom: 5rem;
-  }
-  
-  .songs-table {
-    width: 100%;
-    border-collapse: separate;
-    border-spacing: 0 12px;
-  }
-  
-  .songs-table th {
-    text-align: left;
-    color: var(--text-secondary);
-    font-weight: 600;
-    font-size: 0.8rem;
-    text-transform: uppercase;
-    letter-spacing: 0.08em;
-    padding: 0.5rem 1.5rem;
-    border: none;
-  }
-  
-  .songs-table th.sortable {
-    cursor: pointer;
-    user-select: none;
-    transition: color 0.15s ease;
-  }
-  
-  .songs-table th.sortable:hover {
-    color: var(--text-primary);
-  }
-  
-  .songs-table th.active-sort {
-    color: var(--accent-hover);
-  }
-  
-  .sort-icon {
-    font-size: 0.75rem;
-    display: inline-block;
-    width: 12px;
-  }
-  
-  .song-row {
-    transition: transform 0.2s cubic-bezier(0.16, 1, 0.3, 1);
-  }
-  
-  .song-row td {
-    background: var(--card-bg);
-    border-top: 1px solid var(--border-color);
-    border-bottom: 1px solid var(--border-color);
-    padding: 1.3rem 1.5rem;
-    color: var(--text-primary);
-    transition: all 0.2s ease;
-  }
-  
-  .song-row td:first-child {
-    border-left: 1px solid var(--border-color);
-    border-top-left-radius: 16px;
-    border-bottom-left-radius: 16px;
-  }
-  
-  .song-row td:last-child {
-    border-right: 1px solid var(--border-color);
-    border-top-right-radius: 16px;
-    border-bottom-right-radius: 16px;
-  }
-  
-  /* Hover effects */
-  .song-row:hover td {
-    background: rgba(255, 255, 255, 0.03);
-    border-color: var(--accent-color);
-    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
-  }
-  
-  .song-row:hover {
-    transform: translateY(-2px);
-  }
-  
-  .song-title-link {
-    font-weight: 600;
-    color: var(--accent-hover);
-    text-decoration: none;
-    transition: color 0.15s ease;
-  }
-  
-  .song-title-link:hover {
-    color: var(--text-primary);
-    text-decoration: underline;
-  }
-  
-  .badge-style {
-    background-color: rgba(255, 255, 255, 0.04);
-    padding: 0.25rem 0.65rem;
-    border-radius: 6px;
-    font-size: 0.78rem;
-    text-transform: capitalize;
-    border: 1px solid rgba(255, 255, 255, 0.04);
-  }
-</style>
-
-<div class="hero-section">
-  <h1 class="hero-title">One-Off Songs</h1>
-  <p class="hero-subtitle">These are the unique performances, modular synth improvisations, and special requests played exactly once.</p>
-</div>
-
-<div class="search-filter-container">
-  <div class="search-wrapper">
-    <span class="search-icon">🔍</span>
-    <input type="text" id="songSearch" placeholder="Search by song name, composer, style, or notes...">
-  </div>
-  
-  <div class="filters-wrapper">
-    <select id="styleFilter">
-      <option value="">All Styles</option>
-      __STYLE_OPTIONS__
-    </select>
-  </div>
-</div>
-
-<div class="songs-table-container">
-  <table class="songs-table">
-    <thead>
-      <tr>
-        <th class="sortable" data-sort="title">Song <span class="sort-icon"> ▲</span></th>
-        <th class="sortable" data-sort="date" data-default="desc">Date <span class="sort-icon"></span></th>
-        <th class="sortable" data-sort="episode">Episode <span class="sort-icon"></span></th>
-        <th class="sortable" data-sort="style">Style <span class="sort-icon"></span></th>
-        <th class="sortable" data-sort="tempo" data-default="desc" style="text-align: right; width: 90px;">Tempo <span class="sort-icon"></span></th>
-        <th>Notes</th>
-      </tr>
-    </thead>
-    <tbody id="songsTableBody">
-__TABLE_ROWS__    </tbody>
-  </table>
-</div>
-
-<script>
-  document.addEventListener('DOMContentLoaded', function() {
-    const searchInput = document.getElementById('songSearch');
-    const styleFilter = document.getElementById('styleFilter');
-    const tableBody = document.getElementById('songsTableBody');
-    const rows = Array.from(tableBody.querySelectorAll('.song-row'));
-    const headers = document.querySelectorAll('.songs-table th.sortable');
-    
-    let currentSort = {
-      key: 'title',
-      direction: 'asc'
-    };
-    
-    headers.forEach(h => {
-      if (h.getAttribute('data-sort') === 'title') {
-        h.classList.add('active-sort');
-      }
-    });
-    
-    function filterTable() {
-      const searchQuery = searchInput.value.toLowerCase().trim();
-      const selectedStyle = styleFilter.value;
-      
-      rows.forEach(row => {
-        const title = row.getAttribute('data-title');
-        const composer = row.getAttribute('data-composer');
-        const style = row.getAttribute('data-style');
-        const notes = row.textContent.toLowerCase();
-        
-        const matchesSearch = !searchQuery || 
-                              title.includes(searchQuery) || 
-                              composer.includes(searchQuery) || 
-                              style.includes(searchQuery) ||
-                              notes.includes(searchQuery);
-                              
-        const matchesStyle = !selectedStyle || style === selectedStyle;
-        
-        if (matchesSearch && matchesStyle) {
-          row.style.display = '';
-        } else {
-          row.style.display = 'none';
-        }
-      });
-    }
-    
-    function sortTable(key, defaultDir = 'asc') {
-      let direction = 'asc';
-      if (currentSort.key === key) {
-        direction = currentSort.direction === 'asc' ? 'desc' : 'asc';
-      } else {
-        direction = defaultDir;
-      }
-      
-      currentSort = { key, direction };
-      
-      headers.forEach(h => {
-        const icon = h.querySelector('.sort-icon');
-        const hKey = h.getAttribute('data-sort');
-        if (hKey === key) {
-          icon.textContent = direction === 'asc' ? ' ▲' : ' ▼';
-          h.classList.add('active-sort');
-        } else {
-          icon.textContent = '';
-          h.classList.remove('active-sort');
-        }
-      });
-      
-      const sortedRows = rows.sort((a, b) => {
-        let valA = a.getAttribute(`data-${key}`);
-        let valB = b.getAttribute(`data-${key}`);
-        
-        if (key === 'tempo' || key === 'episode') {
-          valA = parseInt(valA) || 0;
-          valB = parseInt(valB) || 0;
-          return direction === 'asc' ? valA - valB : valB - valA;
-        } else if (key === 'date') {
-          return direction === 'asc' ? valA.localeCompare(valB) : valB.localeCompare(valA);
-        } else {
-          return direction === 'asc' ? valA.localeCompare(valB) : valB.localeCompare(valA);
-        }
-      });
-      
-      sortedRows.forEach(row => tableBody.appendChild(row));
-    }
-    
-    searchInput.addEventListener('input', filterTable);
-    styleFilter.addEventListener('change', filterTable);
-    
-    headers.forEach(header => {
-      const key = header.getAttribute('data-sort');
-      const defaultDir = header.getAttribute('data-default') || 'asc';
-      header.addEventListener('click', () => sortTable(key, defaultDir));
-    });
-  });
-</script>
-"""
-    
-    one_offs_md = one_offs_md_template.replace("__STYLE_OPTIONS__", style_options).replace("__TABLE_ROWS__", table_rows)
-
-    with open(one_offs_path, mode='w', encoding='utf-8') as f:
-        f.write(one_offs_md)
-        
-    # 3. Generate website/_data/one_offs.yml
+    # 3. Generate website/_data/one_offs.yml summary feed for home page
     yaml_path = os.path.join(data_dir, "one_offs.yml")
-    
-    # Sort the unique one-offs alphabetically for the index
     sorted_one_offs_meta = sorted(one_offs_meta.items(), key=lambda x: x[1]["title"].lower())
-    
     with open(yaml_path, mode='w', encoding='utf-8') as f:
         for slug, meta in sorted_one_offs_meta:
             title_esc = meta["title"].replace('"', '\\"')
@@ -686,7 +332,7 @@ __TABLE_ROWS__    </tbody>
             f.write(f"  play_count: {meta['play_count']}\n")
             
     print(f"Generated {multi_play_count} individual Hall of Fame song pages.")
-    print(f"Consolidated {len(one_offs_performances)} performances of {len(one_offs_meta)} unique non-rotation songs into website/one-offs.md and website/_data/one_offs.yml.")
+    print(f"Consolidated {len(one_offs_performances)} performances of {len(one_offs_meta)} unique non-rotation songs into website/_data/one_offs_performances.yml and website/_data/one_offs.yml.")
 
 if __name__ == "__main__":
     hof = read_hall_of_fame(hof_csv_path)

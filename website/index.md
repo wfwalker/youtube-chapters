@@ -143,14 +143,14 @@ title: "Friday Jazz Happy Hour Archive"
     <span class="nav-card-action">View Episodes &rarr;</span>
   </a>
 
-  <a href="{{ '/regular-songs.html' | relative_url }}" class="nav-card">
+  <a href="{{ '/hall-of-fame.html' | relative_url }}" class="nav-card">
     <div class="nav-card-header">
-      <span class="nav-card-icon">🎹</span>
+      <span class="nav-card-icon">🎷</span>
       <span class="nav-card-stat">{{ site.songs | size }}</span>
     </div>
-    <h3 class="nav-card-title">Regular Songs</h3>
+    <h3 class="nav-card-title">Hall of Fame</h3>
     <p class="nav-card-description">Browse the core catalog of jazz standards, ballads, and originals that form the regular rotation (Hall of Fame) of the live streams.</p>
-    <span class="nav-card-action">View Songs &rarr;</span>
+    <span class="nav-card-action">View Hall of Fame &rarr;</span>
   </a>
 
   <a href="{{ '/one-off-songs.html' | relative_url }}" class="nav-card">

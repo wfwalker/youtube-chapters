@@ -1,8 +1,6 @@
 ---
 layout: default
-title: "Regular Rotation Songs"
 ---
-
 <style>
   .hero-section {
     text-align: center;
@@ -144,7 +142,6 @@ title: "Regular Rotation Songs"
   }
   
   .song-row {
-    cursor: pointer;
     transition: transform 0.2s cubic-bezier(0.16, 1, 0.3, 1);
   }
   
@@ -200,39 +197,23 @@ title: "Regular Rotation Songs"
     text-transform: capitalize;
     border: 1px solid rgba(255, 255, 255, 0.04);
   }
-  
-  .badge-count {
-    color: var(--accent-hover);
-    font-weight: 600;
-    font-size: 0.9rem;
-  }
-  
-  .ready-stars {
-    color: #fbbf24;
-    font-size: 0.9rem;
-    letter-spacing: 0.05em;
-  }
-  
-  .star-empty {
-    color: rgba(255, 255, 255, 0.12);
-  }
 </style>
 
 <div class="hero-section">
-  <h1 class="hero-title">Regular Songs</h1>
-  <p class="hero-subtitle">The core catalog of jazz standards, ballads, and originals that form the regular rotation of the live streams.</p>
+  <h1 class="hero-title">One-Off Songs</h1>
+  <p class="hero-subtitle">These are the unique performances, modular synth improvisations, and special requests played exactly once.</p>
 </div>
 
 <div class="search-filter-container">
   <div class="search-wrapper">
     <span class="search-icon">🔍</span>
-    <input type="text" id="songSearch" placeholder="Search by song name, composer, or style...">
+    <input type="text" id="songSearch" placeholder="Search by song name, composer, style, or notes...">
   </div>
   
   <div class="filters-wrapper">
     <select id="styleFilter">
       <option value="">All Styles</option>
-      {% assign unique_styles = site.songs | map: 'style' | uniq | sort %}
+      {% assign unique_styles = site.data.one_offs_performances | map: 'style' | uniq | sort %}
       {% for style in unique_styles %}
         {% if style and style != "" %}
           <option value="{{ style | downcase }}">{{ style }}</option>
@@ -246,27 +227,57 @@ title: "Regular Rotation Songs"
   <table class="songs-table">
     <thead>
       <tr>
-        <th class="sortable" data-sort="title">Song Name <span class="sort-icon"> ▲</span></th>
-        <th class="sortable" data-sort="composer">Composer <span class="sort-icon"></span></th>
+        <th class="sortable" data-sort="title">Song <span class="sort-icon"> ▲</span></th>
+        <th class="sortable" data-sort="date" data-default="desc">Date <span class="sort-icon"></span></th>
+        <th class="sortable" data-sort="episode">Episode <span class="sort-icon"></span></th>
         <th class="sortable" data-sort="style">Style <span class="sort-icon"></span></th>
-        <th class="sortable" data-sort="plays" data-default="desc" style="text-align: right;">Plays <span class="sort-icon"></span></th>
-        <th class="sortable" data-sort="ready" data-default="desc" style="text-align: right; width: 120px;">Readiness <span class="sort-icon"></span></th>
+        <th class="sortable" data-sort="tempo" data-default="desc" style="text-align: right; width: 90px;">Tempo <span class="sort-icon"></span></th>
+        <th>Notes</th>
       </tr>
     </thead>
     <tbody id="songsTableBody">
-      {% assign sorted_songs = site.songs | sort: "title" %}
-      {% for song in sorted_songs %}
-        <tr class="song-row" 
-            data-title="{{ song.title | escape | downcase }}" 
-            data-composer="{{ song.composer | escape | downcase }}" 
-            data-style="{{ song.style | escape | downcase }}" 
-            data-plays="{{ song.play_count }}" 
-            data-ready="{{ song.ready_rating | default: 0 }}"
-            onclick="window.location='{{ song.url | relative_url }}'">
+      {% for song in site.data.one_offs_performances %}
+        {% assign date_parts = song.date | split: '/' %}
+        {% assign date_sort_key = "2000-01-01" %}
+        {% if date_parts.size == 3 %}
+          {% assign m = date_parts[0] | plus: 0 %}
+          {% assign d = date_parts[1] | plus: 0 %}
+          {% assign y = date_parts[2] | plus: 0 %}
+          {% capture date_sort_key %}{{ y }}-{% if m < 10 %}0{% endif %}{{ m }}-{% if d < 10 %}0{% endif %}{{ d }}{% endcapture %}
+        {% endif %}
+        
+        {% assign epi_sort_key = song.episode | replace: 'D', '' | replace: 'd', '' | plus: 0 %}
+        {% if epi_sort_key == 0 %}
+          {% assign epi_sort_key = 9999 %}
+        {% endif %}
+
+        <tr class="song-row"
+            data-title="{{ song.title | escape | downcase }}"
+            data-composer="{{ song.composer | escape | downcase }}"
+            data-style="{{ song.style | escape | downcase }}"
+            data-date="{{ date_sort_key }}"
+            data-episode="{{ epi_sort_key }}"
+            data-tempo="{{ song.tempo | default: 0 }}">
           <td>
-            <a href="{{ song.url | relative_url }}" class="song-title-link" onclick="event.stopPropagation();">{{ song.title }}</a>
+            <span id="{{ song.slug }}"><strong>{{ song.title }}</strong></span>
+            {% if song.composer and song.composer != "" %}
+              <br><small style="color:var(--text-secondary);">by {{ song.composer }}</small>
+            {% endif %}
           </td>
-          <td>{{ song.composer | default: "-" }}</td>
+          <td>
+            {% if song.url and song.url != "" %}
+              <a href="{{ song.url }}" target="_blank" class="song-title-link" onclick="event.stopPropagation();">{{ song.date }}</a>
+            {% else %}
+              {{ song.date }}
+            {% endif %}
+          </td>
+          <td>
+            {% if song.episode_slug and song.episode_slug != "" %}
+              <a href="{{ '/episodes/' | relative_url }}{{ song.episode_slug }}/" onclick="event.stopPropagation();">{{ song.episode_title }}</a>
+            {% else %}
+              {{ song.episode_title }}
+            {% endif %}
+          </td>
           <td>
             {% if song.style and song.style != "" %}
               <span class="badge-style">{{ song.style }}</span>
@@ -274,23 +285,8 @@ title: "Regular Rotation Songs"
               -
             {% endif %}
           </td>
-          <td style="text-align: right;">
-            <span class="badge-count">{{ song.play_count }}x</span>
-          </td>
-          <td style="text-align: right;">
-            <div class="ready-stars">
-              {% assign rating = song.ready_rating | plus: 0 %}
-              {% if rating > 0 %}
-                {% for i in (1..rating) %}★{% endfor %}
-                {% assign empty_stars = 5 | minus: rating %}
-                {% if empty_stars > 0 %}
-                  {% for i in (1..empty_stars) %}<span class="star-empty">☆</span>{% endfor %}
-                {% endif %}
-              {% else %}
-                -
-              {% endif %}
-            </div>
-          </td>
+          <td style="text-align: right;">{{ song.tempo | default: "-" }}</td>
+          <td>{{ song.notes }}</td>
         </tr>
       {% endfor %}
     </tbody>
@@ -310,7 +306,6 @@ title: "Regular Rotation Songs"
       direction: 'asc'
     };
     
-    // Initialize active sort header styling
     headers.forEach(h => {
       if (h.getAttribute('data-sort') === 'title') {
         h.classList.add('active-sort');
@@ -325,11 +320,13 @@ title: "Regular Rotation Songs"
         const title = row.getAttribute('data-title');
         const composer = row.getAttribute('data-composer');
         const style = row.getAttribute('data-style');
+        const notes = row.textContent.toLowerCase();
         
         const matchesSearch = !searchQuery || 
                               title.includes(searchQuery) || 
                               composer.includes(searchQuery) || 
-                              style.includes(searchQuery);
+                              style.includes(searchQuery) ||
+                              notes.includes(searchQuery);
                               
         const matchesStyle = !selectedStyle || style === selectedStyle;
         
@@ -351,7 +348,6 @@ title: "Regular Rotation Songs"
       
       currentSort = { key, direction };
       
-      // Update header icons
       headers.forEach(h => {
         const icon = h.querySelector('.sort-icon');
         const hKey = h.getAttribute('data-sort');
@@ -364,25 +360,24 @@ title: "Regular Rotation Songs"
         }
       });
       
-      // Perform sort
       const sortedRows = rows.sort((a, b) => {
         let valA = a.getAttribute(`data-${key}`);
         let valB = b.getAttribute(`data-${key}`);
         
-        if (key === 'plays' || key === 'ready') {
+        if (key === 'tempo' || key === 'episode') {
           valA = parseInt(valA) || 0;
           valB = parseInt(valB) || 0;
           return direction === 'asc' ? valA - valB : valB - valA;
+        } else if (key === 'date') {
+          return direction === 'asc' ? valA.localeCompare(valB) : valB.localeCompare(valA);
         } else {
           return direction === 'asc' ? valA.localeCompare(valB) : valB.localeCompare(valA);
         }
       });
       
-      // Re-append in sorted order
       sortedRows.forEach(row => tableBody.appendChild(row));
     }
     
-    // Add event listeners
     searchInput.addEventListener('input', filterTable);
     styleFilter.addEventListener('change', filterTable);
     
