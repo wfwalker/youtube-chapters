@@ -119,6 +119,11 @@ layout: default
     display: block;
     object-fit: cover;
   }
+  .nav-btn:hover {
+    border-color: var(--accent-color) !important;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 20px rgba(59, 130, 246, 0.1);
+  }
 </style>
 
 <div class="episode-header">
@@ -167,3 +172,25 @@ layout: default
 <div class="setlist-card">
   {{ content }}
 </div>
+
+{% if page.previous or page.next %}
+  <div class="episode-navigation" style="display: flex; justify-content: space-between; margin-top: 3rem; gap: 1rem;">
+    {% if page.previous %}
+      <a href="{{ page.previous.url | relative_url }}" class="nav-btn prev-btn" style="display: flex; flex-direction: column; align-items: flex-start; text-decoration: none; padding: 1rem 1.5rem; background: var(--card-bg); border: 1px solid var(--border-color); border-radius: 12px; transition: all 0.2s ease; width: 48%; box-sizing: border-box;">
+        <span style="font-size: 0.8rem; color: var(--text-secondary); text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 0.3rem;">&larr; Previous Show</span>
+        <span style="font-size: 0.95rem; font-weight: 600; color: var(--accent-hover); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; width: 100%;">{{ page.previous.title }}</span>
+      </a>
+    {% else %}
+      <div style="width: 48%;"></div>
+    {% endif %}
+
+    {% if page.next %}
+      <a href="{{ page.next.url | relative_url }}" class="nav-btn next-btn" style="display: flex; flex-direction: column; align-items: flex-end; text-decoration: none; padding: 1rem 1.5rem; background: var(--card-bg); border: 1px solid var(--border-color); border-radius: 12px; transition: all 0.2s ease; width: 48%; box-sizing: border-box; text-align: right;">
+        <span style="font-size: 0.8rem; color: var(--text-secondary); text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 0.3rem;">Next Show &rarr;</span>
+        <span style="font-size: 0.95rem; font-weight: 600; color: var(--accent-hover); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; width: 100%;">{{ page.next.title }}</span>
+      </a>
+    {% else %}
+      <div style="width: 48%;"></div>
+    {% endif %}
+  </div>
+{% endif %}
