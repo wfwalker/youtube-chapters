@@ -6,7 +6,7 @@ title: "Regular Rotation Songs"
 <style>
   .hero-section {
     text-align: center;
-    margin-bottom: 4rem;
+    margin-bottom: 3rem;
     padding: 3rem 1rem;
   }
   
@@ -30,92 +30,191 @@ title: "Regular Rotation Songs"
     font-weight: 400;
   }
   
-  .grid-header {
+  /* Filter Container Styles */
+  .search-filter-container {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-bottom: 2rem;
-    border-bottom: 1px solid var(--border-color);
-    padding-bottom: 1rem;
-  }
-  
-  .grid-title {
-    font-family: 'Outfit', sans-serif;
-    font-size: 1.6rem;
-    font-weight: 600;
-    margin: 0;
-    letter-spacing: -0.01em;
-  }
-  
-  .songs-list {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
     gap: 1.5rem;
+    margin-bottom: 2.5rem;
+    flex-wrap: wrap;
   }
   
-  .song-card {
+  .search-wrapper {
+    position: relative;
+    flex: 1;
+    min-width: 300px;
+  }
+  
+  .search-icon {
+    position: absolute;
+    left: 1.2rem;
+    top: 50%;
+    transform: translateY(-50%);
+    color: var(--text-secondary);
+    font-size: 1.1rem;
+    pointer-events: none;
+  }
+  
+  #songSearch {
+    width: 100%;
+    padding: 0.85rem 1rem 0.85rem 2.8rem;
     background: var(--card-bg);
     border: 1px solid var(--border-color);
-    border-radius: 16px;
-    padding: 1.6rem;
-    text-decoration: none;
+    border-radius: 14px;
     color: var(--text-primary);
-    transition: transform 0.2s cubic-bezier(0.16, 1, 0.3, 1), border-color 0.2s ease, box-shadow 0.2s ease;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    min-height: 90px;
-    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
-    backdrop-filter: blur(8px);
-    -webkit-backdrop-filter: blur(8px);
+    font-family: inherit;
+    font-size: 0.95rem;
+    outline: none;
+    box-sizing: border-box;
+    transition: all 0.2s ease;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
   }
   
-  .song-card:hover {
-    transform: translateY(-5px);
+  #songSearch:focus {
     border-color: var(--accent-color);
-    box-shadow: 0 10px 30px rgba(59, 130, 246, 0.15);
+    box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.15), 0 4px 20px rgba(0, 0, 0, 0.1);
   }
   
-  .card-top {
-    margin-bottom: 1rem;
-  }
-  
-  .card-title {
-    font-family: 'Outfit', sans-serif;
-    font-size: 1.3rem;
-    font-weight: 600;
-    margin: 0 0 0.4rem 0;
-    letter-spacing: -0.01em;
-    line-height: 1.25;
-  }
-  
-  .card-composer {
-    color: var(--text-secondary);
-    font-size: 0.85rem;
-  }
-  
-  .card-meta {
-    color: var(--text-secondary);
-    font-size: 0.85rem;
+  .filters-wrapper {
     display: flex;
-    justify-content: space-between;
-    align-items: center;
-    border-top: 1px solid rgba(255, 255, 255, 0.04);
-    padding-top: 0.8rem;
+    gap: 1rem;
+    flex-wrap: wrap;
+  }
+  
+  .filters-wrapper select {
+    padding: 0.85rem 1.2rem;
+    background: var(--card-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 14px;
+    color: var(--text-primary);
+    font-family: inherit;
+    font-size: 0.95rem;
+    outline: none;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  }
+  
+  .filters-wrapper select:focus {
+    border-color: var(--accent-color);
+  }
+  
+  /* Table Grid Card Styles */
+  .songs-table-container {
+    overflow-x: auto;
+    margin-bottom: 5rem;
+  }
+  
+  .songs-table {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0 12px;
+  }
+  
+  .songs-table th {
+    text-align: left;
+    color: var(--text-secondary);
+    font-weight: 600;
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    padding: 0.5rem 1.5rem;
+    border: none;
+  }
+  
+  .songs-table th.sortable {
+    cursor: pointer;
+    user-select: none;
+    transition: color 0.15s ease;
+  }
+  
+  .songs-table th.sortable:hover {
+    color: var(--text-primary);
+  }
+  
+  .songs-table th.active-sort {
+    color: var(--accent-hover);
+  }
+  
+  .sort-icon {
+    font-size: 0.75rem;
+    display: inline-block;
+    width: 12px;
+  }
+  
+  .song-row {
+    cursor: pointer;
+    transition: transform 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+  }
+  
+  .song-row td {
+    background: var(--card-bg);
+    border-top: 1px solid var(--border-color);
+    border-bottom: 1px solid var(--border-color);
+    padding: 1.3rem 1.5rem;
+    color: var(--text-primary);
+    transition: all 0.2s ease;
+  }
+  
+  .song-row td:first-child {
+    border-left: 1px solid var(--border-color);
+    border-top-left-radius: 16px;
+    border-bottom-left-radius: 16px;
+  }
+  
+  .song-row td:last-child {
+    border-right: 1px solid var(--border-color);
+    border-top-right-radius: 16px;
+    border-bottom-right-radius: 16px;
+  }
+  
+  /* Hover effects */
+  .song-row:hover td {
+    background: rgba(255, 255, 255, 0.03);
+    border-color: var(--accent-color);
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  }
+  
+  .song-row:hover {
+    transform: translateY(-2px);
+  }
+  
+  .song-title-link {
+    font-weight: 600;
+    color: var(--accent-hover);
+    text-decoration: none;
+    transition: color 0.15s ease;
+  }
+  
+  .song-title-link:hover {
+    color: var(--text-primary);
+    text-decoration: underline;
   }
   
   .badge-style {
     background-color: rgba(255, 255, 255, 0.04);
-    padding: 0.2rem 0.6rem;
+    padding: 0.25rem 0.65rem;
     border-radius: 6px;
-    font-size: 0.75rem;
+    font-size: 0.78rem;
     text-transform: capitalize;
+    border: 1px solid rgba(255, 255, 255, 0.04);
   }
   
   .badge-count {
     color: var(--accent-hover);
     font-weight: 600;
-    font-size: 0.85rem;
+    font-size: 0.9rem;
+  }
+  
+  .ready-stars {
+    color: #fbbf24;
+    font-size: 0.9rem;
+    letter-spacing: 0.05em;
+  }
+  
+  .star-empty {
+    color: rgba(255, 255, 255, 0.12);
   }
 </style>
 
@@ -124,28 +223,173 @@ title: "Regular Rotation Songs"
   <p class="hero-subtitle">The core catalog of jazz standards, ballads, and originals that form the regular rotation of the live streams.</p>
 </div>
 
-<div class="grid-header">
-  <h2 class="grid-title">Regular Rotation Songs ({{ site.songs | size }})</h2>
+<div class="search-filter-container">
+  <div class="search-wrapper">
+    <span class="search-icon">🔍</span>
+    <input type="text" id="songSearch" placeholder="Search by song name, composer, or style...">
+  </div>
+  
+  <div class="filters-wrapper">
+    <select id="styleFilter">
+      <option value="">All Styles</option>
+      {% assign unique_styles = site.songs | map: 'style' | uniq | sort %}
+      {% for style in unique_styles %}
+        {% if style and style != "" %}
+          <option value="{{ style | downcase }}">{{ style }}</option>
+        {% endif %}
+      {% endfor %}
+    </select>
+  </div>
 </div>
 
-<div class="songs-list">
-  {% assign sorted_songs = site.songs | sort: "play_count" | reverse %}
-  {% for song in sorted_songs %}
-    <a href="{{ song.url | relative_url }}" class="song-card">
-      <div class="card-top">
-        <h3 class="card-title">{{ song.title }}</h3>
-        {% if song.composer and song.composer != "" %}
-          <span class="card-composer">by {{ song.composer }}</span>
-        {% endif %}
-      </div>
-      <div class="card-meta">
-        {% if song.style and song.style != "" %}
-          <span class="badge-style">{{ song.style }}</span>
-        {% else %}
-          <span></span>
-        {% endif %}
-        <span class="badge-count">Played {{ song.play_count }}x</span>
-      </div>
-    </a>
-  {% endfor %}
+<div class="songs-table-container">
+  <table class="songs-table">
+    <thead>
+      <tr>
+        <th class="sortable" data-sort="title">Song Name <span class="sort-icon"> ▲</span></th>
+        <th class="sortable" data-sort="composer">Composer <span class="sort-icon"></span></th>
+        <th class="sortable" data-sort="style">Style <span class="sort-icon"></span></th>
+        <th class="sortable" data-sort="plays" data-default="desc" style="text-align: right;">Plays <span class="sort-icon"></span></th>
+        <th class="sortable" data-sort="ready" data-default="desc" style="text-align: right; width: 120px;">Readiness <span class="sort-icon"></span></th>
+      </tr>
+    </thead>
+    <tbody id="songsTableBody">
+      {% assign sorted_songs = site.songs | sort: "title" %}
+      {% for song in sorted_songs %}
+        <tr class="song-row" 
+            data-title="{{ song.title | escape | downcase }}" 
+            data-composer="{{ song.composer | escape | downcase }}" 
+            data-style="{{ song.style | escape | downcase }}" 
+            data-plays="{{ song.play_count }}" 
+            data-ready="{{ song.ready_rating | default: 0 }}"
+            onclick="window.location='{{ song.url | relative_url }}'">
+          <td>
+            <a href="{{ song.url | relative_url }}" class="song-title-link" onclick="event.stopPropagation();">{{ song.title }}</a>
+          </td>
+          <td>{{ song.composer | default: "-" }}</td>
+          <td>
+            {% if song.style and song.style != "" %}
+              <span class="badge-style">{{ song.style }}</span>
+            {% else %}
+              -
+            {% endif %}
+          </td>
+          <td style="text-align: right;">
+            <span class="badge-count">{{ song.play_count }}x</span>
+          </td>
+          <td style="text-align: right;">
+            <div class="ready-stars">
+              {% assign rating = song.ready_rating | plus: 0 %}
+              {% if rating > 0 %}
+                {% for i in (1..rating) %}★{% endfor %}
+                {% assign empty_stars = 5 | minus: rating %}
+                {% if empty_stars > 0 %}
+                  {% for i in (1..empty_stars) %}<span class="star-empty">☆</span>{% endfor %}
+                {% endif %}
+              {% else %}
+                -
+              {% endif %}
+            </div>
+          </td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
 </div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const searchInput = document.getElementById('songSearch');
+    const styleFilter = document.getElementById('styleFilter');
+    const tableBody = document.getElementById('songsTableBody');
+    const rows = Array.from(tableBody.querySelectorAll('.song-row'));
+    const headers = document.querySelectorAll('.songs-table th.sortable');
+    
+    let currentSort = {
+      key: 'title',
+      direction: 'asc'
+    };
+    
+    // Initialize active sort header styling
+    headers.forEach(h => {
+      if (h.getAttribute('data-sort') === 'title') {
+        h.classList.add('active-sort');
+      }
+    });
+    
+    function filterTable() {
+      const searchQuery = searchInput.value.toLowerCase().trim();
+      const selectedStyle = styleFilter.value;
+      
+      rows.forEach(row => {
+        const title = row.getAttribute('data-title');
+        const composer = row.getAttribute('data-composer');
+        const style = row.getAttribute('data-style');
+        
+        const matchesSearch = !searchQuery || 
+                              title.includes(searchQuery) || 
+                              composer.includes(searchQuery) || 
+                              style.includes(searchQuery);
+                              
+        const matchesStyle = !selectedStyle || style === selectedStyle;
+        
+        if (matchesSearch && matchesStyle) {
+          row.style.display = '';
+        } else {
+          row.style.display = 'none';
+        }
+      });
+    }
+    
+    function sortTable(key, defaultDir = 'asc') {
+      let direction = 'asc';
+      if (currentSort.key === key) {
+        direction = currentSort.direction === 'asc' ? 'desc' : 'asc';
+      } else {
+        direction = defaultDir;
+      }
+      
+      currentSort = { key, direction };
+      
+      // Update header icons
+      headers.forEach(h => {
+        const icon = h.querySelector('.sort-icon');
+        const hKey = h.getAttribute('data-sort');
+        if (hKey === key) {
+          icon.textContent = direction === 'asc' ? ' ▲' : ' ▼';
+          h.classList.add('active-sort');
+        } else {
+          icon.textContent = '';
+          h.classList.remove('active-sort');
+        }
+      });
+      
+      // Perform sort
+      const sortedRows = rows.sort((a, b) => {
+        let valA = a.getAttribute(`data-${key}`);
+        let valB = b.getAttribute(`data-${key}`);
+        
+        if (key === 'plays' || key === 'ready') {
+          valA = parseInt(valA) || 0;
+          valB = parseInt(valB) || 0;
+          return direction === 'asc' ? valA - valB : valB - valA;
+        } else {
+          return direction === 'asc' ? valA.localeCompare(valB) : valB.localeCompare(valA);
+        }
+      });
+      
+      // Re-append in sorted order
+      sortedRows.forEach(row => tableBody.appendChild(row));
+    }
+    
+    // Add event listeners
+    searchInput.addEventListener('input', filterTable);
+    styleFilter.addEventListener('change', filterTable);
+    
+    headers.forEach(header => {
+      const key = header.getAttribute('data-sort');
+      const defaultDir = header.getAttribute('data-default') || 'asc';
+      header.addEventListener('click', () => sortTable(key, defaultDir));
+    });
+  });
+</script>
