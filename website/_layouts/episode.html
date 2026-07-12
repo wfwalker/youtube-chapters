@@ -127,7 +127,9 @@ layout: default
 </style>
 
 <div class="episode-header">
-  <h1 class="episode-title">{{ page.title }}</h1>
+  {% unless page.image %}
+    <h1 class="episode-title">{{ page.title }}</h1>
+  {% endunless %}
   
   {% if page.theme and page.theme != "" or page.shirt and page.shirt != "" or page.tip_jar and page.tip_jar != "" %}
     <div class="episode-meta" style="margin-bottom: 0.8rem;">
