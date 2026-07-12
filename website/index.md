@@ -129,7 +129,8 @@ title: "Friday Jazz Happy Hour Archive"
 
 <div class="dashboard-hero">
   <h1 class="dashboard-title">Live Stream Archive</h1>
-  <p class="dashboard-subtitle">A chronological record, song index, and setlist explorer for Friday Jazz Happy Hour live stream improvisations.</p>
+  <p class="dashboard-subtitle">Hi! My name is Bill Walker. On March 20th, 2020 I started doing a weekly live streaming show from my back room during the COVID-19 shelter-in-place. I'm still doing it every Friday, please join us!
+</p>
 </div>
 
 <div class="navigation-grid">
