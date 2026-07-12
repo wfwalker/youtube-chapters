@@ -10,11 +10,13 @@ theme: ""
 shirt: ""
 tip_jar: ""
 notes: ""
-youtube_url: ""
+youtube_url: "https://youtu.be/fZ5kBawF-lc"
 image: "/assets/images/title-slides/episode-272.jpg"
 ---
 
 # Episode 272 (9/19/2025)
+
+[Watch Full Stream on YouTube &rarr;](https://youtu.be/fZ5kBawF-lc)
 
 ### Set List
 

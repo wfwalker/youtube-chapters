@@ -10,11 +10,13 @@ theme: ""
 shirt: ""
 tip_jar: ""
 notes: ""
-youtube_url: ""
+youtube_url: "https://youtu.be/SFolC-t-G-I"
 image: "/assets/images/title-slides/episode-287.jpg"
 ---
 
 # Episode 287 (1/30/2026)
+
+[Watch Full Stream on YouTube &rarr;](https://youtu.be/SFolC-t-G-I)
 
 ### Set List
 

@@ -10,11 +10,13 @@ theme: ""
 shirt: ""
 tip_jar: ""
 notes: ""
-youtube_url: ""
+youtube_url: "https://youtu.be/7uXylsUAlAY"
 image: "/assets/images/title-slides/episode-283.jpg"
 ---
 
 # Episode 283 (12/26/2025)
+
+[Watch Full Stream on YouTube &rarr;](https://youtu.be/7uXylsUAlAY)
 
 ### Set List
 

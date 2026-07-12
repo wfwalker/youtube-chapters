@@ -10,11 +10,13 @@ theme: ""
 shirt: ""
 tip_jar: ""
 notes: ""
-youtube_url: ""
+youtube_url: "https://youtu.be/n534pTTA3uM"
 image: "/assets/images/title-slides/episode-281.jpg"
 ---
 
 # Episode 281 (12/12/2025)
+
+[Watch Full Stream on YouTube &rarr;](https://youtu.be/n534pTTA3uM)
 
 ### Set List
 

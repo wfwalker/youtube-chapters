@@ -10,11 +10,13 @@ theme: ""
 shirt: ""
 tip_jar: ""
 notes: ""
-youtube_url: ""
+youtube_url: "https://youtu.be/XE9TYfhMm_4"
 image: "/assets/images/title-slides/episode-220.jpg"
 ---
 
 # Episode 220 (8/9/2024)
+
+[Watch Full Stream on YouTube &rarr;](https://youtu.be/XE9TYfhMm_4)
 
 ### Set List
 

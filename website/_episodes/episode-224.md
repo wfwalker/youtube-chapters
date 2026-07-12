@@ -10,11 +10,13 @@ theme: ""
 shirt: ""
 tip_jar: ""
 notes: ""
-youtube_url: ""
+youtube_url: "https://youtu.be/q7YgLQqeilg"
 image: "/assets/images/title-slides/episode-224.jpg"
 ---
 
 # Episode 224 (9/13/2024)
+
+[Watch Full Stream on YouTube &rarr;](https://youtu.be/q7YgLQqeilg)
 
 ### Set List
 

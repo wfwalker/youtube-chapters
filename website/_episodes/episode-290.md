@@ -10,11 +10,13 @@ theme: ""
 shirt: ""
 tip_jar: ""
 notes: ""
-youtube_url: ""
+youtube_url: "https://youtu.be/rYCOlZQP5Zo"
 image: "/assets/images/title-slides/episode-290.jpg"
 ---
 
 # Episode 290 (2/20/2026)
+
+[Watch Full Stream on YouTube &rarr;](https://youtu.be/rYCOlZQP5Zo)
 
 ### Set List
 

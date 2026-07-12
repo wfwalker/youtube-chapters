@@ -10,11 +10,13 @@ theme: ""
 shirt: ""
 tip_jar: ""
 notes: ""
-youtube_url: ""
+youtube_url: "https://youtu.be/FgMun1DwyAU"
 image: "/assets/images/title-slides/episode-271.jpg"
 ---
 
 # Episode 271 (9/12/2025)
+
+[Watch Full Stream on YouTube &rarr;](https://youtu.be/FgMun1DwyAU)
 
 ### Set List
 

@@ -10,11 +10,13 @@ theme: ""
 shirt: ""
 tip_jar: ""
 notes: ""
-youtube_url: ""
+youtube_url: "https://youtu.be/wGGM6kfvYyo"
 image: "/assets/images/title-slides/episode-237.jpg"
 ---
 
 # Episode 237 (12/13/2024)
+
+[Watch Full Stream on YouTube &rarr;](https://youtu.be/wGGM6kfvYyo)
 
 ### Set List
 

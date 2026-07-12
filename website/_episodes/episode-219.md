@@ -10,11 +10,13 @@ theme: ""
 shirt: ""
 tip_jar: ""
 notes: ""
-youtube_url: ""
+youtube_url: "https://youtu.be/LxZ1Zn87-6c"
 image: "/assets/images/title-slides/episode-219.jpg"
 ---
 
 # Episode 219 (8/2/2024)
+
+[Watch Full Stream on YouTube &rarr;](https://youtu.be/LxZ1Zn87-6c)
 
 ### Set List
 

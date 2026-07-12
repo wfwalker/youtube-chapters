@@ -10,11 +10,13 @@ theme: ""
 shirt: ""
 tip_jar: ""
 notes: ""
-youtube_url: ""
+youtube_url: "https://youtu.be/rU3ymoNnFDI"
 image: "/assets/images/title-slides/episode-292.jpg"
 ---
 
 # Episode 292 (3/27/2026)
+
+[Watch Full Stream on YouTube &rarr;](https://youtu.be/rU3ymoNnFDI)
 
 ### Set List
 

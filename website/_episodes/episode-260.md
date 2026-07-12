@@ -10,11 +10,13 @@ theme: ""
 shirt: ""
 tip_jar: ""
 notes: ""
-youtube_url: ""
+youtube_url: "https://youtu.be/zbLwS4UYioo"
 image: "/assets/images/title-slides/episode-260.jpg"
 ---
 
 # Episode 260 (6/13/2025)
+
+[Watch Full Stream on YouTube &rarr;](https://youtu.be/zbLwS4UYioo)
 
 ### Set List
 

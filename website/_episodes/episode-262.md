@@ -10,11 +10,13 @@ theme: ""
 shirt: ""
 tip_jar: ""
 notes: ""
-youtube_url: ""
+youtube_url: "https://youtu.be/WD3UXe_wpDc"
 image: "/assets/images/title-slides/episode-262.jpg"
 ---
 
 # Episode 262 (6/27/2025)
+
+[Watch Full Stream on YouTube &rarr;](https://youtu.be/WD3UXe_wpDc)
 
 ### Set List
 

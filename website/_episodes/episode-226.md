@@ -10,11 +10,13 @@ theme: ""
 shirt: ""
 tip_jar: ""
 notes: ""
-youtube_url: ""
+youtube_url: "https://youtu.be/91wBjKNK_A0"
 image: "/assets/images/title-slides/episode-226.jpg"
 ---
 
 # Episode 226 (9/27/2024)
+
+[Watch Full Stream on YouTube &rarr;](https://youtu.be/91wBjKNK_A0)
 
 ### Set List
 

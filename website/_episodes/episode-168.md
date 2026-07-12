@@ -10,13 +10,13 @@ theme: ""
 shirt: ""
 tip_jar: ""
 notes: ""
-youtube_url: "https://www.youtube.com/watch?v=w28RQAWi17U"
+youtube_url: "https://youtu.be/w28RQAWi17U"
 image: "/assets/images/title-slides/episode-168.jpg"
 ---
 
 # Episode 168 (6/23/2023)
 
-[Watch Full Stream on YouTube &rarr;](https://www.youtube.com/watch?v=w28RQAWi17U)
+[Watch Full Stream on YouTube &rarr;](https://youtu.be/w28RQAWi17U)
 
 ### Set List
 

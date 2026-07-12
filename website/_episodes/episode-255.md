@@ -10,11 +10,13 @@ theme: ""
 shirt: ""
 tip_jar: ""
 notes: ""
-youtube_url: ""
+youtube_url: "https://youtu.be/6jjYZ-PG--g"
 image: "/assets/images/title-slides/episode-255.jpg"
 ---
 
 # Episode 255 (5/9/2025)
+
+[Watch Full Stream on YouTube &rarr;](https://youtu.be/6jjYZ-PG--g)
 
 ### Set List
 

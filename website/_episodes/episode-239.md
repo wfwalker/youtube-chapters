@@ -10,11 +10,13 @@ theme: ""
 shirt: ""
 tip_jar: ""
 notes: ""
-youtube_url: ""
+youtube_url: "https://youtu.be/1jD6fxeWhWc"
 image: "/assets/images/title-slides/episode-239.jpg"
 ---
 
 # Episode 239 (12/27/2024)
+
+[Watch Full Stream on YouTube &rarr;](https://youtu.be/1jD6fxeWhWc)
 
 ### Set List
 

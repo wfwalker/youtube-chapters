@@ -1,6 +1,6 @@
 ---
 layout: song
-title: "Some Other time"
+title: "Some other time"
 composer: "Leonard Bernstein"
 style: "Ballad"
 play_count: 2
@@ -8,7 +8,7 @@ hall_of_fame: true
 ready_rating: 0
 ---
 
-# Some Other time
+# Some other time
 
 Played **2** times in the live shows.
 

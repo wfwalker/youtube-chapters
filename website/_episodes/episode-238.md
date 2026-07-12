@@ -10,11 +10,13 @@ theme: ""
 shirt: ""
 tip_jar: ""
 notes: ""
-youtube_url: ""
+youtube_url: "https://youtu.be/vbeeOdLoXTw"
 image: "/assets/images/title-slides/episode-238.jpg"
 ---
 
 # Episode 238 (12/20/2024)
+
+[Watch Full Stream on YouTube &rarr;](https://youtu.be/vbeeOdLoXTw)
 
 ### Set List
 

@@ -10,11 +10,13 @@ theme: ""
 shirt: ""
 tip_jar: ""
 notes: ""
-youtube_url: ""
+youtube_url: "https://youtu.be/L1Le-E66_Vw"
 image: "/assets/images/title-slides/episode-243.jpg"
 ---
 
 # Episode 243 (1/24/2025)
+
+[Watch Full Stream on YouTube &rarr;](https://youtu.be/L1Le-E66_Vw)
 
 ### Set List
 

@@ -10,11 +10,13 @@ theme: ""
 shirt: ""
 tip_jar: ""
 notes: ""
-youtube_url: ""
+youtube_url: "https://youtu.be/kUqk9AqDzsY"
 image: "/assets/images/title-slides/episode-257.jpg"
 ---
 
 # Episode 257 (5/23/2025)
+
+[Watch Full Stream on YouTube &rarr;](https://youtu.be/kUqk9AqDzsY)
 
 ### Set List
 

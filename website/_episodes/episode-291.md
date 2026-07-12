@@ -10,11 +10,13 @@ theme: ""
 shirt: ""
 tip_jar: ""
 notes: ""
-youtube_url: ""
+youtube_url: "https://youtu.be/Bquy0XJTjr8"
 image: "/assets/images/title-slides/episode-291.jpg"
 ---
 
 # Episode 291 (2/27/2026)
+
+[Watch Full Stream on YouTube &rarr;](https://youtu.be/Bquy0XJTjr8)
 
 ### Set List
 

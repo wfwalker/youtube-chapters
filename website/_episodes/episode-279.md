@@ -10,11 +10,13 @@ theme: ""
 shirt: ""
 tip_jar: ""
 notes: ""
-youtube_url: ""
+youtube_url: "https://youtu.be/NOudqih6OCU"
 image: "/assets/images/title-slides/episode-279.jpg"
 ---
 
 # Episode 279 (11/28/2025)
+
+[Watch Full Stream on YouTube &rarr;](https://youtu.be/NOudqih6OCU)
 
 ### Set List
 

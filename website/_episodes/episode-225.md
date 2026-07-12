@@ -10,11 +10,13 @@ theme: ""
 shirt: ""
 tip_jar: ""
 notes: ""
-youtube_url: ""
+youtube_url: "https://youtu.be/rMb-isSUH_g"
 image: "/assets/images/title-slides/episode-225.jpg"
 ---
 
 # Episode 225 (9/20/2024)
+
+[Watch Full Stream on YouTube &rarr;](https://youtu.be/rMb-isSUH_g)
 
 ### Set List
 

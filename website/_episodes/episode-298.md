@@ -10,11 +10,13 @@ theme: ""
 shirt: ""
 tip_jar: ""
 notes: ""
-youtube_url: ""
+youtube_url: "https://youtu.be/JXm5bNWc5Tk"
 image: "/assets/images/title-slides/episode-298.jpg"
 ---
 
 # Episode 298 (5/15/2026)
+
+[Watch Full Stream on YouTube &rarr;](https://youtu.be/JXm5bNWc5Tk)
 
 ### Set List
 

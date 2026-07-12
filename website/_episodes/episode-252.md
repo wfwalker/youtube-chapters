@@ -10,11 +10,13 @@ theme: ""
 shirt: ""
 tip_jar: ""
 notes: ""
-youtube_url: ""
+youtube_url: "https://youtu.be/J3Z7I-c9vaQ"
 image: "/assets/images/title-slides/episode-252.jpg"
 ---
 
 # Episode 252 (4/18/2025)
+
+[Watch Full Stream on YouTube &rarr;](https://youtu.be/J3Z7I-c9vaQ)
 
 ### Set List
 

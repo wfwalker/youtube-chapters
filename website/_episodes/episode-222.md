@@ -10,11 +10,13 @@ theme: ""
 shirt: ""
 tip_jar: ""
 notes: ""
-youtube_url: ""
+youtube_url: "https://youtu.be/ZsYIsBKoRQ4"
 image: "/assets/images/title-slides/episode-222.jpg"
 ---
 
 # Episode 222 (8/30/2024)
+
+[Watch Full Stream on YouTube &rarr;](https://youtu.be/ZsYIsBKoRQ4)
 
 ### Set List
 

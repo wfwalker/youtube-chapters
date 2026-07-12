@@ -10,11 +10,13 @@ theme: ""
 shirt: ""
 tip_jar: ""
 notes: "for March 2026 rerun"
-youtube_url: ""
+youtube_url: "https://youtu.be/kR4qrJNVi1o"
 image: "/assets/images/title-slides/episode-274.jpg"
 ---
 
 # Episode 274 (10/10/2025)
+
+[Watch Full Stream on YouTube &rarr;](https://youtu.be/kR4qrJNVi1o)
 
 ### Set List
 

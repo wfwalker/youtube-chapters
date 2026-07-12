@@ -10,11 +10,13 @@ theme: ""
 shirt: ""
 tip_jar: ""
 notes: ""
-youtube_url: ""
+youtube_url: "https://youtu.be/QLiLmqENUeE"
 image: "/assets/images/title-slides/episode-280.jpg"
 ---
 
 # Episode 280 (12/5/2025)
+
+[Watch Full Stream on YouTube &rarr;](https://youtu.be/QLiLmqENUeE)
 
 ### Set List
 

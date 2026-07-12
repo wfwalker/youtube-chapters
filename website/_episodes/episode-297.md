@@ -10,11 +10,13 @@ theme: ""
 shirt: ""
 tip_jar: ""
 notes: ""
-youtube_url: ""
+youtube_url: "https://youtu.be/P0K91reQi7o"
 image: "/assets/images/title-slides/episode-297.jpg"
 ---
 
 # Episode 297 (5/1/2026)
+
+[Watch Full Stream on YouTube &rarr;](https://youtu.be/P0K91reQi7o)
 
 ### Set List
 

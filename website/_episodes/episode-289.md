@@ -10,11 +10,13 @@ theme: ""
 shirt: ""
 tip_jar: ""
 notes: ""
-youtube_url: ""
+youtube_url: "https://youtu.be/ENn7iL9IwXc"
 image: "/assets/images/title-slides/episode-289.jpg"
 ---
 
 # Episode 289 (2/13/2026)
+
+[Watch Full Stream on YouTube &rarr;](https://youtu.be/ENn7iL9IwXc)
 
 ### Set List
 

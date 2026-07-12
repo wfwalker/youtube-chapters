@@ -10,11 +10,13 @@ theme: ""
 shirt: ""
 tip_jar: ""
 notes: ""
-youtube_url: ""
+youtube_url: "https://youtu.be/DwQaMQYPMrY"
 image: "/assets/images/title-slides/episode-250.jpg"
 ---
 
 # Episode 250 (3/28/2025)
+
+[Watch Full Stream on YouTube &rarr;](https://youtu.be/DwQaMQYPMrY)
 
 ### Set List
 

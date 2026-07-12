@@ -10,11 +10,13 @@ theme: ""
 shirt: ""
 tip_jar: ""
 notes: ""
-youtube_url: ""
+youtube_url: "https://youtu.be/RdINPa3ryLM"
 image: "/assets/images/title-slides/episode-294.jpg"
 ---
 
 # Episode 294 (4/10/2026)
+
+[Watch Full Stream on YouTube &rarr;](https://youtu.be/RdINPa3ryLM)
 
 ### Set List
 

@@ -10,11 +10,13 @@ theme: ""
 shirt: ""
 tip_jar: ""
 notes: ""
-youtube_url: ""
+youtube_url: "https://youtu.be/6JQ4VUCD0Wg"
 image: "/assets/images/title-slides/episode-270.jpg"
 ---
 
 # Episode 270 (9/5/2025)
+
+[Watch Full Stream on YouTube &rarr;](https://youtu.be/6JQ4VUCD0Wg)
 
 ### Set List
 

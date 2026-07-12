@@ -10,11 +10,13 @@ theme: ""
 shirt: ""
 tip_jar: ""
 notes: ""
-youtube_url: ""
+youtube_url: "https://youtu.be/40ZECVY00h4"
 image: "/assets/images/title-slides/episode-275.jpg"
 ---
 
 # Episode 275 (10/17/2025)
+
+[Watch Full Stream on YouTube &rarr;](https://youtu.be/40ZECVY00h4)
 
 ### Set List
 

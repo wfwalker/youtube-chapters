@@ -10,11 +10,13 @@ theme: ""
 shirt: ""
 tip_jar: ""
 notes: ""
-youtube_url: ""
+youtube_url: "https://youtu.be/KkTlK_8jt9U"
 image: "/assets/images/title-slides/episode-293.jpg"
 ---
 
 # Episode 293 (4/3/2026)
+
+[Watch Full Stream on YouTube &rarr;](https://youtu.be/KkTlK_8jt9U)
 
 ### Set List
 

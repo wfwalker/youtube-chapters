@@ -10,11 +10,13 @@ theme: ""
 shirt: ""
 tip_jar: ""
 notes: ""
-youtube_url: ""
+youtube_url: "https://youtu.be/6MVWBYqXsLQ"
 image: "/assets/images/title-slides/episode-229.jpg"
 ---
 
 # Episode 229 (10/18/2024)
+
+[Watch Full Stream on YouTube &rarr;](https://youtu.be/6MVWBYqXsLQ)
 
 ### Set List
 

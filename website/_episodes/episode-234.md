@@ -10,11 +10,13 @@ theme: ""
 shirt: ""
 tip_jar: ""
 notes: ""
-youtube_url: ""
+youtube_url: "https://youtu.be/oo0OmegleSA"
 image: "/assets/images/title-slides/episode-234.jpg"
 ---
 
 # Episode 234 (11/22/2024)
+
+[Watch Full Stream on YouTube &rarr;](https://youtu.be/oo0OmegleSA)
 
 ### Set List
 

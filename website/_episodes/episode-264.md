@@ -10,11 +10,13 @@ theme: ""
 shirt: ""
 tip_jar: ""
 notes: ""
-youtube_url: ""
+youtube_url: "https://youtu.be/kpeegmRL7tI"
 image: "/assets/images/title-slides/episode-264.jpg"
 ---
 
 # Episode 264 (7/18/2025)
+
+[Watch Full Stream on YouTube &rarr;](https://youtu.be/kpeegmRL7tI)
 
 ### Set List
 

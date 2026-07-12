@@ -10,11 +10,13 @@ theme: ""
 shirt: ""
 tip_jar: ""
 notes: ""
-youtube_url: ""
+youtube_url: "https://youtu.be/aYsfWzFvkpc"
 image: "/assets/images/title-slides/episode-296.jpg"
 ---
 
 # Episode 296 (4/24/2026)
+
+[Watch Full Stream on YouTube &rarr;](https://youtu.be/aYsfWzFvkpc)
 
 ### Set List
 

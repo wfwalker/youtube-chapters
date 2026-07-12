@@ -10,11 +10,13 @@ theme: ""
 shirt: ""
 tip_jar: ""
 notes: ""
-youtube_url: ""
+youtube_url: "https://youtu.be/PlpRCyt8Bx8"
 image: "/assets/images/title-slides/episode-276.jpg"
 ---
 
 # Episode 276 (10/24/2025)
+
+[Watch Full Stream on YouTube &rarr;](https://youtu.be/PlpRCyt8Bx8)
 
 ### Set List
 

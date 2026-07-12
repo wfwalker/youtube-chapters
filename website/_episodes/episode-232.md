@@ -10,11 +10,13 @@ theme: ""
 shirt: ""
 tip_jar: ""
 notes: ""
-youtube_url: ""
+youtube_url: "https://youtu.be/pv1DuIvoWIQ"
 image: "/assets/images/title-slides/episode-232.jpg"
 ---
 
 # Episode 232 (11/8/2024)
+
+[Watch Full Stream on YouTube &rarr;](https://youtu.be/pv1DuIvoWIQ)
 
 ### Set List
 

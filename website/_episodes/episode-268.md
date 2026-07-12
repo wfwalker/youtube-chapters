@@ -10,11 +10,13 @@ theme: ""
 shirt: ""
 tip_jar: ""
 notes: ""
-youtube_url: ""
+youtube_url: "https://youtu.be/-d7DqBvKUPI"
 image: "/assets/images/title-slides/episode-268.jpg"
 ---
 
 # Episode 268 (8/15/2025)
+
+[Watch Full Stream on YouTube &rarr;](https://youtu.be/-d7DqBvKUPI)
 
 ### Set List
 

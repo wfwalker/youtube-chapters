@@ -10,11 +10,13 @@ theme: ""
 shirt: ""
 tip_jar: ""
 notes: ""
-youtube_url: ""
+youtube_url: "https://youtu.be/fcqu-1RQCO0"
 image: "/assets/images/title-slides/episode-284.jpg"
 ---
 
 # Episode 284 (1/2/2026)
+
+[Watch Full Stream on YouTube &rarr;](https://youtu.be/fcqu-1RQCO0)
 
 ### Set List
 

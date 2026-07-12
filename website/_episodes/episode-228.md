@@ -10,11 +10,13 @@ theme: ""
 shirt: ""
 tip_jar: ""
 notes: ""
-youtube_url: ""
+youtube_url: "https://youtu.be/yCoLXwxjmz8"
 image: "/assets/images/title-slides/episode-228.jpg"
 ---
 
 # Episode 228 (10/11/2024)
+
+[Watch Full Stream on YouTube &rarr;](https://youtu.be/yCoLXwxjmz8)
 
 ### Set List
 

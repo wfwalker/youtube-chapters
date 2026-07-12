@@ -10,11 +10,13 @@ theme: ""
 shirt: ""
 tip_jar: ""
 notes: ""
-youtube_url: ""
+youtube_url: "https://youtu.be/5GfH_utLXZM"
 image: "/assets/images/title-slides/episode-244.jpg"
 ---
 
 # Episode 244 (1/31/2025)
+
+[Watch Full Stream on YouTube &rarr;](https://youtu.be/5GfH_utLXZM)
 
 ### Set List
 

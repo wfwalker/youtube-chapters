@@ -10,11 +10,13 @@ theme: ""
 shirt: ""
 tip_jar: ""
 notes: ""
-youtube_url: ""
+youtube_url: "https://youtu.be/a4gNgXrypis"
 image: "/assets/images/title-slides/episode-248.jpg"
 ---
 
 # Episode 248 (2/28/2025)
+
+[Watch Full Stream on YouTube &rarr;](https://youtu.be/a4gNgXrypis)
 
 ### Set List
 

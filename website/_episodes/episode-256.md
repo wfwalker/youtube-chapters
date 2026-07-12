@@ -10,11 +10,13 @@ theme: ""
 shirt: ""
 tip_jar: ""
 notes: ""
-youtube_url: ""
+youtube_url: "https://youtu.be/E3D4ALlqlfU"
 image: "/assets/images/title-slides/episode-256.jpg"
 ---
 
 # Episode 256 (5/16/2025)
+
+[Watch Full Stream on YouTube &rarr;](https://youtu.be/E3D4ALlqlfU)
 
 ### Set List
 

@@ -10,11 +10,13 @@ theme: ""
 shirt: ""
 tip_jar: ""
 notes: ""
-youtube_url: ""
+youtube_url: "https://youtu.be/WALVIY_XN8E"
 image: "/assets/images/title-slides/episode-278.jpg"
 ---
 
 # Episode 278 (11/21/2025)
+
+[Watch Full Stream on YouTube &rarr;](https://youtu.be/WALVIY_XN8E)
 
 ### Set List
 

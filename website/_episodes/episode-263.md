@@ -10,11 +10,13 @@ theme: ""
 shirt: ""
 tip_jar: ""
 notes: ""
-youtube_url: ""
+youtube_url: "https://youtu.be/hhGsnvxRRAQ"
 image: "/assets/images/title-slides/episode-263.jpg"
 ---
 
 # Episode 263 (7/4/2025)
+
+[Watch Full Stream on YouTube &rarr;](https://youtu.be/hhGsnvxRRAQ)
 
 ### Set List
 

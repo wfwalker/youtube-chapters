@@ -723,7 +723,7 @@
   composer: ""
   style: "ballad"
   play_count: 2
-- title: "In walked Bud"
+- title: "In Walked Bud"
   slug: "in-walked-bud"
   composer: "Thelonius Monk"
   style: "funk"
@@ -938,7 +938,7 @@
   composer: "Bill Walker"
   style: ""
   play_count: 1
-- title: "Our Love is here to Stay"
+- title: "Our love is here to stay"
   slug: "our-love-is-here-to-stay"
   composer: "George Gerswin"
   style: ""
@@ -1053,7 +1053,7 @@
   composer: ""
   style: ""
   play_count: 2
-- title: "Santa Claus is Coming to Town"
+- title: "Santa Claus is Coming to town"
   slug: "santa-claus-is-coming-to-town"
   composer: ""
   style: ""
@@ -1148,7 +1148,7 @@
   composer: "Seatbelts"
   style: ""
   play_count: 1
-- title: "Spring Can Really Hang You Up the Most"
+- title: "Spring can really hang you up the most"
   slug: "spring-can-really-hang-you-up-the-most"
   composer: "Tommy Wolf"
   style: "ballad"

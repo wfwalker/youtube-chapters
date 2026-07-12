@@ -10,11 +10,13 @@ theme: ""
 shirt: ""
 tip_jar: ""
 notes: ""
-youtube_url: ""
+youtube_url: "https://youtu.be/fpoUmPOQ62o"
 image: "/assets/images/title-slides/episode-286.jpg"
 ---
 
 # Episode 286 (1/23/2026)
+
+[Watch Full Stream on YouTube &rarr;](https://youtu.be/fpoUmPOQ62o)
 
 ### Set List
 

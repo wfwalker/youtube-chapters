@@ -10,11 +10,13 @@ theme: ""
 shirt: ""
 tip_jar: ""
 notes: ""
-youtube_url: ""
+youtube_url: "https://youtu.be/tqSSFCBxZ94"
 image: "/assets/images/title-slides/episode-236.jpg"
 ---
 
 # Episode 236 (12/6/2024)
+
+[Watch Full Stream on YouTube &rarr;](https://youtu.be/tqSSFCBxZ94)
 
 ### Set List
 

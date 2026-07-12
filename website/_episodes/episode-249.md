@@ -10,11 +10,13 @@ theme: ""
 shirt: ""
 tip_jar: ""
 notes: ""
-youtube_url: ""
+youtube_url: "https://youtu.be/XrnoBxZGghE"
 image: "/assets/images/title-slides/episode-249.jpg"
 ---
 
 # Episode 249 (3/14/2025)
+
+[Watch Full Stream on YouTube &rarr;](https://youtu.be/XrnoBxZGghE)
 
 ### Set List
 

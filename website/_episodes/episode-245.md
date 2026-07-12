@@ -10,11 +10,13 @@ theme: ""
 shirt: ""
 tip_jar: ""
 notes: ""
-youtube_url: ""
+youtube_url: "https://youtu.be/MyJ3ADimRnw"
 image: "/assets/images/title-slides/episode-245.jpg"
 ---
 
 # Episode 245 (2/7/2025)
+
+[Watch Full Stream on YouTube &rarr;](https://youtu.be/MyJ3ADimRnw)
 
 ### Set List
 

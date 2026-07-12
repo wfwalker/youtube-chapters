@@ -10,11 +10,13 @@ theme: ""
 shirt: ""
 tip_jar: ""
 notes: ""
-youtube_url: ""
+youtube_url: "https://youtu.be/wscqtfOZu44"
 image: "/assets/images/title-slides/episode-285.jpg"
 ---
 
 # Episode 285 (1/9/2026)
+
+[Watch Full Stream on YouTube &rarr;](https://youtu.be/wscqtfOZu44)
 
 ### Set List
 

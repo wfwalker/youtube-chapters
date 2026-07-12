@@ -10,11 +10,13 @@ theme: ""
 shirt: ""
 tip_jar: ""
 notes: ""
-youtube_url: ""
+youtube_url: "https://youtu.be/TipLOuuu09k"
 image: "/assets/images/title-slides/episode-277.jpg"
 ---
 
 # Episode 277 (10/31/2025)
+
+[Watch Full Stream on YouTube &rarr;](https://youtu.be/TipLOuuu09k)
 
 ### Set List
 

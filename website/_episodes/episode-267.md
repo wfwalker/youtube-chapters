@@ -10,10 +10,12 @@ theme: ""
 shirt: ""
 tip_jar: ""
 notes: ""
-youtube_url: ""
+youtube_url: "https://youtu.be/Hua1nZI9UyY"
 ---
 
 # Episode 267 (8/8/2025)
+
+[Watch Full Stream on YouTube &rarr;](https://youtu.be/Hua1nZI9UyY)
 
 ### Set List
 

@@ -10,11 +10,13 @@ theme: ""
 shirt: ""
 tip_jar: ""
 notes: ""
-youtube_url: ""
+youtube_url: "https://youtu.be/rEmXFUtSvsg"
 image: "/assets/images/title-slides/episode-269.jpg"
 ---
 
 # Episode 269 (8/22/2025)
+
+[Watch Full Stream on YouTube &rarr;](https://youtu.be/rEmXFUtSvsg)
 
 ### Set List
 

@@ -10,11 +10,13 @@ theme: ""
 shirt: ""
 tip_jar: ""
 notes: ""
-youtube_url: ""
+youtube_url: "https://youtu.be/xojQZBi4_2M"
 image: "/assets/images/title-slides/episode-251.jpg"
 ---
 
 # Episode 251 (4/11/2025)
+
+[Watch Full Stream on YouTube &rarr;](https://youtu.be/xojQZBi4_2M)
 
 ### Set List
 

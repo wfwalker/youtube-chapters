@@ -10,11 +10,13 @@ theme: ""
 shirt: ""
 tip_jar: ""
 notes: ""
-youtube_url: ""
+youtube_url: "https://youtu.be/S0zUsM5qJZ0"
 image: "/assets/images/title-slides/episode-288.jpg"
 ---
 
 # Episode 288 (2/6/2026)
+
+[Watch Full Stream on YouTube &rarr;](https://youtu.be/S0zUsM5qJZ0)
 
 ### Set List
 

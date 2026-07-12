@@ -10,11 +10,13 @@ theme: ""
 shirt: ""
 tip_jar: ""
 notes: ""
-youtube_url: ""
+youtube_url: "https://youtu.be/828vW7qfZNo"
 image: "/assets/images/title-slides/episode-227.jpg"
 ---
 
 # Episode 227 (10/4/2024)
+
+[Watch Full Stream on YouTube &rarr;](https://youtu.be/828vW7qfZNo)
 
 ### Set List
 
