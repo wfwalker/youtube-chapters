@@ -1,6 +1,6 @@
 ---
 layout: song
-title: "Some other time"
+title: "Some Other time"
 composer: "Leonard Bernstein"
 style: "Ballad"
 play_count: 2
