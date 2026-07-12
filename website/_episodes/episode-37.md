@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 37 (11/27/2020)"
+title: "Episode 37 (November 27, 2020)"
 episode_number: "37"
 date_string: "11/27/2020"
 date: 2020-11-27
@@ -13,7 +13,7 @@ notes: "yes"
 youtube_url: "https://youtu.be/8W4XQTLdajk"
 ---
 
-# Episode 37 (11/27/2020)
+# Episode 37 (November 27, 2020)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/8W4XQTLdajk)
 

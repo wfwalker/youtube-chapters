@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 102 (2/25/2022)"
+title: "Episode 102 (February 25, 2022)"
 episode_number: "102"
 date_string: "2/25/2022"
 date: 2022-02-25
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/f8SEdxjiIMM"
 image: "/assets/images/title-slides/episode-102.jpg"
 ---
 
-# Episode 102 (2/25/2022)
+# Episode 102 (February 25, 2022)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/f8SEdxjiIMM)
 

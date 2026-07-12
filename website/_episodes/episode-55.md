@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 55 (4/2/2021)"
+title: "Episode 55 (April 2, 2021)"
 episode_number: "55"
 date_string: "4/2/2021"
 date: 2021-04-02
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/brtK3KrZ6Io"
 image: "/assets/images/title-slides/episode-55.jpg"
 ---
 
-# Episode 55 (4/2/2021)
+# Episode 55 (April 2, 2021)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/brtK3KrZ6Io)
 

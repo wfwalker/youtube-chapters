@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 226 (9/27/2024)"
+title: "Episode 226 (September 27, 2024)"
 episode_number: "226"
 date_string: "9/27/2024"
 date: 2024-09-27
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/91wBjKNK_A0"
 image: "/assets/images/title-slides/episode-226.jpg"
 ---
 
-# Episode 226 (9/27/2024)
+# Episode 226 (September 27, 2024)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/91wBjKNK_A0)
 

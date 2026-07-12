@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 266 (8/1/2025)"
+title: "Episode 266 (August 1, 2025)"
 episode_number: "266"
 date_string: "8/1/2025"
 date: 2025-08-01
@@ -14,7 +14,7 @@ youtube_url: ""
 image: "/assets/images/title-slides/episode-266.jpg"
 ---
 
-# Episode 266 (8/1/2025)
+# Episode 266 (August 1, 2025)
 
 ### Set List
 

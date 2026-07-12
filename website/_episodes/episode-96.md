@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 96 (1/14/2022)"
+title: "Episode 96 (January 14, 2022)"
 episode_number: "96"
 date_string: "1/14/2022"
 date: 2022-01-14
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/VAUYw5v0RiQ"
 image: "/assets/images/title-slides/episode-96.jpg"
 ---
 
-# Episode 96 (1/14/2022)
+# Episode 96 (January 14, 2022)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/VAUYw5v0RiQ)
 

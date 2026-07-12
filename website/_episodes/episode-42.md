@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 42 (1/1/2021)"
+title: "Episode 42 (January 1, 2021)"
 episode_number: "42"
 date_string: "1/1/2021"
 date: 2021-01-01
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/i7H03-9N1As"
 image: "/assets/images/title-slides/episode-42.jpg"
 ---
 
-# Episode 42 (1/1/2021)
+# Episode 42 (January 1, 2021)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/i7H03-9N1As)
 

@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 129 (9/2/2022)"
+title: "Episode 129 (September 2, 2022)"
 episode_number: "129"
 date_string: "9/2/2022"
 date: 2022-09-02
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/bIdPZtsIf-M"
 image: "/assets/images/title-slides/episode-129.jpg"
 ---
 
-# Episode 129 (9/2/2022)
+# Episode 129 (September 2, 2022)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/bIdPZtsIf-M)
 

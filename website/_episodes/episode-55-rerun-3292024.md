@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 55 (3/29/2024) (Rerun)"
+title: "Episode 55 (March 29, 2024) (Rerun)"
 episode_number: "55"
 date_string: "3/29/2024"
 date: 2024-03-29
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/IYPkv1FJGOo"
 image: "/assets/images/title-slides/episode-55-rerun-3292024.jpg"
 ---
 
-# Episode 55 (3/29/2024) (Rerun)
+# Episode 55 (March 29, 2024) (Rerun)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/IYPkv1FJGOo)
 

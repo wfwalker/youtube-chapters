@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 149 (2/10/2023)"
+title: "Episode 149 (February 10, 2023)"
 episode_number: "149"
 date_string: "2/10/2023"
 date: 2023-02-10
@@ -14,7 +14,7 @@ youtube_url: "https://youtube.com/live/9WTFsLMNhHk"
 image: "/assets/images/title-slides/episode-149.jpg"
 ---
 
-# Episode 149 (2/10/2023)
+# Episode 149 (February 10, 2023)
 
 [Watch Full Stream on YouTube &rarr;](https://youtube.com/live/9WTFsLMNhHk)
 

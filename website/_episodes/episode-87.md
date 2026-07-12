@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 87 (11/12/2021)"
+title: "Episode 87 (November 12, 2021)"
 episode_number: "87"
 date_string: "11/12/2021"
 date: 2021-11-12
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/BLyftIJ9xhI"
 image: "/assets/images/title-slides/episode-87.jpg"
 ---
 
-# Episode 87 (11/12/2021)
+# Episode 87 (November 12, 2021)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/BLyftIJ9xhI)
 

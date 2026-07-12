@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 264 (7/18/2025)"
+title: "Episode 264 (July 18, 2025)"
 episode_number: "264"
 date_string: "7/18/2025"
 date: 2025-07-18
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/kpeegmRL7tI"
 image: "/assets/images/title-slides/episode-264.jpg"
 ---
 
-# Episode 264 (7/18/2025)
+# Episode 264 (July 18, 2025)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/kpeegmRL7tI)
 

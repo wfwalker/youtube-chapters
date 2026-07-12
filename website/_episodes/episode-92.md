@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 92 (12/17/2021)"
+title: "Episode 92 (December 17, 2021)"
 episode_number: "92"
 date_string: "12/17/2021"
 date: 2021-12-17
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/-MgcGR7PIMg"
 image: "/assets/images/title-slides/episode-92.jpg"
 ---
 
-# Episode 92 (12/17/2021)
+# Episode 92 (December 17, 2021)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/-MgcGR7PIMg)
 

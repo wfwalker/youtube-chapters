@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 219 (8/2/2024)"
+title: "Episode 219 (August 2, 2024)"
 episode_number: "219"
 date_string: "8/2/2024"
 date: 2024-08-02
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/LxZ1Zn87-6c"
 image: "/assets/images/title-slides/episode-219.jpg"
 ---
 
-# Episode 219 (8/2/2024)
+# Episode 219 (August 2, 2024)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/LxZ1Zn87-6c)
 

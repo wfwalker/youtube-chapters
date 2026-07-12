@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 49 (2/19/2021)"
+title: "Episode 49 (February 19, 2021)"
 episode_number: "49"
 date_string: "2/19/2021"
 date: 2021-02-19
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/3ihtctEf-r8"
 image: "/assets/images/title-slides/episode-49.jpg"
 ---
 
-# Episode 49 (2/19/2021)
+# Episode 49 (February 19, 2021)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/3ihtctEf-r8)
 

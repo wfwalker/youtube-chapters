@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 254 (5/2/2025)"
+title: "Episode 254 (May 2, 2025)"
 episode_number: "254"
 date_string: "5/2/2025"
 date: 2025-05-02
@@ -14,7 +14,7 @@ youtube_url: ""
 image: "/assets/images/title-slides/episode-254.jpg"
 ---
 
-# Episode 254 (5/2/2025)
+# Episode 254 (May 2, 2025)
 
 ### Set List
 

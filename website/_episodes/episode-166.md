@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 166 (6/9/2023)"
+title: "Episode 166 (June 9, 2023)"
 episode_number: "166"
 date_string: "6/9/2023"
 date: 2023-06-09
@@ -14,7 +14,7 @@ youtube_url: "https://youtube.com/live/zxBeVU3jcP8"
 image: "/assets/images/title-slides/episode-166.jpg"
 ---
 
-# Episode 166 (6/9/2023)
+# Episode 166 (June 9, 2023)
 
 [Watch Full Stream on YouTube &rarr;](https://youtube.com/live/zxBeVU3jcP8)
 

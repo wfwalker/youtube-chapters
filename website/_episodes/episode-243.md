@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 243 (1/24/2025)"
+title: "Episode 243 (January 24, 2025)"
 episode_number: "243"
 date_string: "1/24/2025"
 date: 2025-01-24
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/L1Le-E66_Vw"
 image: "/assets/images/title-slides/episode-243.jpg"
 ---
 
-# Episode 243 (1/24/2025)
+# Episode 243 (January 24, 2025)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/L1Le-E66_Vw)
 

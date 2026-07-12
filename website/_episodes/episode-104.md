@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 104 (3/11/2022)"
+title: "Episode 104 (March 11, 2022)"
 episode_number: "104"
 date_string: "3/11/2022"
 date: 2022-03-11
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/9YCarBEto_w"
 image: "/assets/images/title-slides/episode-104.jpg"
 ---
 
-# Episode 104 (3/11/2022)
+# Episode 104 (March 11, 2022)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/9YCarBEto_w)
 

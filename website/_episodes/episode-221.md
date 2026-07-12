@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 221 (8/16/2024)"
+title: "Episode 221 (August 16, 2024)"
 episode_number: "221"
 date_string: "8/16/2024"
 date: 2024-08-16
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/9W9CR7iCOvk"
 image: "/assets/images/title-slides/episode-221.jpg"
 ---
 
-# Episode 221 (8/16/2024)
+# Episode 221 (August 16, 2024)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/9W9CR7iCOvk)
 

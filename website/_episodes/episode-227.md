@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 227 (10/4/2024)"
+title: "Episode 227 (October 4, 2024)"
 episode_number: "227"
 date_string: "10/4/2024"
 date: 2024-10-04
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/828vW7qfZNo"
 image: "/assets/images/title-slides/episode-227.jpg"
 ---
 
-# Episode 227 (10/4/2024)
+# Episode 227 (October 4, 2024)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/828vW7qfZNo)
 

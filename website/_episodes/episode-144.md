@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 144 (1/6/2023)"
+title: "Episode 144 (January 6, 2023)"
 episode_number: "144"
 date_string: "1/6/2023"
 date: 2023-01-06
@@ -14,7 +14,7 @@ youtube_url: "https://youtube.com/live/AgOf7ObdkGY"
 image: "/assets/images/title-slides/episode-144.jpg"
 ---
 
-# Episode 144 (1/6/2023)
+# Episode 144 (January 6, 2023)
 
 [Watch Full Stream on YouTube &rarr;](https://youtube.com/live/AgOf7ObdkGY)
 

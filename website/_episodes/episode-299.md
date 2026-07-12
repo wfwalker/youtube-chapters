@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 299 (5/29/2026)"
+title: "Episode 299 (May 29, 2026)"
 episode_number: "299"
 date_string: "5/29/2026"
 date: 2026-05-29
@@ -14,7 +14,7 @@ youtube_url: ""
 image: "/assets/images/title-slides/episode-299.jpg"
 ---
 
-# Episode 299 (5/29/2026)
+# Episode 299 (May 29, 2026)
 
 ### Set List
 

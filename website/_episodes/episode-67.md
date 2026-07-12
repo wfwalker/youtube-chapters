@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 67 (6/25/2021)"
+title: "Episode 67 (June 25, 2021)"
 episode_number: "67"
 date_string: "6/25/2021"
 date: 2021-06-25
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/BVJuigptxSA"
 image: "/assets/images/title-slides/episode-67.jpg"
 ---
 
-# Episode 67 (6/25/2021)
+# Episode 67 (June 25, 2021)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/BVJuigptxSA)
 

@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 11 (5/29/2020)"
+title: "Episode 11 (May 29, 2020)"
 episode_number: "11"
 date_string: "5/29/2020"
 date: 2020-05-29
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/4UMdp7mQUrM"
 image: "/assets/images/title-slides/episode-11.png"
 ---
 
-# Episode 11 (5/29/2020)
+# Episode 11 (May 29, 2020)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/4UMdp7mQUrM)
 

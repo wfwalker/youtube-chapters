@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 156 (3/31/2023)"
+title: "Episode 156 (March 31, 2023)"
 episode_number: "156"
 date_string: "3/31/2023"
 date: 2023-03-31
@@ -14,7 +14,7 @@ youtube_url: "https://youtube.com/live/3OS8YSyy7IE"
 image: "/assets/images/title-slides/episode-156.jpg"
 ---
 
-# Episode 156 (3/31/2023)
+# Episode 156 (March 31, 2023)
 
 [Watch Full Stream on YouTube &rarr;](https://youtube.com/live/3OS8YSyy7IE)
 

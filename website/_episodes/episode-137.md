@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 137 (10/28/2022)"
+title: "Episode 137 (October 28, 2022)"
 episode_number: "137"
 date_string: "10/28/2022"
 date: 2022-10-28
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/Vyo_oTHKhUY"
 image: "/assets/images/title-slides/episode-137.jpg"
 ---
 
-# Episode 137 (10/28/2022)
+# Episode 137 (October 28, 2022)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/Vyo_oTHKhUY)
 

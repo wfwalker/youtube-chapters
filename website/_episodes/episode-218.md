@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 218 (7/26/2024)"
+title: "Episode 218 (July 26, 2024)"
 episode_number: "218"
 date_string: "7/26/2024"
 date: 2024-07-26
@@ -14,7 +14,7 @@ youtube_url: ""
 image: "/assets/images/title-slides/episode-218.jpg"
 ---
 
-# Episode 218 (7/26/2024)
+# Episode 218 (July 26, 2024)
 
 ### Set List
 

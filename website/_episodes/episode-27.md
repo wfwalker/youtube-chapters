@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 27 (9/18/2020)"
+title: "Episode 27 (September 18, 2020)"
 episode_number: "27"
 date_string: "9/18/2020"
 date: 2020-09-18
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/0LJTLQOLZQM"
 image: "/assets/images/title-slides/episode-27.jpg"
 ---
 
-# Episode 27 (9/18/2020)
+# Episode 27 (September 18, 2020)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/0LJTLQOLZQM)
 

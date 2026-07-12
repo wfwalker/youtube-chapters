@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 12 (6/5/2020)"
+title: "Episode 12 (June 5, 2020)"
 episode_number: "12"
 date_string: "6/5/2020"
 date: 2020-06-05
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/8aHUkT2wFNc"
 image: "/assets/images/title-slides/episode-12.png"
 ---
 
-# Episode 12 (6/5/2020)
+# Episode 12 (June 5, 2020)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/8aHUkT2wFNc)
 

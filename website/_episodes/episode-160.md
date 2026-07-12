@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 160 (4/28/2023)"
+title: "Episode 160 (April 28, 2023)"
 episode_number: "160"
 date_string: "4/28/2023"
 date: 2023-04-28
@@ -14,7 +14,7 @@ youtube_url: "https://youtube.com/live/McHbN0vAbMA"
 image: "/assets/images/title-slides/episode-160.jpg"
 ---
 
-# Episode 160 (4/28/2023)
+# Episode 160 (April 28, 2023)
 
 [Watch Full Stream on YouTube &rarr;](https://youtube.com/live/McHbN0vAbMA)
 

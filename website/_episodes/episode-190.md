@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 190 (12/8/2023)"
+title: "Episode 190 (December 8, 2023)"
 episode_number: "190"
 date_string: "12/8/2023"
 date: 2023-12-08
@@ -14,7 +14,7 @@ youtube_url: "https://youtube.com/live/PrDk9KYIT4g"
 image: "/assets/images/title-slides/episode-190.jpg"
 ---
 
-# Episode 190 (12/8/2023)
+# Episode 190 (December 8, 2023)
 
 [Watch Full Stream on YouTube &rarr;](https://youtube.com/live/PrDk9KYIT4g)
 

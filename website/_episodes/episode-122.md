@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 122 (7/15/2022)"
+title: "Episode 122 (July 15, 2022)"
 episode_number: "122"
 date_string: "7/15/2022"
 date: 2022-07-15
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/vl789QxMIG4"
 image: "/assets/images/title-slides/episode-122.jpg"
 ---
 
-# Episode 122 (7/15/2022)
+# Episode 122 (July 15, 2022)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/vl789QxMIG4)
 

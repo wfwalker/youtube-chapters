@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 117 (6/10/2022)"
+title: "Episode 117 (June 10, 2022)"
 episode_number: "117"
 date_string: "6/10/2022"
 date: 2022-06-10
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/Um0wMxG_j1k"
 image: "/assets/images/title-slides/episode-117.jpg"
 ---
 
-# Episode 117 (6/10/2022)
+# Episode 117 (June 10, 2022)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/Um0wMxG_j1k)
 

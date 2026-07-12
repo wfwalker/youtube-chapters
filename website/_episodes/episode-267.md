@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 267 (8/8/2025)"
+title: "Episode 267 (August 8, 2025)"
 episode_number: "267"
 date_string: "8/8/2025"
 date: 2025-08-08
@@ -13,7 +13,7 @@ notes: ""
 youtube_url: "https://youtu.be/Hua1nZI9UyY"
 ---
 
-# Episode 267 (8/8/2025)
+# Episode 267 (August 8, 2025)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/Hua1nZI9UyY)
 

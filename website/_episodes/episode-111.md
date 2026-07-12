@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 111 (4/29/2022)"
+title: "Episode 111 (April 29, 2022)"
 episode_number: "111"
 date_string: "4/29/2022"
 date: 2022-04-29
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/leI4x1fedrQ"
 image: "/assets/images/title-slides/episode-111.jpg"
 ---
 
-# Episode 111 (4/29/2022)
+# Episode 111 (April 29, 2022)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/leI4x1fedrQ)
 

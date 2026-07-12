@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 101 (2/18/2022)"
+title: "Episode 101 (February 18, 2022)"
 episode_number: "101"
 date_string: "2/18/2022"
 date: 2022-02-18
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/3mAFWZBR_QU"
 image: "/assets/images/title-slides/episode-101.jpg"
 ---
 
-# Episode 101 (2/18/2022)
+# Episode 101 (February 18, 2022)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/3mAFWZBR_QU)
 

@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 36 (11/20/2020)"
+title: "Episode 36 (November 20, 2020)"
 episode_number: "36"
 date_string: "11/20/2020"
 date: 2020-11-20
@@ -13,7 +13,7 @@ notes: "yes"
 youtube_url: "https://youtu.be/FgUbgdPd9pw"
 ---
 
-# Episode 36 (11/20/2020)
+# Episode 36 (November 20, 2020)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/FgUbgdPd9pw)
 

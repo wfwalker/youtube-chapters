@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 100 (2/11/2022)"
+title: "Episode 100 (February 11, 2022)"
 episode_number: "100"
 date_string: "2/11/2022"
 date: 2022-02-11
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/6Wlh1-UXkrs"
 image: "/assets/images/title-slides/episode-100.jpg"
 ---
 
-# Episode 100 (2/11/2022)
+# Episode 100 (February 11, 2022)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/6Wlh1-UXkrs)
 

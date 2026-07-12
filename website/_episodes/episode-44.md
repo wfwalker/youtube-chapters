@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 44 (1/15/2021)"
+title: "Episode 44 (January 15, 2021)"
 episode_number: "44"
 date_string: "1/15/2021"
 date: 2021-01-15
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/QkxGwvZFrt8"
 image: "/assets/images/title-slides/episode-44.jpg"
 ---
 
-# Episode 44 (1/15/2021)
+# Episode 44 (January 15, 2021)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/QkxGwvZFrt8)
 

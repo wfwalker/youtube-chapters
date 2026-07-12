@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 175 (8/11/2023)"
+title: "Episode 175 (August 11, 2023)"
 episode_number: "175"
 date_string: "8/11/2023"
 date: 2023-08-11
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/c0po_X-AAOc"
 image: "/assets/images/title-slides/episode-175.jpg"
 ---
 
-# Episode 175 (8/11/2023)
+# Episode 175 (August 11, 2023)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/c0po_X-AAOc)
 

@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 89 (11/26/2021)"
+title: "Episode 89 (November 26, 2021)"
 episode_number: "89"
 date_string: "11/26/2021"
 date: 2021-11-26
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/gojpuqP3s6A"
 image: "/assets/images/title-slides/episode-89.jpg"
 ---
 
-# Episode 89 (11/26/2021)
+# Episode 89 (November 26, 2021)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/gojpuqP3s6A)
 

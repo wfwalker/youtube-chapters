@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 143 (12/30/2022)"
+title: "Episode 143 (December 30, 2022)"
 episode_number: "143"
 date_string: "12/30/2022"
 date: 2022-12-30
@@ -14,7 +14,7 @@ youtube_url: "https://youtube.com/live/ayeY3t9WvGA"
 image: "/assets/images/title-slides/episode-143.jpg"
 ---
 
-# Episode 143 (12/30/2022)
+# Episode 143 (December 30, 2022)
 
 [Watch Full Stream on YouTube &rarr;](https://youtube.com/live/ayeY3t9WvGA)
 

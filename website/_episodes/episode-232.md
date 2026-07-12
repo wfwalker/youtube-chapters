@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 232 (11/8/2024)"
+title: "Episode 232 (November 8, 2024)"
 episode_number: "232"
 date_string: "11/8/2024"
 date: 2024-11-08
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/pv1DuIvoWIQ"
 image: "/assets/images/title-slides/episode-232.jpg"
 ---
 
-# Episode 232 (11/8/2024)
+# Episode 232 (November 8, 2024)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/pv1DuIvoWIQ)
 

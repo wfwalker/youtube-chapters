@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 159 (4/21/2023)"
+title: "Episode 159 (April 21, 2023)"
 episode_number: "159"
 date_string: "4/21/2023"
 date: 2023-04-21
@@ -14,7 +14,7 @@ youtube_url: "https://youtube.com/live/YOlVjS1rPFY"
 image: "/assets/images/title-slides/episode-159.jpg"
 ---
 
-# Episode 159 (4/21/2023)
+# Episode 159 (April 21, 2023)
 
 [Watch Full Stream on YouTube &rarr;](https://youtube.com/live/YOlVjS1rPFY)
 

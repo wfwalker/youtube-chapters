@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 186 (11/10/2023)"
+title: "Episode 186 (November 10, 2023)"
 episode_number: "186"
 date_string: "11/10/2023"
 date: 2023-11-10
@@ -14,7 +14,7 @@ youtube_url: "https://youtube.com/live/D-dBopJUwAA"
 image: "/assets/images/title-slides/episode-186.jpg"
 ---
 
-# Episode 186 (11/10/2023)
+# Episode 186 (November 10, 2023)
 
 [Watch Full Stream on YouTube &rarr;](https://youtube.com/live/D-dBopJUwAA)
 

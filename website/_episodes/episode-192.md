@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 192 (12/22/2023)"
+title: "Episode 192 (December 22, 2023)"
 episode_number: "192"
 date_string: "12/22/2023"
 date: 2023-12-22
@@ -14,7 +14,7 @@ youtube_url: "https://youtube.com/live/KgYYoikVQ1E"
 image: "/assets/images/title-slides/episode-192.jpg"
 ---
 
-# Episode 192 (12/22/2023)
+# Episode 192 (December 22, 2023)
 
 [Watch Full Stream on YouTube &rarr;](https://youtube.com/live/KgYYoikVQ1E)
 

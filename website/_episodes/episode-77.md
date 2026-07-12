@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 77 (9/3/2021)"
+title: "Episode 77 (September 3, 2021)"
 episode_number: "77"
 date_string: "9/3/2021"
 date: 2021-09-03
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/Rg_ZLaPOj64"
 image: "/assets/images/title-slides/episode-77.jpg"
 ---
 
-# Episode 77 (9/3/2021)
+# Episode 77 (September 3, 2021)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/Rg_ZLaPOj64)
 

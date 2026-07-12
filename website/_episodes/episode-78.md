@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 78 (9/10/2021)"
+title: "Episode 78 (September 10, 2021)"
 episode_number: "78"
 date_string: "9/10/2021"
 date: 2021-09-10
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/NuXghDNajFw"
 image: "/assets/images/title-slides/episode-78.jpg"
 ---
 
-# Episode 78 (9/10/2021)
+# Episode 78 (September 10, 2021)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/NuXghDNajFw)
 

@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 256 (6/5/2026) (Rerun)"
+title: "Episode 256 (June 5, 2026) (Rerun)"
 episode_number: "256"
 date_string: "6/5/2026"
 date: 2026-06-05
@@ -14,7 +14,7 @@ youtube_url: ""
 image: "/assets/images/title-slides/episode-256-rerun-652026.jpg"
 ---
 
-# Episode 256 (6/5/2026) (Rerun)
+# Episode 256 (June 5, 2026) (Rerun)
 
 ### Set List
 

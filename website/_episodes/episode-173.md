@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 173 (7/28/2023)"
+title: "Episode 173 (July 28, 2023)"
 episode_number: "173"
 date_string: "7/28/2023"
 date: 2023-07-28
@@ -14,7 +14,7 @@ youtube_url: "https://youtube.com/live/4JSpJDLIYKI"
 image: "/assets/images/title-slides/episode-173.jpg"
 ---
 
-# Episode 173 (7/28/2023)
+# Episode 173 (July 28, 2023)
 
 [Watch Full Stream on YouTube &rarr;](https://youtube.com/live/4JSpJDLIYKI)
 

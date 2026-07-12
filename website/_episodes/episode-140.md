@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 140 (12/9/2022)"
+title: "Episode 140 (December 9, 2022)"
 episode_number: "140"
 date_string: "12/9/2022"
 date: 2022-12-09
@@ -14,7 +14,7 @@ youtube_url: "https://youtube.com/live/2vM_dR9jpjk"
 image: "/assets/images/title-slides/episode-140.jpg"
 ---
 
-# Episode 140 (12/9/2022)
+# Episode 140 (December 9, 2022)
 
 [Watch Full Stream on YouTube &rarr;](https://youtube.com/live/2vM_dR9jpjk)
 

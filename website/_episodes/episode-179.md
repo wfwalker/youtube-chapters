@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 179 (9/15/2023)"
+title: "Episode 179 (September 15, 2023)"
 episode_number: "179"
 date_string: "9/15/2023"
 date: 2023-09-15
@@ -14,7 +14,7 @@ youtube_url: "https://youtube.com/live/NfYxpQ1E1Ms"
 image: "/assets/images/title-slides/episode-179.jpg"
 ---
 
-# Episode 179 (9/15/2023)
+# Episode 179 (September 15, 2023)
 
 [Watch Full Stream on YouTube &rarr;](https://youtube.com/live/NfYxpQ1E1Ms)
 

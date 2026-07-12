@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 98 (1/28/2022)"
+title: "Episode 98 (January 28, 2022)"
 episode_number: "98"
 date_string: "1/28/2022"
 date: 2022-01-28
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/zEpV0UCl2es"
 image: "/assets/images/title-slides/episode-98.jpg"
 ---
 
-# Episode 98 (1/28/2022)
+# Episode 98 (January 28, 2022)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/zEpV0UCl2es)
 

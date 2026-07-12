@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 191 (12/15/2023)"
+title: "Episode 191 (December 15, 2023)"
 episode_number: "191"
 date_string: "12/15/2023"
 date: 2023-12-15
@@ -14,7 +14,7 @@ youtube_url: "https://youtube.com/live/PFt-ZzJqLC8"
 image: "/assets/images/title-slides/episode-191.jpg"
 ---
 
-# Episode 191 (12/15/2023)
+# Episode 191 (December 15, 2023)
 
 [Watch Full Stream on YouTube &rarr;](https://youtube.com/live/PFt-ZzJqLC8)
 

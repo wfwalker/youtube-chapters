@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 129 (9/8/2023) (Rerun)"
+title: "Episode 129 (September 8, 2023) (Rerun)"
 episode_number: "129"
 date_string: "9/8/2023"
 date: 2023-09-08
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/zxhyx-uWlJQ"
 image: "/assets/images/title-slides/episode-129-rerun-982023.jpg"
 ---
 
-# Episode 129 (9/8/2023) (Rerun)
+# Episode 129 (September 8, 2023) (Rerun)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/zxhyx-uWlJQ)
 

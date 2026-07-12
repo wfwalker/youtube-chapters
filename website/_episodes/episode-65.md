@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 65 (6/11/2021)"
+title: "Episode 65 (June 11, 2021)"
 episode_number: "65"
 date_string: "6/11/2021"
 date: 2021-06-11
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/ZnlVVoHkbCE"
 image: "/assets/images/title-slides/episode-65.jpg"
 ---
 
-# Episode 65 (6/11/2021)
+# Episode 65 (June 11, 2021)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/ZnlVVoHkbCE)
 

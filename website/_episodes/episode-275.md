@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 275 (10/17/2025)"
+title: "Episode 275 (October 17, 2025)"
 episode_number: "275"
 date_string: "10/17/2025"
 date: 2025-10-17
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/40ZECVY00h4"
 image: "/assets/images/title-slides/episode-275.jpg"
 ---
 
-# Episode 275 (10/17/2025)
+# Episode 275 (October 17, 2025)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/40ZECVY00h4)
 

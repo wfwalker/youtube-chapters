@@ -1,6 +1,7 @@
 import csv
 import os
 import re
+import datetime
 
 csv_path = "/Users/walker/Dropbox/youtube-chapters/FJHH songs - Songs.csv"
 episodes_csv_path = "/Users/walker/Dropbox/youtube-chapters/FJHH songs - Episodes.csv"
@@ -31,6 +32,19 @@ def normalize_date_str(date_str):
         except ValueError:
             pass
     return date_str.strip()
+
+def format_long_date(date_str):
+    if not date_str:
+        return ""
+    parts = date_str.split('/')
+    if len(parts) == 3:
+        try:
+            m, d, y = int(parts[0]), int(parts[1]), int(parts[2])
+            month_name = datetime.date(y, m, 1).strftime("%B")
+            return f"{month_name} {d}, {y}"
+        except ValueError:
+            pass
+    return date_str
 
 def format_offset_time(seconds_str):
     try:
@@ -253,16 +267,17 @@ def generate_episodes(song_counts, episodes_data, rerun_keys, canonical_dates, m
         notes = meta_entry.get("notes") or ""
         
         # Generate slug and title
+        long_date = format_long_date(date)
         if epi:
             if is_rerun:
                 slug = f"episode-{slugify(epi)}-rerun-{slugify(date)}"
-                title = f"Episode {epi} ({date}) (Rerun)"
+                title = f"Episode {epi} ({long_date}) (Rerun)"
             else:
                 slug = f"episode-{slugify(epi)}"
-                title = f"Episode {epi} ({date})"
+                title = f"Episode {epi} ({long_date})"
         else:
             slug = f"show-{slugify(date)}"
-            title = f"Show ({date})"
+            title = f"Show ({long_date})"
             
         # Check if title slide image exists
         image_url = None

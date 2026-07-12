@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 33 (10/30/2020)"
+title: "Episode 33 (October 30, 2020)"
 episode_number: "33"
 date_string: "10/30/2020"
 date: 2020-10-30
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/kRuS4bBAE_s"
 image: "/assets/images/title-slides/episode-33.jpg"
 ---
 
-# Episode 33 (10/30/2020)
+# Episode 33 (October 30, 2020)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/kRuS4bBAE_s)
 

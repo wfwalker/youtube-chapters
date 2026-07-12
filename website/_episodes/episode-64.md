@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 64 (6/4/2021)"
+title: "Episode 64 (June 4, 2021)"
 episode_number: "64"
 date_string: "6/4/2021"
 date: 2021-06-04
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/S_oefge4qcQ"
 image: "/assets/images/title-slides/episode-64.jpg"
 ---
 
-# Episode 64 (6/4/2021)
+# Episode 64 (June 4, 2021)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/S_oefge4qcQ)
 

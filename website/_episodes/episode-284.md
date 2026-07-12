@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 284 (1/2/2026)"
+title: "Episode 284 (January 2, 2026)"
 episode_number: "284"
 date_string: "1/2/2026"
 date: 2026-01-02
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/fcqu-1RQCO0"
 image: "/assets/images/title-slides/episode-284.jpg"
 ---
 
-# Episode 284 (1/2/2026)
+# Episode 284 (January 2, 2026)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/fcqu-1RQCO0)
 

@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 95 (1/7/2022)"
+title: "Episode 95 (January 7, 2022)"
 episode_number: "95"
 date_string: "1/7/2022"
 date: 2022-01-07
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/lnzNHv36_sI"
 image: "/assets/images/title-slides/episode-95.jpg"
 ---
 
-# Episode 95 (1/7/2022)
+# Episode 95 (January 7, 2022)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/lnzNHv36_sI)
 

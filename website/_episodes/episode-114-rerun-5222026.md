@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 114 (5/22/2026) (Rerun)"
+title: "Episode 114 (May 22, 2026) (Rerun)"
 episode_number: "114"
 date_string: "5/22/2026"
 date: 2026-05-22
@@ -14,7 +14,7 @@ youtube_url: ""
 image: "/assets/images/title-slides/episode-114-rerun-5222026.jpg"
 ---
 
-# Episode 114 (5/22/2026) (Rerun)
+# Episode 114 (May 22, 2026) (Rerun)
 
 ### Set List
 

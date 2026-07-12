@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 47 (2/5/2021)"
+title: "Episode 47 (February 5, 2021)"
 episode_number: "47"
 date_string: "2/5/2021"
 date: 2021-02-05
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/n3dKUHIuIlU"
 image: "/assets/images/title-slides/episode-47.jpg"
 ---
 
-# Episode 47 (2/5/2021)
+# Episode 47 (February 5, 2021)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/n3dKUHIuIlU)
 

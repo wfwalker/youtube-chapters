@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 223 (9/7/2024)"
+title: "Episode 223 (September 7, 2024)"
 episode_number: "223"
 date_string: "9/7/2024"
 date: 2024-09-07
@@ -14,7 +14,7 @@ youtube_url: ""
 image: "/assets/images/title-slides/episode-223.jpg"
 ---
 
-# Episode 223 (9/7/2024)
+# Episode 223 (September 7, 2024)
 
 ### Set List
 

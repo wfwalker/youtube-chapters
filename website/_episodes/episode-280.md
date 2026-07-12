@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 280 (12/5/2025)"
+title: "Episode 280 (December 5, 2025)"
 episode_number: "280"
 date_string: "12/5/2025"
 date: 2025-12-05
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/QLiLmqENUeE"
 image: "/assets/images/title-slides/episode-280.jpg"
 ---
 
-# Episode 280 (12/5/2025)
+# Episode 280 (December 5, 2025)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/QLiLmqENUeE)
 

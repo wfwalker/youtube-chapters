@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 165 (6/2/2023)"
+title: "Episode 165 (June 2, 2023)"
 episode_number: "165"
 date_string: "6/2/2023"
 date: 2023-06-02
@@ -14,7 +14,7 @@ youtube_url: "https://youtube.com/live/VPewOVmpYTg"
 image: "/assets/images/title-slides/episode-165.jpg"
 ---
 
-# Episode 165 (6/2/2023)
+# Episode 165 (June 2, 2023)
 
 [Watch Full Stream on YouTube &rarr;](https://youtube.com/live/VPewOVmpYTg)
 

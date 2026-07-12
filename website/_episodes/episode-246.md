@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 246 (2/14/2025)"
+title: "Episode 246 (February 14, 2025)"
 episode_number: "246"
 date_string: "2/14/2025"
 date: 2025-02-14
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/77mES0-RJsc"
 image: "/assets/images/title-slides/episode-246.jpg"
 ---
 
-# Episode 246 (2/14/2025)
+# Episode 246 (February 14, 2025)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/77mES0-RJsc)
 

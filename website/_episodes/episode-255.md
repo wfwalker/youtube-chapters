@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 255 (5/9/2025)"
+title: "Episode 255 (May 9, 2025)"
 episode_number: "255"
 date_string: "5/9/2025"
 date: 2025-05-09
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/6jjYZ-PG--g"
 image: "/assets/images/title-slides/episode-255.jpg"
 ---
 
-# Episode 255 (5/9/2025)
+# Episode 255 (May 9, 2025)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/6jjYZ-PG--g)
 

@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 63 (5/28/2021)"
+title: "Episode 63 (May 28, 2021)"
 episode_number: "63"
 date_string: "5/28/2021"
 date: 2021-05-28
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/m7hZS9rLGO0"
 image: "/assets/images/title-slides/episode-63.jpg"
 ---
 
-# Episode 63 (5/28/2021)
+# Episode 63 (May 28, 2021)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/m7hZS9rLGO0)
 

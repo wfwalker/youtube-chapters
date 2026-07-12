@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 51 (3/5/2021)"
+title: "Episode 51 (March 5, 2021)"
 episode_number: "51"
 date_string: "3/5/2021"
 date: 2021-03-05
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/Wxw626FLkDw"
 image: "/assets/images/title-slides/episode-51.jpg"
 ---
 
-# Episode 51 (3/5/2021)
+# Episode 51 (March 5, 2021)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/Wxw626FLkDw)
 

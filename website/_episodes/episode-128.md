@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 128 (8/26/2022)"
+title: "Episode 128 (August 26, 2022)"
 episode_number: "128"
 date_string: "8/26/2022"
 date: 2022-08-26
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/O9QM80LF2bA"
 image: "/assets/images/title-slides/episode-128.jpg"
 ---
 
-# Episode 128 (8/26/2022)
+# Episode 128 (August 26, 2022)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/O9QM80LF2bA)
 

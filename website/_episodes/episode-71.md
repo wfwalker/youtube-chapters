@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 71 (7/23/2021)"
+title: "Episode 71 (July 23, 2021)"
 episode_number: "71"
 date_string: "7/23/2021"
 date: 2021-07-23
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/8xnSYgneRlI"
 image: "/assets/images/title-slides/episode-71.jpg"
 ---
 
-# Episode 71 (7/23/2021)
+# Episode 71 (July 23, 2021)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/8xnSYgneRlI)
 

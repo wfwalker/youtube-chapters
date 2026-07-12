@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 163 (5/19/2023)"
+title: "Episode 163 (May 19, 2023)"
 episode_number: "163"
 date_string: "5/19/2023"
 date: 2023-05-19
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/5SC9LUwuawY"
 image: "/assets/images/title-slides/episode-163.jpg"
 ---
 
-# Episode 163 (5/19/2023)
+# Episode 163 (May 19, 2023)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/5SC9LUwuawY)
 

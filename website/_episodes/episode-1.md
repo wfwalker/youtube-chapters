@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 1 (3/20/2020)"
+title: "Episode 1 (March 20, 2020)"
 episode_number: "1"
 date_string: "3/20/2020"
 date: 2020-03-20
@@ -13,7 +13,7 @@ notes: ""
 youtube_url: "https://youtu.be/7M092e2XoLI"
 ---
 
-# Episode 1 (3/20/2020)
+# Episode 1 (March 20, 2020)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/7M092e2XoLI)
 

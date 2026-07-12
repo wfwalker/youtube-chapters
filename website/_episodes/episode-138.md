@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 138 (11/4/2022)"
+title: "Episode 138 (November 4, 2022)"
 episode_number: "138"
 date_string: "11/4/2022"
 date: 2022-11-04
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/8XM8B7y4T_Q"
 image: "/assets/images/title-slides/episode-138.jpg"
 ---
 
-# Episode 138 (11/4/2022)
+# Episode 138 (November 4, 2022)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/8XM8B7y4T_Q)
 

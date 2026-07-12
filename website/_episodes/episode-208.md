@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 208 (5/10/2024)"
+title: "Episode 208 (May 10, 2024)"
 episode_number: "208"
 date_string: "5/10/2024"
 date: 2024-05-10
@@ -14,7 +14,7 @@ youtube_url: ""
 image: "/assets/images/title-slides/episode-208.jpg"
 ---
 
-# Episode 208 (5/10/2024)
+# Episode 208 (May 10, 2024)
 
 ### Set List
 

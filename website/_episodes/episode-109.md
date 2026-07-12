@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 109 (4/15/2022)"
+title: "Episode 109 (April 15, 2022)"
 episode_number: "109"
 date_string: "4/15/2022"
 date: 2022-04-15
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/ie-BmPj4-rQ"
 image: "/assets/images/title-slides/episode-109.jpg"
 ---
 
-# Episode 109 (4/15/2022)
+# Episode 109 (April 15, 2022)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/ie-BmPj4-rQ)
 

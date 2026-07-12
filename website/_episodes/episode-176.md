@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 176 (8/18/2023)"
+title: "Episode 176 (August 18, 2023)"
 episode_number: "176"
 date_string: "8/18/2023"
 date: 2023-08-18
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/MIwLmoFc8Dk"
 image: "/assets/images/title-slides/episode-176.jpg"
 ---
 
-# Episode 176 (8/18/2023)
+# Episode 176 (August 18, 2023)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/MIwLmoFc8Dk)
 

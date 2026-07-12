@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 69 (7/9/2021)"
+title: "Episode 69 (July 9, 2021)"
 episode_number: "69"
 date_string: "7/9/2021"
 date: 2021-07-09
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/LcOwt_X_aog"
 image: "/assets/images/title-slides/episode-69.jpg"
 ---
 
-# Episode 69 (7/9/2021)
+# Episode 69 (July 9, 2021)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/LcOwt_X_aog)
 

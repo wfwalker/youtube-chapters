@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 103 (3/4/2022)"
+title: "Episode 103 (March 4, 2022)"
 episode_number: "103"
 date_string: "3/4/2022"
 date: 2022-03-04
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/FJztyT2596g"
 image: "/assets/images/title-slides/episode-103.jpg"
 ---
 
-# Episode 103 (3/4/2022)
+# Episode 103 (March 4, 2022)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/FJztyT2596g)
 

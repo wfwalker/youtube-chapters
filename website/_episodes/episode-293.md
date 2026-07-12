@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 293 (4/3/2026)"
+title: "Episode 293 (April 3, 2026)"
 episode_number: "293"
 date_string: "4/3/2026"
 date: 2026-04-03
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/KkTlK_8jt9U"
 image: "/assets/images/title-slides/episode-293.jpg"
 ---
 
-# Episode 293 (4/3/2026)
+# Episode 293 (April 3, 2026)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/KkTlK_8jt9U)
 

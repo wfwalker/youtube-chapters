@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 31 (10/16/2020)"
+title: "Episode 31 (October 16, 2020)"
 episode_number: "31"
 date_string: "10/16/2020"
 date: 2020-10-16
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/QeraCjgLykE"
 image: "/assets/images/title-slides/episode-31.jpg"
 ---
 
-# Episode 31 (10/16/2020)
+# Episode 31 (October 16, 2020)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/QeraCjgLykE)
 

@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 277 (10/31/2025)"
+title: "Episode 277 (October 31, 2025)"
 episode_number: "277"
 date_string: "10/31/2025"
 date: 2025-10-31
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/TipLOuuu09k"
 image: "/assets/images/title-slides/episode-277.jpg"
 ---
 
-# Episode 277 (10/31/2025)
+# Episode 277 (October 31, 2025)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/TipLOuuu09k)
 

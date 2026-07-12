@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 230 (10/25/2024)"
+title: "Episode 230 (October 25, 2024)"
 episode_number: "230"
 date_string: "10/25/2024"
 date: 2024-10-25
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/XqvwkYOvH7A"
 image: "/assets/images/title-slides/episode-230.jpg"
 ---
 
-# Episode 230 (10/25/2024)
+# Episode 230 (October 25, 2024)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/XqvwkYOvH7A)
 

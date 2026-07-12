@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 228 (10/11/2024)"
+title: "Episode 228 (October 11, 2024)"
 episode_number: "228"
 date_string: "10/11/2024"
 date: 2024-10-11
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/yCoLXwxjmz8"
 image: "/assets/images/title-slides/episode-228.jpg"
 ---
 
-# Episode 228 (10/11/2024)
+# Episode 228 (October 11, 2024)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/yCoLXwxjmz8)
 

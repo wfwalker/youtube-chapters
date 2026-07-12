@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 238 (12/20/2024)"
+title: "Episode 238 (December 20, 2024)"
 episode_number: "238"
 date_string: "12/20/2024"
 date: 2024-12-20
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/vbeeOdLoXTw"
 image: "/assets/images/title-slides/episode-238.jpg"
 ---
 
-# Episode 238 (12/20/2024)
+# Episode 238 (December 20, 2024)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/vbeeOdLoXTw)
 

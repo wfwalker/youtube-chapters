@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 251 (4/11/2025)"
+title: "Episode 251 (April 11, 2025)"
 episode_number: "251"
 date_string: "4/11/2025"
 date: 2025-04-11
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/xojQZBi4_2M"
 image: "/assets/images/title-slides/episode-251.jpg"
 ---
 
-# Episode 251 (4/11/2025)
+# Episode 251 (April 11, 2025)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/xojQZBi4_2M)
 

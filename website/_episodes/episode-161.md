@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 161 (5/5/2023)"
+title: "Episode 161 (May 5, 2023)"
 episode_number: "161"
 date_string: "5/5/2023"
 date: 2023-05-05
@@ -14,7 +14,7 @@ youtube_url: "https://youtube.com/live/iSBCTTvF5RM"
 image: "/assets/images/title-slides/episode-161.jpg"
 ---
 
-# Episode 161 (5/5/2023)
+# Episode 161 (May 5, 2023)
 
 [Watch Full Stream on YouTube &rarr;](https://youtube.com/live/iSBCTTvF5RM)
 

@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 262 (6/27/2025)"
+title: "Episode 262 (June 27, 2025)"
 episode_number: "262"
 date_string: "6/27/2025"
 date: 2025-06-27
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/WD3UXe_wpDc"
 image: "/assets/images/title-slides/episode-262.jpg"
 ---
 
-# Episode 262 (6/27/2025)
+# Episode 262 (June 27, 2025)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/WD3UXe_wpDc)
 

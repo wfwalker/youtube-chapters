@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 10 (5/22/2020)"
+title: "Episode 10 (May 22, 2020)"
 episode_number: "10"
 date_string: "5/22/2020"
 date: 2020-05-22
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/Wa5KVG0iCKM"
 image: "/assets/images/title-slides/episode-10.png"
 ---
 
-# Episode 10 (5/22/2020)
+# Episode 10 (May 22, 2020)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/Wa5KVG0iCKM)
 

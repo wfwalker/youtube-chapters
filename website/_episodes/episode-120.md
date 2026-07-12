@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 120 (7/1/2022)"
+title: "Episode 120 (July 1, 2022)"
 episode_number: "120"
 date_string: "7/1/2022"
 date: 2022-07-01
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/eIUxG9vQkiw"
 image: "/assets/images/title-slides/episode-120.jpg"
 ---
 
-# Episode 120 (7/1/2022)
+# Episode 120 (July 1, 2022)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/eIUxG9vQkiw)
 

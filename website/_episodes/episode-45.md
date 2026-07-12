@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 45 (1/22/2021)"
+title: "Episode 45 (January 22, 2021)"
 episode_number: "45"
 date_string: "1/22/2021"
 date: 2021-01-22
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/9MPZ7yfdE6o"
 image: "/assets/images/title-slides/episode-45.jpg"
 ---
 
-# Episode 45 (1/22/2021)
+# Episode 45 (January 22, 2021)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/9MPZ7yfdE6o)
 

@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 252 (4/18/2025)"
+title: "Episode 252 (April 18, 2025)"
 episode_number: "252"
 date_string: "4/18/2025"
 date: 2025-04-18
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/J3Z7I-c9vaQ"
 image: "/assets/images/title-slides/episode-252.jpg"
 ---
 
-# Episode 252 (4/18/2025)
+# Episode 252 (April 18, 2025)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/J3Z7I-c9vaQ)
 

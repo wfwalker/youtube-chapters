@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 239 (12/27/2024)"
+title: "Episode 239 (December 27, 2024)"
 episode_number: "239"
 date_string: "12/27/2024"
 date: 2024-12-27
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/1jD6fxeWhWc"
 image: "/assets/images/title-slides/episode-239.jpg"
 ---
 
-# Episode 239 (12/27/2024)
+# Episode 239 (December 27, 2024)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/1jD6fxeWhWc)
 

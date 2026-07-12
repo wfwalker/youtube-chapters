@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 105 (3/17/2022)"
+title: "Episode 105 (March 17, 2022)"
 episode_number: "105"
 date_string: "3/17/2022"
 date: 2022-03-17
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/BddGe4Ag9_M"
 image: "/assets/images/title-slides/episode-105.jpg"
 ---
 
-# Episode 105 (3/17/2022)
+# Episode 105 (March 17, 2022)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/BddGe4Ag9_M)
 

@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 146 (1/20/2023)"
+title: "Episode 146 (January 20, 2023)"
 episode_number: "146"
 date_string: "1/20/2023"
 date: 2023-01-20
@@ -14,7 +14,7 @@ youtube_url: "https://youtube.com/live/_UbYlUluq8M"
 image: "/assets/images/title-slides/episode-146.jpg"
 ---
 
-# Episode 146 (1/20/2023)
+# Episode 146 (January 20, 2023)
 
 [Watch Full Stream on YouTube &rarr;](https://youtube.com/live/_UbYlUluq8M)
 

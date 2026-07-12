@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 99 (2/4/2022)"
+title: "Episode 99 (February 4, 2022)"
 episode_number: "99"
 date_string: "2/4/2022"
 date: 2022-02-04
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/gK7O90mHgQ4"
 image: "/assets/images/title-slides/episode-99.jpg"
 ---
 
-# Episode 99 (2/4/2022)
+# Episode 99 (February 4, 2022)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/gK7O90mHgQ4)
 

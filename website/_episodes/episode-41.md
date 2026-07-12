@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 41 (12/25/2020)"
+title: "Episode 41 (December 25, 2020)"
 episode_number: "41"
 date_string: "12/25/2020"
 date: 2020-12-25
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/G-HJYWxotdo"
 image: "/assets/images/title-slides/episode-41.jpg"
 ---
 
-# Episode 41 (12/25/2020)
+# Episode 41 (December 25, 2020)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/G-HJYWxotdo)
 

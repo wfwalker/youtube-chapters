@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 182 (10/13/2023)"
+title: "Episode 182 (October 13, 2023)"
 episode_number: "182"
 date_string: "10/13/2023"
 date: 2023-10-13
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/3gn7cZOMOqA"
 image: "/assets/images/title-slides/episode-182.jpg"
 ---
 
-# Episode 182 (10/13/2023)
+# Episode 182 (October 13, 2023)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/3gn7cZOMOqA)
 

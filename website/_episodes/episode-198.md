@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 198 (2/2/2024)"
+title: "Episode 198 (February 2, 2024)"
 episode_number: "198"
 date_string: "2/2/2024"
 date: 2024-02-02
@@ -14,7 +14,7 @@ youtube_url: "https://youtube.com/live/aYw8t_zg3-k"
 image: "/assets/images/title-slides/episode-198.jpg"
 ---
 
-# Episode 198 (2/2/2024)
+# Episode 198 (February 2, 2024)
 
 [Watch Full Stream on YouTube &rarr;](https://youtube.com/live/aYw8t_zg3-k)
 

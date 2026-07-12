@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 52 (3/12/2021)"
+title: "Episode 52 (March 12, 2021)"
 episode_number: "52"
 date_string: "3/12/2021"
 date: 2021-03-12
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/lrD9RxOWutM"
 image: "/assets/images/title-slides/episode-52.jpg"
 ---
 
-# Episode 52 (3/12/2021)
+# Episode 52 (March 12, 2021)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/lrD9RxOWutM)
 

@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 289 (2/13/2026)"
+title: "Episode 289 (February 13, 2026)"
 episode_number: "289"
 date_string: "2/13/2026"
 date: 2026-02-13
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/ENn7iL9IwXc"
 image: "/assets/images/title-slides/episode-289.jpg"
 ---
 
-# Episode 289 (2/13/2026)
+# Episode 289 (February 13, 2026)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/ENn7iL9IwXc)
 

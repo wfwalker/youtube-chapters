@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 272 (9/19/2025)"
+title: "Episode 272 (September 19, 2025)"
 episode_number: "272"
 date_string: "9/19/2025"
 date: 2025-09-19
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/fZ5kBawF-lc"
 image: "/assets/images/title-slides/episode-272.jpg"
 ---
 
-# Episode 272 (9/19/2025)
+# Episode 272 (September 19, 2025)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/fZ5kBawF-lc)
 

@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 210 (5/24/2024)"
+title: "Episode 210 (May 24, 2024)"
 episode_number: "210"
 date_string: "5/24/2024"
 date: 2024-05-24
@@ -14,7 +14,7 @@ youtube_url: ""
 image: "/assets/images/title-slides/episode-210.jpg"
 ---
 
-# Episode 210 (5/24/2024)
+# Episode 210 (May 24, 2024)
 
 ### Set List
 

@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 236 (12/6/2024)"
+title: "Episode 236 (December 6, 2024)"
 episode_number: "236"
 date_string: "12/6/2024"
 date: 2024-12-06
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/tqSSFCBxZ94"
 image: "/assets/images/title-slides/episode-236.jpg"
 ---
 
-# Episode 236 (12/6/2024)
+# Episode 236 (December 6, 2024)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/tqSSFCBxZ94)
 

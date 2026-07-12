@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 298 (5/15/2026)"
+title: "Episode 298 (May 15, 2026)"
 episode_number: "298"
 date_string: "5/15/2026"
 date: 2026-05-15
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/JXm5bNWc5Tk"
 image: "/assets/images/title-slides/episode-298.jpg"
 ---
 
-# Episode 298 (5/15/2026)
+# Episode 298 (May 15, 2026)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/JXm5bNWc5Tk)
 

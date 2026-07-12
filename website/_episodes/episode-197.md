@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 197 (1/26/2024)"
+title: "Episode 197 (January 26, 2024)"
 episode_number: "197"
 date_string: "1/26/2024"
 date: 2024-01-26
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/W5NKKcpYGhc"
 image: "/assets/images/title-slides/episode-197.jpg"
 ---
 
-# Episode 197 (1/26/2024)
+# Episode 197 (January 26, 2024)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/W5NKKcpYGhc)
 

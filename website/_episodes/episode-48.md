@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 48 (2/12/2021)"
+title: "Episode 48 (February 12, 2021)"
 episode_number: "48"
 date_string: "2/12/2021"
 date: 2021-02-12
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/qK4QPjXbR7g"
 image: "/assets/images/title-slides/episode-48.jpg"
 ---
 
-# Episode 48 (2/12/2021)
+# Episode 48 (February 12, 2021)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/qK4QPjXbR7g)
 

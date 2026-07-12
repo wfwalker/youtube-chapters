@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 50 (2/26/2021)"
+title: "Episode 50 (February 26, 2021)"
 episode_number: "50"
 date_string: "2/26/2021"
 date: 2021-02-26
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/TKoh0MrsGgs"
 image: "/assets/images/title-slides/episode-50.jpg"
 ---
 
-# Episode 50 (2/26/2021)
+# Episode 50 (February 26, 2021)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/TKoh0MrsGgs)
 

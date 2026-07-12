@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 220 (8/9/2024)"
+title: "Episode 220 (August 9, 2024)"
 episode_number: "220"
 date_string: "8/9/2024"
 date: 2024-08-09
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/XE9TYfhMm_4"
 image: "/assets/images/title-slides/episode-220.jpg"
 ---
 
-# Episode 220 (8/9/2024)
+# Episode 220 (August 9, 2024)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/XE9TYfhMm_4)
 

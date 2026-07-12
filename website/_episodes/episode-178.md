@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 178 (9/1/2023)"
+title: "Episode 178 (September 1, 2023)"
 episode_number: "178"
 date_string: "9/1/2023"
 date: 2023-09-01
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/0GeyrAZtG6E"
 image: "/assets/images/title-slides/episode-178.jpg"
 ---
 
-# Episode 178 (9/1/2023)
+# Episode 178 (September 1, 2023)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/0GeyrAZtG6E)
 

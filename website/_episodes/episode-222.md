@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 222 (8/30/2024)"
+title: "Episode 222 (August 30, 2024)"
 episode_number: "222"
 date_string: "8/30/2024"
 date: 2024-08-30
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/ZsYIsBKoRQ4"
 image: "/assets/images/title-slides/episode-222.jpg"
 ---
 
-# Episode 222 (8/30/2024)
+# Episode 222 (August 30, 2024)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/ZsYIsBKoRQ4)
 

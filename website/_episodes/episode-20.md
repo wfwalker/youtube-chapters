@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 20 (7/31/2020)"
+title: "Episode 20 (July 31, 2020)"
 episode_number: "20"
 date_string: "7/31/2020"
 date: 2020-07-31
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/sTwgRPVLycU"
 image: "/assets/images/title-slides/episode-20.png"
 ---
 
-# Episode 20 (7/31/2020)
+# Episode 20 (July 31, 2020)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/sTwgRPVLycU)
 

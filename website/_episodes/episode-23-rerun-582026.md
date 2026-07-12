@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 23 (5/8/2026) (Rerun)"
+title: "Episode 23 (May 8, 2026) (Rerun)"
 episode_number: "23"
 date_string: "5/8/2026"
 date: 2026-05-08
@@ -14,7 +14,7 @@ youtube_url: ""
 image: "/assets/images/title-slides/episode-23-rerun-582026.jpg"
 ---
 
-# Episode 23 (5/8/2026) (Rerun)
+# Episode 23 (May 8, 2026) (Rerun)
 
 ### Set List
 

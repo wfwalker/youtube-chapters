@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 133 (9/30/2022)"
+title: "Episode 133 (September 30, 2022)"
 episode_number: "133"
 date_string: "9/30/2022"
 date: 2022-09-30
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/B3o-4sC6Z6w"
 image: "/assets/images/title-slides/episode-133.jpg"
 ---
 
-# Episode 133 (9/30/2022)
+# Episode 133 (September 30, 2022)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/B3o-4sC6Z6w)
 

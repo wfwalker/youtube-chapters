@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 207 (5/3/2024)"
+title: "Episode 207 (May 3, 2024)"
 episode_number: "207"
 date_string: "5/3/2024"
 date: 2024-05-03
@@ -14,7 +14,7 @@ youtube_url: ""
 image: "/assets/images/title-slides/episode-207.jpg"
 ---
 
-# Episode 207 (5/3/2024)
+# Episode 207 (May 3, 2024)
 
 ### Set List
 

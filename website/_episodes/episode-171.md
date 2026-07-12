@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 171 (7/14/2023)"
+title: "Episode 171 (July 14, 2023)"
 episode_number: "171"
 date_string: "7/14/2023"
 date: 2023-07-14
@@ -14,7 +14,7 @@ youtube_url: "https://youtube.com/live/fKV5HywfAsw"
 image: "/assets/images/title-slides/episode-171.jpg"
 ---
 
-# Episode 171 (7/14/2023)
+# Episode 171 (July 14, 2023)
 
 [Watch Full Stream on YouTube &rarr;](https://youtube.com/live/fKV5HywfAsw)
 

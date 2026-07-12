@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 125 (8/5/2022)"
+title: "Episode 125 (August 5, 2022)"
 episode_number: "125"
 date_string: "8/5/2022"
 date: 2022-08-05
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/3bVGI3r8vCY"
 image: "/assets/images/title-slides/episode-125.jpg"
 ---
 
-# Episode 125 (8/5/2022)
+# Episode 125 (August 5, 2022)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/3bVGI3r8vCY)
 

@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 79 (9/17/2021)"
+title: "Episode 79 (September 17, 2021)"
 episode_number: "79"
 date_string: "9/17/2021"
 date: 2021-09-17
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/YaW8IPNpcd0"
 image: "/assets/images/title-slides/episode-79.jpg"
 ---
 
-# Episode 79 (9/17/2021)
+# Episode 79 (September 17, 2021)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/YaW8IPNpcd0)
 

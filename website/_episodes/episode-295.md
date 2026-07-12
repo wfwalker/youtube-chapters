@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 295 (4/17/2026)"
+title: "Episode 295 (April 17, 2026)"
 episode_number: "295"
 date_string: "4/17/2026"
 date: 2026-04-17
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/Is0WQpOVyS8"
 image: "/assets/images/title-slides/episode-295.jpg"
 ---
 
-# Episode 295 (4/17/2026)
+# Episode 295 (April 17, 2026)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/Is0WQpOVyS8)
 

@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 139 (12/2/2022)"
+title: "Episode 139 (December 2, 2022)"
 episode_number: "139"
 date_string: "12/2/2022"
 date: 2022-12-02
@@ -14,7 +14,7 @@ youtube_url: "https://youtube.com/live/ezlBzx7DvTU"
 image: "/assets/images/title-slides/episode-139.jpg"
 ---
 
-# Episode 139 (12/2/2022)
+# Episode 139 (December 2, 2022)
 
 [Watch Full Stream on YouTube &rarr;](https://youtube.com/live/ezlBzx7DvTU)
 

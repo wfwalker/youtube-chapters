@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 240 (12/31/2024)"
+title: "Episode 240 (December 31, 2024)"
 episode_number: "240"
 date_string: "12/31/2024"
 date: 2024-12-31
@@ -14,7 +14,7 @@ youtube_url: ""
 image: "/assets/images/title-slides/episode-240.jpg"
 ---
 
-# Episode 240 (12/31/2024)
+# Episode 240 (December 31, 2024)
 
 ### Set List
 

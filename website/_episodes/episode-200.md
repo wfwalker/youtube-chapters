@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 200 (3/1/2024)"
+title: "Episode 200 (March 1, 2024)"
 episode_number: "200"
 date_string: "3/1/2024"
 date: 2024-03-01
@@ -14,7 +14,7 @@ youtube_url: "https://youtube.com/live/ytDJeP4KC4M"
 image: "/assets/images/title-slides/episode-200.jpg"
 ---
 
-# Episode 200 (3/1/2024)
+# Episode 200 (March 1, 2024)
 
 [Watch Full Stream on YouTube &rarr;](https://youtube.com/live/ytDJeP4KC4M)
 

@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 270 (9/5/2025)"
+title: "Episode 270 (September 5, 2025)"
 episode_number: "270"
 date_string: "9/5/2025"
 date: 2025-09-05
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/6JQ4VUCD0Wg"
 image: "/assets/images/title-slides/episode-270.jpg"
 ---
 
-# Episode 270 (9/5/2025)
+# Episode 270 (September 5, 2025)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/6JQ4VUCD0Wg)
 

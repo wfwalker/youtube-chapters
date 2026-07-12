@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 291 (2/27/2026)"
+title: "Episode 291 (February 27, 2026)"
 episode_number: "291"
 date_string: "2/27/2026"
 date: 2026-02-27
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/Bquy0XJTjr8"
 image: "/assets/images/title-slides/episode-291.jpg"
 ---
 
-# Episode 291 (2/27/2026)
+# Episode 291 (February 27, 2026)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/Bquy0XJTjr8)
 

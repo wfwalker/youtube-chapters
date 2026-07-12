@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 231 (11/1/2024)"
+title: "Episode 231 (November 1, 2024)"
 episode_number: "231"
 date_string: "11/1/2024"
 date: 2024-11-01
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/CVmejQedxHM"
 image: "/assets/images/title-slides/episode-231.jpg"
 ---
 
-# Episode 231 (11/1/2024)
+# Episode 231 (November 1, 2024)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/CVmejQedxHM)
 

@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 82 (10/8/2021)"
+title: "Episode 82 (October 8, 2021)"
 episode_number: "82"
 date_string: "10/8/2021"
 date: 2021-10-08
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/y6pNfq5ndEU"
 image: "/assets/images/title-slides/episode-82.jpg"
 ---
 
-# Episode 82 (10/8/2021)
+# Episode 82 (October 8, 2021)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/y6pNfq5ndEU)
 

@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 66 (6/18/2021)"
+title: "Episode 66 (June 18, 2021)"
 episode_number: "66"
 date_string: "6/18/2021"
 date: 2021-06-18
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/OptqncNOQyA"
 image: "/assets/images/title-slides/episode-66.jpg"
 ---
 
-# Episode 66 (6/18/2021)
+# Episode 66 (June 18, 2021)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/OptqncNOQyA)
 

@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 5 (4/17/2020)"
+title: "Episode 5 (April 17, 2020)"
 episode_number: "5"
 date_string: "4/17/2020"
 date: 2020-04-17
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/mlWuikMRDGo"
 image: "/assets/images/title-slides/episode-5.png"
 ---
 
-# Episode 5 (4/17/2020)
+# Episode 5 (April 17, 2020)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/mlWuikMRDGo)
 

@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 237 (12/13/2024)"
+title: "Episode 237 (December 13, 2024)"
 episode_number: "237"
 date_string: "12/13/2024"
 date: 2024-12-13
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/wGGM6kfvYyo"
 image: "/assets/images/title-slides/episode-237.jpg"
 ---
 
-# Episode 237 (12/13/2024)
+# Episode 237 (December 13, 2024)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/wGGM6kfvYyo)
 

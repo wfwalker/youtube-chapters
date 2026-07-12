@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 244 (1/31/2025)"
+title: "Episode 244 (January 31, 2025)"
 episode_number: "244"
 date_string: "1/31/2025"
 date: 2025-01-31
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/5GfH_utLXZM"
 image: "/assets/images/title-slides/episode-244.jpg"
 ---
 
-# Episode 244 (1/31/2025)
+# Episode 244 (January 31, 2025)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/5GfH_utLXZM)
 

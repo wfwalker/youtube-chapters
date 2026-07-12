@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 70 (7/16/2021)"
+title: "Episode 70 (July 16, 2021)"
 episode_number: "70"
 date_string: "7/16/2021"
 date: 2021-07-16
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/yaLXVIw0nxE"
 image: "/assets/images/title-slides/episode-70.jpg"
 ---
 
-# Episode 70 (7/16/2021)
+# Episode 70 (July 16, 2021)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/yaLXVIw0nxE)
 

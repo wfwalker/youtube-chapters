@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 84 (10/22/2021)"
+title: "Episode 84 (October 22, 2021)"
 episode_number: "84"
 date_string: "10/22/2021"
 date: 2021-10-22
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/reLwPwmrFZk"
 image: "/assets/images/title-slides/episode-84.jpg"
 ---
 
-# Episode 84 (10/22/2021)
+# Episode 84 (October 22, 2021)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/reLwPwmrFZk)
 

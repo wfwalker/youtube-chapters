@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 21 (8/7/2020)"
+title: "Episode 21 (August 7, 2020)"
 episode_number: "21"
 date_string: "8/7/2020"
 date: 2020-08-07
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/jqycjkIUaCs"
 image: "/assets/images/title-slides/episode-21.png"
 ---
 
-# Episode 21 (8/7/2020)
+# Episode 21 (August 7, 2020)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/jqycjkIUaCs)
 

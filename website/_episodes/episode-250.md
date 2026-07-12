@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 250 (3/28/2025)"
+title: "Episode 250 (March 28, 2025)"
 episode_number: "250"
 date_string: "3/28/2025"
 date: 2025-03-28
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/DwQaMQYPMrY"
 image: "/assets/images/title-slides/episode-250.jpg"
 ---
 
-# Episode 250 (3/28/2025)
+# Episode 250 (March 28, 2025)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/DwQaMQYPMrY)
 

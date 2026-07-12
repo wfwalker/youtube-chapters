@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 14 (6/19/2020)"
+title: "Episode 14 (June 19, 2020)"
 episode_number: "14"
 date_string: "6/19/2020"
 date: 2020-06-19
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/JFFsTahEkzg"
 image: "/assets/images/title-slides/episode-14.png"
 ---
 
-# Episode 14 (6/19/2020)
+# Episode 14 (June 19, 2020)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/JFFsTahEkzg)
 

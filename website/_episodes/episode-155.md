@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 155 (3/24/2023)"
+title: "Episode 155 (March 24, 2023)"
 episode_number: "155"
 date_string: "3/24/2023"
 date: 2023-03-24
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/5m_WeGR1fNA"
 image: "/assets/images/title-slides/episode-155.jpg"
 ---
 
-# Episode 155 (3/24/2023)
+# Episode 155 (March 24, 2023)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/5m_WeGR1fNA)
 

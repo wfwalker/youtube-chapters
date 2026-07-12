@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 32 (10/23/2020)"
+title: "Episode 32 (October 23, 2020)"
 episode_number: "32"
 date_string: "10/23/2020"
 date: 2020-10-23
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/fk8JSTyNEfM"
 image: "/assets/images/title-slides/episode-32.jpg"
 ---
 
-# Episode 32 (10/23/2020)
+# Episode 32 (October 23, 2020)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/fk8JSTyNEfM)
 

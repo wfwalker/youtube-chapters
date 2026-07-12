@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 299C (6/19/2026)"
+title: "Episode 299C (June 19, 2026)"
 episode_number: "299C"
 date_string: "6/19/2026"
 date: 2026-06-19
@@ -14,7 +14,7 @@ youtube_url: ""
 image: "/assets/images/title-slides/episode-299c.jpg"
 ---
 
-# Episode 299C (6/19/2026)
+# Episode 299C (June 19, 2026)
 
 ### Set List
 

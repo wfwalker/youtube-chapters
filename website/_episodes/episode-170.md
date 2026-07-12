@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 170 (7/7/2023)"
+title: "Episode 170 (July 7, 2023)"
 episode_number: "170"
 date_string: "7/7/2023"
 date: 2023-07-07
@@ -14,7 +14,7 @@ youtube_url: "https://youtube.com/live/V1eMn0Axslw"
 image: "/assets/images/title-slides/episode-170.jpg"
 ---
 
-# Episode 170 (7/7/2023)
+# Episode 170 (July 7, 2023)
 
 [Watch Full Stream on YouTube &rarr;](https://youtube.com/live/V1eMn0Axslw)
 

@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 68 (7/2/2021)"
+title: "Episode 68 (July 2, 2021)"
 episode_number: "68"
 date_string: "7/2/2021"
 date: 2021-07-02
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/eJgSZO-IkTg"
 image: "/assets/images/title-slides/episode-68.jpg"
 ---
 
-# Episode 68 (7/2/2021)
+# Episode 68 (July 2, 2021)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/eJgSZO-IkTg)
 

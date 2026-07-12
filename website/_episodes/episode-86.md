@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 86 (11/5/2021)"
+title: "Episode 86 (November 5, 2021)"
 episode_number: "86"
 date_string: "11/5/2021"
 date: 2021-11-05
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/iRH85IdbcpY"
 image: "/assets/images/title-slides/episode-86.jpg"
 ---
 
-# Episode 86 (11/5/2021)
+# Episode 86 (November 5, 2021)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/iRH85IdbcpY)
 

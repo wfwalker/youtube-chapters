@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 297 (5/1/2026)"
+title: "Episode 297 (May 1, 2026)"
 episode_number: "297"
 date_string: "5/1/2026"
 date: 2026-05-01
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/P0K91reQi7o"
 image: "/assets/images/title-slides/episode-297.jpg"
 ---
 
-# Episode 297 (5/1/2026)
+# Episode 297 (May 1, 2026)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/P0K91reQi7o)
 

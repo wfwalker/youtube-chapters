@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 7 (5/1/2020)"
+title: "Episode 7 (May 1, 2020)"
 episode_number: "7"
 date_string: "5/1/2020"
 date: 2020-05-01
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/QGkAB6VG8VU"
 image: "/assets/images/title-slides/episode-7.png"
 ---
 
-# Episode 7 (5/1/2020)
+# Episode 7 (May 1, 2020)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/QGkAB6VG8VU)
 

@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 57 (4/16/2021)"
+title: "Episode 57 (April 16, 2021)"
 episode_number: "57"
 date_string: "4/16/2021"
 date: 2021-04-16
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/l0R4TcCeMAY"
 image: "/assets/images/title-slides/episode-57.jpg"
 ---
 
-# Episode 57 (4/16/2021)
+# Episode 57 (April 16, 2021)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/l0R4TcCeMAY)
 

@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 122 (3/13/2026) (Rerun)"
+title: "Episode 122 (March 13, 2026) (Rerun)"
 episode_number: "122"
 date_string: "3/13/2026"
 date: 2026-03-13
@@ -14,7 +14,7 @@ youtube_url: ""
 image: "/assets/images/title-slides/episode-122-rerun-3132026.jpg"
 ---
 
-# Episode 122 (3/13/2026) (Rerun)
+# Episode 122 (March 13, 2026) (Rerun)
 
 ### Set List
 

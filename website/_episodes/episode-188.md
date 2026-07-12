@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 188 (11/24/2023)"
+title: "Episode 188 (November 24, 2023)"
 episode_number: "188"
 date_string: "11/24/2023"
 date: 2023-11-24
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/V3N4DyTx2Ow"
 image: "/assets/images/title-slides/episode-188.jpg"
 ---
 
-# Episode 188 (11/24/2023)
+# Episode 188 (November 24, 2023)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/V3N4DyTx2Ow)
 

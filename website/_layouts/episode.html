@@ -144,13 +144,6 @@ layout: default
   {% endif %}
 
   <div class="episode-meta">
-    <span class="meta-badge">Date: {{ page.date_string }}</span>
-    {% if page.episode_number and page.episode_number != "" %}
-      <span class="meta-badge">Episode: #{{ page.episode_number }}</span>
-    {% endif %}
-    {% if page.rerun %}
-      <span class="meta-badge rerun" style="background: linear-gradient(135deg, #ef4444, #b91c1c); color: white; border: none; font-weight: 600;">Rerun</span>
-    {% endif %}
     {% if page.youtube_url and page.youtube_url != "" %}
       <a href="{{ page.youtube_url }}" target="_blank" class="meta-badge watch-btn">Watch Stream &rarr;</a>
     {% endif %}

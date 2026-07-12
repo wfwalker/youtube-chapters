@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 269 (8/22/2025)"
+title: "Episode 269 (August 22, 2025)"
 episode_number: "269"
 date_string: "8/22/2025"
 date: 2025-08-22
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/rEmXFUtSvsg"
 image: "/assets/images/title-slides/episode-269.jpg"
 ---
 
-# Episode 269 (8/22/2025)
+# Episode 269 (August 22, 2025)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/rEmXFUtSvsg)
 

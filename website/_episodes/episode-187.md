@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 187 (11/17/2023)"
+title: "Episode 187 (November 17, 2023)"
 episode_number: "187"
 date_string: "11/17/2023"
 date: 2023-11-17
@@ -14,7 +14,7 @@ youtube_url: "https://youtube.com/live/9Xps9wrZFL0"
 image: "/assets/images/title-slides/episode-187.jpg"
 ---
 
-# Episode 187 (11/17/2023)
+# Episode 187 (November 17, 2023)
 
 [Watch Full Stream on YouTube &rarr;](https://youtube.com/live/9Xps9wrZFL0)
 

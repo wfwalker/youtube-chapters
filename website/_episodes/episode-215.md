@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 215 (6/28/2024)"
+title: "Episode 215 (June 28, 2024)"
 episode_number: "215"
 date_string: "6/28/2024"
 date: 2024-06-28
@@ -14,7 +14,7 @@ youtube_url: ""
 image: "/assets/images/title-slides/episode-215.jpg"
 ---
 
-# Episode 215 (6/28/2024)
+# Episode 215 (June 28, 2024)
 
 ### Set List
 

@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 97 (1/21/2022)"
+title: "Episode 97 (January 21, 2022)"
 episode_number: "97"
 date_string: "1/21/2022"
 date: 2022-01-21
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/vFJFp1oRZE8"
 image: "/assets/images/title-slides/episode-97.jpg"
 ---
 
-# Episode 97 (1/21/2022)
+# Episode 97 (January 21, 2022)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/vFJFp1oRZE8)
 

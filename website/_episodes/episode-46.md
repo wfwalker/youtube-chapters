@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 46 (1/29/2021)"
+title: "Episode 46 (January 29, 2021)"
 episode_number: "46"
 date_string: "1/29/2021"
 date: 2021-01-29
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/oVtkuUaMHU8"
 image: "/assets/images/title-slides/episode-46.jpg"
 ---
 
-# Episode 46 (1/29/2021)
+# Episode 46 (January 29, 2021)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/oVtkuUaMHU8)
 

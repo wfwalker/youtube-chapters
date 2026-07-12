@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 76 (8/27/2021)"
+title: "Episode 76 (August 27, 2021)"
 episode_number: "76"
 date_string: "8/27/2021"
 date: 2021-08-27
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/uMmr2KPqqpk"
 image: "/assets/images/title-slides/episode-76.jpg"
 ---
 
-# Episode 76 (8/27/2021)
+# Episode 76 (August 27, 2021)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/uMmr2KPqqpk)
 

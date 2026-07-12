@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 56 (4/9/2021)"
+title: "Episode 56 (April 9, 2021)"
 episode_number: "56"
 date_string: "4/9/2021"
 date: 2021-04-09
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/RVecTJg5GEs"
 image: "/assets/images/title-slides/episode-56.jpg"
 ---
 
-# Episode 56 (4/9/2021)
+# Episode 56 (April 9, 2021)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/RVecTJg5GEs)
 

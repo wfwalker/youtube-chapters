@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 150 (2/17/2023)"
+title: "Episode 150 (February 17, 2023)"
 episode_number: "150"
 date_string: "2/17/2023"
 date: 2023-02-17
@@ -14,7 +14,7 @@ youtube_url: "https://youtube.com/live/Lfke1fj6Wh0"
 image: "/assets/images/title-slides/episode-150.jpg"
 ---
 
-# Episode 150 (2/17/2023)
+# Episode 150 (February 17, 2023)
 
 [Watch Full Stream on YouTube &rarr;](https://youtube.com/live/Lfke1fj6Wh0)
 

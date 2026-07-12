@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 17 (7/10/2020)"
+title: "Episode 17 (July 10, 2020)"
 episode_number: "17"
 date_string: "7/10/2020"
 date: 2020-07-10
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/pWeOutFnTGs"
 image: "/assets/images/title-slides/episode-17.png"
 ---
 
-# Episode 17 (7/10/2020)
+# Episode 17 (July 10, 2020)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/pWeOutFnTGs)
 

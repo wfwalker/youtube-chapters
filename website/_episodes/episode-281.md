@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 281 (12/12/2025)"
+title: "Episode 281 (December 12, 2025)"
 episode_number: "281"
 date_string: "12/12/2025"
 date: 2025-12-12
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/n534pTTA3uM"
 image: "/assets/images/title-slides/episode-281.jpg"
 ---
 
-# Episode 281 (12/12/2025)
+# Episode 281 (December 12, 2025)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/n534pTTA3uM)
 

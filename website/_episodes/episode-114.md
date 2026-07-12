@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 114 (5/20/2022)"
+title: "Episode 114 (May 20, 2022)"
 episode_number: "114"
 date_string: "5/20/2022"
 date: 2022-05-20
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/Wmyvd2LlVw0"
 image: "/assets/images/title-slides/episode-114.jpg"
 ---
 
-# Episode 114 (5/20/2022)
+# Episode 114 (May 20, 2022)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/Wmyvd2LlVw0)
 

@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 127 (8/19/2022)"
+title: "Episode 127 (August 19, 2022)"
 episode_number: "127"
 date_string: "8/19/2022"
 date: 2022-08-19
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/VXmjfiJz2ZM"
 image: "/assets/images/title-slides/episode-127.jpg"
 ---
 
-# Episode 127 (8/19/2022)
+# Episode 127 (August 19, 2022)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/VXmjfiJz2ZM)
 

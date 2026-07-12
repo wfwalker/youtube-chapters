@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 199A (2/16/2024)"
+title: "Episode 199A (February 16, 2024)"
 episode_number: "199A"
 date_string: "2/16/2024"
 date: 2024-02-16
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/PfSeQ_CuTlE"
 image: "/assets/images/title-slides/episode-199a.jpg"
 ---
 
-# Episode 199A (2/16/2024)
+# Episode 199A (February 16, 2024)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/PfSeQ_CuTlE)
 

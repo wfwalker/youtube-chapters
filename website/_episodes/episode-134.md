@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 134 (10/7/2022)"
+title: "Episode 134 (October 7, 2022)"
 episode_number: "134"
 date_string: "10/7/2022"
 date: 2022-10-07
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/i_sLaxvBK_E"
 image: "/assets/images/title-slides/episode-134.jpg"
 ---
 
-# Episode 134 (10/7/2022)
+# Episode 134 (October 7, 2022)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/i_sLaxvBK_E)
 

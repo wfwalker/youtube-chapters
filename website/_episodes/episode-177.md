@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 177 (8/25/2023)"
+title: "Episode 177 (August 25, 2023)"
 episode_number: "177"
 date_string: "8/25/2023"
 date: 2023-08-25
@@ -14,7 +14,7 @@ youtube_url: "https://youtube.com/live/jdMrvP3YOOo"
 image: "/assets/images/title-slides/episode-177.jpg"
 ---
 
-# Episode 177 (8/25/2023)
+# Episode 177 (August 25, 2023)
 
 [Watch Full Stream on YouTube &rarr;](https://youtube.com/live/jdMrvP3YOOo)
 

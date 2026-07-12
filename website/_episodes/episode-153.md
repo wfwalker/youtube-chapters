@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 153 (3/10/2023)"
+title: "Episode 153 (March 10, 2023)"
 episode_number: "153"
 date_string: "3/10/2023"
 date: 2023-03-10
@@ -14,7 +14,7 @@ youtube_url: "https://youtube.com/live/4WWV1-H7mrQ"
 image: "/assets/images/title-slides/episode-153.jpg"
 ---
 
-# Episode 153 (3/10/2023)
+# Episode 153 (March 10, 2023)
 
 [Watch Full Stream on YouTube &rarr;](https://youtube.com/live/4WWV1-H7mrQ)
 

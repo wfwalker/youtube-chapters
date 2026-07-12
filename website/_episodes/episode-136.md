@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 136 (10/21/2022)"
+title: "Episode 136 (October 21, 2022)"
 episode_number: "136"
 date_string: "10/21/2022"
 date: 2022-10-21
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/EjTzhzPyVGo"
 image: "/assets/images/title-slides/episode-136.jpg"
 ---
 
-# Episode 136 (10/21/2022)
+# Episode 136 (October 21, 2022)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/EjTzhzPyVGo)
 

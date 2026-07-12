@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 72 (7/30/2021)"
+title: "Episode 72 (July 30, 2021)"
 episode_number: "72"
 date_string: "7/30/2021"
 date: 2021-07-30
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/SFHGArSt8qo"
 image: "/assets/images/title-slides/episode-72.jpg"
 ---
 
-# Episode 72 (7/30/2021)
+# Episode 72 (July 30, 2021)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/SFHGArSt8qo)
 

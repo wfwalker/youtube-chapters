@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 279 (11/28/2025)"
+title: "Episode 279 (November 28, 2025)"
 episode_number: "279"
 date_string: "11/28/2025"
 date: 2025-11-28
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/NOudqih6OCU"
 image: "/assets/images/title-slides/episode-279.jpg"
 ---
 
-# Episode 279 (11/28/2025)
+# Episode 279 (November 28, 2025)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/NOudqih6OCU)
 

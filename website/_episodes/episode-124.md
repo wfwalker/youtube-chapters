@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 124 (7/29/2022)"
+title: "Episode 124 (July 29, 2022)"
 episode_number: "124"
 date_string: "7/29/2022"
 date: 2022-07-29
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/ym09Bs8Bj2g"
 image: "/assets/images/title-slides/episode-124.jpg"
 ---
 
-# Episode 124 (7/29/2022)
+# Episode 124 (July 29, 2022)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/ym09Bs8Bj2g)
 

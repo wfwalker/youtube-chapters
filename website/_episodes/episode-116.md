@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 116 (6/3/2022)"
+title: "Episode 116 (June 3, 2022)"
 episode_number: "116"
 date_string: "6/3/2022"
 date: 2022-06-03
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/58cVCBMx1oI"
 image: "/assets/images/title-slides/episode-116.jpg"
 ---
 
-# Episode 116 (6/3/2022)
+# Episode 116 (June 3, 2022)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/58cVCBMx1oI)
 

@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 126 (8/12/2022)"
+title: "Episode 126 (August 12, 2022)"
 episode_number: "126"
 date_string: "8/12/2022"
 date: 2022-08-12
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/-mLt1LbOZ8Y"
 image: "/assets/images/title-slides/episode-126.jpg"
 ---
 
-# Episode 126 (8/12/2022)
+# Episode 126 (August 12, 2022)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/-mLt1LbOZ8Y)
 

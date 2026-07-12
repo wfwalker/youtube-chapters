@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 106 (3/25/2022)"
+title: "Episode 106 (March 25, 2022)"
 episode_number: "106"
 date_string: "3/25/2022"
 date: 2022-03-25
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/-yO13Zr2O50"
 image: "/assets/images/title-slides/episode-106.jpg"
 ---
 
-# Episode 106 (3/25/2022)
+# Episode 106 (March 25, 2022)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/-yO13Zr2O50)
 

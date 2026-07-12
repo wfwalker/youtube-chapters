@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 274 (10/10/2025)"
+title: "Episode 274 (October 10, 2025)"
 episode_number: "274"
 date_string: "10/10/2025"
 date: 2025-10-10
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/kR4qrJNVi1o"
 image: "/assets/images/title-slides/episode-274.jpg"
 ---
 
-# Episode 274 (10/10/2025)
+# Episode 274 (October 10, 2025)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/kR4qrJNVi1o)
 

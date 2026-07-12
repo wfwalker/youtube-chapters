@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 189 (12/1/2023)"
+title: "Episode 189 (December 1, 2023)"
 episode_number: "189"
 date_string: "12/1/2023"
 date: 2023-12-01
@@ -14,7 +14,7 @@ youtube_url: "https://youtube.com/live/KMzVPH-MDDE"
 image: "/assets/images/title-slides/episode-189.jpg"
 ---
 
-# Episode 189 (12/1/2023)
+# Episode 189 (December 1, 2023)
 
 [Watch Full Stream on YouTube &rarr;](https://youtube.com/live/KMzVPH-MDDE)
 

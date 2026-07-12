@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 6 (4/24/2020)"
+title: "Episode 6 (April 24, 2020)"
 episode_number: "6"
 date_string: "4/24/2020"
 date: 2020-04-24
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/9EwAG0vUho8"
 image: "/assets/images/title-slides/episode-6.png"
 ---
 
-# Episode 6 (4/24/2020)
+# Episode 6 (April 24, 2020)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/9EwAG0vUho8)
 

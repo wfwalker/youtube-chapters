@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 61 (5/14/2021)"
+title: "Episode 61 (May 14, 2021)"
 episode_number: "61"
 date_string: "5/14/2021"
 date: 2021-05-14
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/Bi8XaJ4O-0I"
 image: "/assets/images/title-slides/episode-61.jpg"
 ---
 
-# Episode 61 (5/14/2021)
+# Episode 61 (May 14, 2021)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/Bi8XaJ4O-0I)
 

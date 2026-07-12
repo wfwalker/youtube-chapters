@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 283 (12/26/2025)"
+title: "Episode 283 (December 26, 2025)"
 episode_number: "283"
 date_string: "12/26/2025"
 date: 2025-12-26
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/7uXylsUAlAY"
 image: "/assets/images/title-slides/episode-283.jpg"
 ---
 
-# Episode 283 (12/26/2025)
+# Episode 283 (December 26, 2025)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/7uXylsUAlAY)
 

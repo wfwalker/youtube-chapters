@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 35 (11/13/2020)"
+title: "Episode 35 (November 13, 2020)"
 episode_number: "35"
 date_string: "11/13/2020"
 date: 2020-11-13
@@ -13,7 +13,7 @@ notes: "yes"
 youtube_url: "https://youtu.be/-1SJwJrjwd0"
 ---
 
-# Episode 35 (11/13/2020)
+# Episode 35 (November 13, 2020)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/-1SJwJrjwd0)
 

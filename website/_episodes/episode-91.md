@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 91 (12/10/2021)"
+title: "Episode 91 (December 10, 2021)"
 episode_number: "91"
 date_string: "12/10/2021"
 date: 2021-12-10
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/vr3lHzT6u9s"
 image: "/assets/images/title-slides/episode-91.jpg"
 ---
 
-# Episode 91 (12/10/2021)
+# Episode 91 (December 10, 2021)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/vr3lHzT6u9s)
 

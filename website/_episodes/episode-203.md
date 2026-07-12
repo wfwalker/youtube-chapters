@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 203 (3/22/2024)"
+title: "Episode 203 (March 22, 2024)"
 episode_number: "203"
 date_string: "3/22/2024"
 date: 2024-03-22
@@ -14,7 +14,7 @@ youtube_url: "https://youtube.com/live/kPqhJAREXfo"
 image: "/assets/images/title-slides/episode-203.jpg"
 ---
 
-# Episode 203 (3/22/2024)
+# Episode 203 (March 22, 2024)
 
 [Watch Full Stream on YouTube &rarr;](https://youtube.com/live/kPqhJAREXfo)
 

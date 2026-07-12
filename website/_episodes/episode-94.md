@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 94 (12/31/2021)"
+title: "Episode 94 (December 31, 2021)"
 episode_number: "94"
 date_string: "12/31/2021"
 date: 2021-12-31
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/Rcivz__GFo4"
 image: "/assets/images/title-slides/episode-94.jpg"
 ---
 
-# Episode 94 (12/31/2021)
+# Episode 94 (December 31, 2021)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/Rcivz__GFo4)
 

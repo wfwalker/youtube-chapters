@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 90 (12/3/2021)"
+title: "Episode 90 (December 3, 2021)"
 episode_number: "90"
 date_string: "12/3/2021"
 date: 2021-12-03
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/cwkUkcDyfaw"
 image: "/assets/images/title-slides/episode-90.jpg"
 ---
 
-# Episode 90 (12/3/2021)
+# Episode 90 (December 3, 2021)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/cwkUkcDyfaw)
 

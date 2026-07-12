@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 93 (12/24/2021)"
+title: "Episode 93 (December 24, 2021)"
 episode_number: "93"
 date_string: "12/24/2021"
 date: 2021-12-24
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/oIJ5iubhwRg"
 image: "/assets/images/title-slides/episode-93.jpg"
 ---
 
-# Episode 93 (12/24/2021)
+# Episode 93 (December 24, 2021)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/oIJ5iubhwRg)
 

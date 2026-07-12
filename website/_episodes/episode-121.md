@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 121 (7/8/2022)"
+title: "Episode 121 (July 8, 2022)"
 episode_number: "121"
 date_string: "7/8/2022"
 date: 2022-07-08
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/yr0e-0JaG4U"
 image: "/assets/images/title-slides/episode-121.jpg"
 ---
 
-# Episode 121 (7/8/2022)
+# Episode 121 (July 8, 2022)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/yr0e-0JaG4U)
 

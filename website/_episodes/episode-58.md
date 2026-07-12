@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 58 (4/23/2021)"
+title: "Episode 58 (April 23, 2021)"
 episode_number: "58"
 date_string: "4/23/2021"
 date: 2021-04-23
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/yYYl7DQc0K0"
 image: "/assets/images/title-slides/episode-58.jpg"
 ---
 
-# Episode 58 (4/23/2021)
+# Episode 58 (April 23, 2021)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/yYYl7DQc0K0)
 

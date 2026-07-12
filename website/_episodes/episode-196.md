@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 196 (1/19/2024)"
+title: "Episode 196 (January 19, 2024)"
 episode_number: "196"
 date_string: "1/19/2024"
 date: 2024-01-19
@@ -14,7 +14,7 @@ youtube_url: "https://youtube.com/live/THYDMtV4MT0"
 image: "/assets/images/title-slides/episode-196.jpg"
 ---
 
-# Episode 196 (1/19/2024)
+# Episode 196 (January 19, 2024)
 
 [Watch Full Stream on YouTube &rarr;](https://youtube.com/live/THYDMtV4MT0)
 

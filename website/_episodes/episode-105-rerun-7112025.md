@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 105 (7/11/2025) (Rerun)"
+title: "Episode 105 (July 11, 2025) (Rerun)"
 episode_number: "105"
 date_string: "7/11/2025"
 date: 2025-07-11
@@ -14,7 +14,7 @@ youtube_url: ""
 image: "/assets/images/title-slides/episode-105-rerun-7112025.jpg"
 ---
 
-# Episode 105 (7/11/2025) (Rerun)
+# Episode 105 (July 11, 2025) (Rerun)
 
 ### Set List
 

@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 15 (6/26/2020)"
+title: "Episode 15 (June 26, 2020)"
 episode_number: "15"
 date_string: "6/26/2020"
 date: 2020-06-26
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/LCcBhJKB8YA"
 image: "/assets/images/title-slides/episode-15.png"
 ---
 
-# Episode 15 (6/26/2020)
+# Episode 15 (June 26, 2020)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/LCcBhJKB8YA)
 

@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 205 (4/19/2024)"
+title: "Episode 205 (April 19, 2024)"
 episode_number: "205"
 date_string: "4/19/2024"
 date: 2024-04-19
@@ -14,7 +14,7 @@ youtube_url: ""
 image: "/assets/images/title-slides/episode-205.jpg"
 ---
 
-# Episode 205 (4/19/2024)
+# Episode 205 (April 19, 2024)
 
 ### Set List
 

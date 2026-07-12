@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 260 (6/13/2025)"
+title: "Episode 260 (June 13, 2025)"
 episode_number: "260"
 date_string: "6/13/2025"
 date: 2025-06-13
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/zbLwS4UYioo"
 image: "/assets/images/title-slides/episode-260.jpg"
 ---
 
-# Episode 260 (6/13/2025)
+# Episode 260 (June 13, 2025)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/zbLwS4UYioo)
 

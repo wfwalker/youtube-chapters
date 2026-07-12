@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 169 (6/30/2023)"
+title: "Episode 169 (June 30, 2023)"
 episode_number: "169"
 date_string: "6/30/2023"
 date: 2023-06-30
@@ -14,7 +14,7 @@ youtube_url: "https://youtube.com/live/mIqp0kq__Ck"
 image: "/assets/images/title-slides/episode-169.jpg"
 ---
 
-# Episode 169 (6/30/2023)
+# Episode 169 (June 30, 2023)
 
 [Watch Full Stream on YouTube &rarr;](https://youtube.com/live/mIqp0kq__Ck)
 

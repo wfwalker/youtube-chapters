@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 248 (2/28/2025)"
+title: "Episode 248 (February 28, 2025)"
 episode_number: "248"
 date_string: "2/28/2025"
 date: 2025-02-28
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/a4gNgXrypis"
 image: "/assets/images/title-slides/episode-248.jpg"
 ---
 
-# Episode 248 (2/28/2025)
+# Episode 248 (February 28, 2025)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/a4gNgXrypis)
 

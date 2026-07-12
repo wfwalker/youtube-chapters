@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 85 (10/29/2021)"
+title: "Episode 85 (October 29, 2021)"
 episode_number: "85"
 date_string: "10/29/2021"
 date: 2021-10-29
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/fl775dpKhP0"
 image: "/assets/images/title-slides/episode-85.jpg"
 ---
 
-# Episode 85 (10/29/2021)
+# Episode 85 (October 29, 2021)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/fl775dpKhP0)
 

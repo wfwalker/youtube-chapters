@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 286 (1/23/2026)"
+title: "Episode 286 (January 23, 2026)"
 episode_number: "286"
 date_string: "1/23/2026"
 date: 2026-01-23
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/fpoUmPOQ62o"
 image: "/assets/images/title-slides/episode-286.jpg"
 ---
 
-# Episode 286 (1/23/2026)
+# Episode 286 (January 23, 2026)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/fpoUmPOQ62o)
 

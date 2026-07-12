@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 60 (5/7/2021)"
+title: "Episode 60 (May 7, 2021)"
 episode_number: "60"
 date_string: "5/7/2021"
 date: 2021-05-07
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/sZSyy77J_Uc"
 image: "/assets/images/title-slides/episode-60.jpg"
 ---
 
-# Episode 60 (5/7/2021)
+# Episode 60 (May 7, 2021)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/sZSyy77J_Uc)
 

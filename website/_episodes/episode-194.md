@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 194 (1/5/2024)"
+title: "Episode 194 (January 5, 2024)"
 episode_number: "194"
 date_string: "1/5/2024"
 date: 2024-01-05
@@ -13,7 +13,7 @@ notes: ""
 youtube_url: "https://youtube.com/live/w-5w8Kx2P6U"
 ---
 
-# Episode 194 (1/5/2024)
+# Episode 194 (January 5, 2024)
 
 [Watch Full Stream on YouTube &rarr;](https://youtube.com/live/w-5w8Kx2P6U)
 

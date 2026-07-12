@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 233 (11/15/2024)"
+title: "Episode 233 (November 15, 2024)"
 episode_number: "233"
 date_string: "11/15/2024"
 date: 2024-11-15
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/D-vw1jcvCXc"
 image: "/assets/images/title-slides/episode-233.jpg"
 ---
 
-# Episode 233 (11/15/2024)
+# Episode 233 (November 15, 2024)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/D-vw1jcvCXc)
 

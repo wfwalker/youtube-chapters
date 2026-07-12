@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 225 (9/20/2024)"
+title: "Episode 225 (September 20, 2024)"
 episode_number: "225"
 date_string: "9/20/2024"
 date: 2024-09-20
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/rMb-isSUH_g"
 image: "/assets/images/title-slides/episode-225.jpg"
 ---
 
-# Episode 225 (9/20/2024)
+# Episode 225 (September 20, 2024)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/rMb-isSUH_g)
 

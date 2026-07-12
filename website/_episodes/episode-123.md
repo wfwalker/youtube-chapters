@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 123 (7/22/2022)"
+title: "Episode 123 (July 22, 2022)"
 episode_number: "123"
 date_string: "7/22/2022"
 date: 2022-07-22
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/D42v7I8kocA"
 image: "/assets/images/title-slides/episode-123.jpg"
 ---
 
-# Episode 123 (7/22/2022)
+# Episode 123 (July 22, 2022)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/D42v7I8kocA)
 

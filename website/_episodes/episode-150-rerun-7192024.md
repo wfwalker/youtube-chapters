@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 150 (7/19/2024) (Rerun)"
+title: "Episode 150 (July 19, 2024) (Rerun)"
 episode_number: "150"
 date_string: "7/19/2024"
 date: 2024-07-19
@@ -14,7 +14,7 @@ youtube_url: ""
 image: "/assets/images/title-slides/episode-150-rerun-7192024.jpg"
 ---
 
-# Episode 150 (7/19/2024) (Rerun)
+# Episode 150 (July 19, 2024) (Rerun)
 
 ### Set List
 

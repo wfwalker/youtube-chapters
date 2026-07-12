@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 75 (8/20/2021)"
+title: "Episode 75 (August 20, 2021)"
 episode_number: "75"
 date_string: "8/20/2021"
 date: 2021-08-20
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/wIeo7pq_84U"
 image: "/assets/images/title-slides/episode-75.jpg"
 ---
 
-# Episode 75 (8/20/2021)
+# Episode 75 (August 20, 2021)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/wIeo7pq_84U)
 

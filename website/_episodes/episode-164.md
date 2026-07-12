@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 164 (5/26/2023)"
+title: "Episode 164 (May 26, 2023)"
 episode_number: "164"
 date_string: "5/26/2023"
 date: 2023-05-26
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/-vNFbFO0LgE"
 image: "/assets/images/title-slides/episode-164.jpg"
 ---
 
-# Episode 164 (5/26/2023)
+# Episode 164 (May 26, 2023)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/-vNFbFO0LgE)
 

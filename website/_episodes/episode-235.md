@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 235 (11/29/2024)"
+title: "Episode 235 (November 29, 2024)"
 episode_number: "235"
 date_string: "11/29/2024"
 date: 2024-11-29
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/e2uTWkQT0TE"
 image: "/assets/images/title-slides/episode-235.jpg"
 ---
 
-# Episode 235 (11/29/2024)
+# Episode 235 (November 29, 2024)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/e2uTWkQT0TE)
 

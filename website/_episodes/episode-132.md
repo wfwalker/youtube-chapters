@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 132 (9/23/2022)"
+title: "Episode 132 (September 23, 2022)"
 episode_number: "132"
 date_string: "9/23/2022"
 date: 2022-09-23
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/ngSqqLNxvgo"
 image: "/assets/images/title-slides/episode-132.jpg"
 ---
 
-# Episode 132 (9/23/2022)
+# Episode 132 (September 23, 2022)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/ngSqqLNxvgo)
 

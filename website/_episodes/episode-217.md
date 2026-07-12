@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 217 (7/12/2024)"
+title: "Episode 217 (July 12, 2024)"
 episode_number: "217"
 date_string: "7/12/2024"
 date: 2024-07-12
@@ -14,7 +14,7 @@ youtube_url: ""
 image: "/assets/images/title-slides/episode-217.jpg"
 ---
 
-# Episode 217 (7/12/2024)
+# Episode 217 (July 12, 2024)
 
 ### Set List
 

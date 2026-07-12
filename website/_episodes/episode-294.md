@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 294 (4/10/2026)"
+title: "Episode 294 (April 10, 2026)"
 episode_number: "294"
 date_string: "4/10/2026"
 date: 2026-04-10
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/RdINPa3ryLM"
 image: "/assets/images/title-slides/episode-294.jpg"
 ---
 
-# Episode 294 (4/10/2026)
+# Episode 294 (April 10, 2026)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/RdINPa3ryLM)
 

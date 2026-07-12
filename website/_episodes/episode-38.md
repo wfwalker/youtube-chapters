@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 38 (12/4/2020)"
+title: "Episode 38 (December 4, 2020)"
 episode_number: "38"
 date_string: "12/4/2020"
 date: 2020-12-04
@@ -13,7 +13,7 @@ notes: "yes"
 youtube_url: "https://youtu.be/8ALGHR-ErS0"
 ---
 
-# Episode 38 (12/4/2020)
+# Episode 38 (December 4, 2020)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/8ALGHR-ErS0)
 

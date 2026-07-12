@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 265 (7/25/2025)"
+title: "Episode 265 (July 25, 2025)"
 episode_number: "265"
 date_string: "7/25/2025"
 date: 2025-07-25
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/BlV0reNDuQ0"
 image: "/assets/images/title-slides/episode-265.jpg"
 ---
 
-# Episode 265 (7/25/2025)
+# Episode 265 (July 25, 2025)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/BlV0reNDuQ0)
 

@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 287 (1/30/2026)"
+title: "Episode 287 (January 30, 2026)"
 episode_number: "287"
 date_string: "1/30/2026"
 date: 2026-01-30
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/SFolC-t-G-I"
 image: "/assets/images/title-slides/episode-287.jpg"
 ---
 
-# Episode 287 (1/30/2026)
+# Episode 287 (January 30, 2026)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/SFolC-t-G-I)
 

@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 299D (6/26/2026)"
+title: "Episode 299D (June 26, 2026)"
 episode_number: "299D"
 date_string: "6/26/2026"
 date: 2026-06-26
@@ -14,7 +14,7 @@ youtube_url: ""
 image: "/assets/images/title-slides/episode-299d.jpg"
 ---
 
-# Episode 299D (6/26/2026)
+# Episode 299D (June 26, 2026)
 
 ### Set List
 

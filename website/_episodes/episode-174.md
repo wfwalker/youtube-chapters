@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 174 (8/4/2023)"
+title: "Episode 174 (August 4, 2023)"
 episode_number: "174"
 date_string: "8/4/2023"
 date: 2023-08-04
@@ -14,7 +14,7 @@ youtube_url: "https://youtube.com/live/aCkWiRbNVbM"
 image: "/assets/images/title-slides/episode-174.jpg"
 ---
 
-# Episode 174 (8/4/2023)
+# Episode 174 (August 4, 2023)
 
 [Watch Full Stream on YouTube &rarr;](https://youtube.com/live/aCkWiRbNVbM)
 

@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 115 (5/27/2022)"
+title: "Episode 115 (May 27, 2022)"
 episode_number: "115"
 date_string: "5/27/2022"
 date: 2022-05-27
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/Z7yciUtcOsk"
 image: "/assets/images/title-slides/episode-115.jpg"
 ---
 
-# Episode 115 (5/27/2022)
+# Episode 115 (May 27, 2022)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/Z7yciUtcOsk)
 

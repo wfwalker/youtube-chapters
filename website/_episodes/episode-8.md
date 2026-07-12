@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 8 (5/8/2020)"
+title: "Episode 8 (May 8, 2020)"
 episode_number: "8"
 date_string: "5/8/2020"
 date: 2020-05-08
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/ODap9wBMyeU"
 image: "/assets/images/title-slides/episode-8.png"
 ---
 
-# Episode 8 (5/8/2020)
+# Episode 8 (May 8, 2020)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/ODap9wBMyeU)
 

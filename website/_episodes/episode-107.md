@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 107 (4/1/2022)"
+title: "Episode 107 (April 1, 2022)"
 episode_number: "107"
 date_string: "4/1/2022"
 date: 2022-04-01
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/XB_QekGAhUU"
 image: "/assets/images/title-slides/episode-107.jpg"
 ---
 
-# Episode 107 (4/1/2022)
+# Episode 107 (April 1, 2022)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/XB_QekGAhUU)
 

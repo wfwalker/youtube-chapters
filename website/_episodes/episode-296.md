@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 296 (4/24/2026)"
+title: "Episode 296 (April 24, 2026)"
 episode_number: "296"
 date_string: "4/24/2026"
 date: 2026-04-24
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/aYsfWzFvkpc"
 image: "/assets/images/title-slides/episode-296.jpg"
 ---
 
-# Episode 296 (4/24/2026)
+# Episode 296 (April 24, 2026)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/aYsfWzFvkpc)
 

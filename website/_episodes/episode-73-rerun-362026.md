@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 73 (3/6/2026) (Rerun)"
+title: "Episode 73 (March 6, 2026) (Rerun)"
 episode_number: "73"
 date_string: "3/6/2026"
 date: 2026-03-06
@@ -14,7 +14,7 @@ youtube_url: ""
 image: "/assets/images/title-slides/episode-73-rerun-362026.jpg"
 ---
 
-# Episode 73 (3/6/2026) (Rerun)
+# Episode 73 (March 6, 2026) (Rerun)
 
 ### Set List
 

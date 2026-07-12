@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 145 (1/13/2023)"
+title: "Episode 145 (January 13, 2023)"
 episode_number: "145"
 date_string: "1/13/2023"
 date: 2023-01-13
@@ -14,7 +14,7 @@ youtube_url: "https://youtube.com/live/twnyETfghJY"
 image: "/assets/images/title-slides/episode-145.jpg"
 ---
 
-# Episode 145 (1/13/2023)
+# Episode 145 (January 13, 2023)
 
 [Watch Full Stream on YouTube &rarr;](https://youtube.com/live/twnyETfghJY)
 

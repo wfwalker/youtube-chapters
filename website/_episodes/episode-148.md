@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 148 (2/3/2023)"
+title: "Episode 148 (February 3, 2023)"
 episode_number: "148"
 date_string: "2/3/2023"
 date: 2023-02-03
@@ -14,7 +14,7 @@ youtube_url: "https://youtube.com/live/kyx5vcS24Tk"
 image: "/assets/images/title-slides/episode-148.jpg"
 ---
 
-# Episode 148 (2/3/2023)
+# Episode 148 (February 3, 2023)
 
 [Watch Full Stream on YouTube &rarr;](https://youtube.com/live/kyx5vcS24Tk)
 

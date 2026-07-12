@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 119 (6/24/2022)"
+title: "Episode 119 (June 24, 2022)"
 episode_number: "119"
 date_string: "6/24/2022"
 date: 2022-06-24
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/XiFXST5UZ0E"
 image: "/assets/images/title-slides/episode-119.jpg"
 ---
 
-# Episode 119 (6/24/2022)
+# Episode 119 (June 24, 2022)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/XiFXST5UZ0E)
 

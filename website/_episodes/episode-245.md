@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 245 (2/7/2025)"
+title: "Episode 245 (February 7, 2025)"
 episode_number: "245"
 date_string: "2/7/2025"
 date: 2025-02-07
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/MyJ3ADimRnw"
 image: "/assets/images/title-slides/episode-245.jpg"
 ---
 
-# Episode 245 (2/7/2025)
+# Episode 245 (February 7, 2025)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/MyJ3ADimRnw)
 

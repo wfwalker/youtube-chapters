@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 199b (10/3/2025)"
+title: "Episode 199b (October 3, 2025)"
 episode_number: "199b"
 date_string: "10/3/2025"
 date: 2025-10-03
@@ -14,7 +14,7 @@ youtube_url: ""
 image: "/assets/images/title-slides/episode-199b.jpg"
 ---
 
-# Episode 199b (10/3/2025)
+# Episode 199b (October 3, 2025)
 
 ### Set List
 

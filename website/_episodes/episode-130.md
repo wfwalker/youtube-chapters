@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 130 (9/9/2022)"
+title: "Episode 130 (September 9, 2022)"
 episode_number: "130"
 date_string: "9/9/2022"
 date: 2022-09-09
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/le4SSqcmJHM"
 image: "/assets/images/title-slides/episode-130.jpg"
 ---
 
-# Episode 130 (9/9/2022)
+# Episode 130 (September 9, 2022)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/le4SSqcmJHM)
 

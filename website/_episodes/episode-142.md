@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 142 (12/23/2022)"
+title: "Episode 142 (December 23, 2022)"
 episode_number: "142"
 date_string: "12/23/2022"
 date: 2022-12-23
@@ -14,7 +14,7 @@ youtube_url: "https://youtube.com/live/iH6lwOJ7Gb4"
 image: "/assets/images/title-slides/episode-142.jpg"
 ---
 
-# Episode 142 (12/23/2022)
+# Episode 142 (December 23, 2022)
 
 [Watch Full Stream on YouTube &rarr;](https://youtube.com/live/iH6lwOJ7Gb4)
 

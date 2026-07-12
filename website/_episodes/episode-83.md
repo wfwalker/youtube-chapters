@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 83 (10/15/2021)"
+title: "Episode 83 (October 15, 2021)"
 episode_number: "83"
 date_string: "10/15/2021"
 date: 2021-10-15
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/txLo5jOwNGU"
 image: "/assets/images/title-slides/episode-83.jpg"
 ---
 
-# Episode 83 (10/15/2021)
+# Episode 83 (October 15, 2021)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/txLo5jOwNGU)
 

@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 276 (10/24/2025)"
+title: "Episode 276 (October 24, 2025)"
 episode_number: "276"
 date_string: "10/24/2025"
 date: 2025-10-24
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/PlpRCyt8Bx8"
 image: "/assets/images/title-slides/episode-276.jpg"
 ---
 
-# Episode 276 (10/24/2025)
+# Episode 276 (October 24, 2025)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/PlpRCyt8Bx8)
 

@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 112 (5/6/2022)"
+title: "Episode 112 (May 6, 2022)"
 episode_number: "112"
 date_string: "5/6/2022"
 date: 2022-05-06
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/EnurztZItgI"
 image: "/assets/images/title-slides/episode-112.jpg"
 ---
 
-# Episode 112 (5/6/2022)
+# Episode 112 (May 6, 2022)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/EnurztZItgI)
 

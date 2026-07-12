@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 259 (6/6/2025)"
+title: "Episode 259 (June 6, 2025)"
 episode_number: "259"
 date_string: "6/6/2025"
 date: 2025-06-06
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/UkPy7gCsShE"
 image: "/assets/images/title-slides/episode-259.jpg"
 ---
 
-# Episode 259 (6/6/2025)
+# Episode 259 (June 6, 2025)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/UkPy7gCsShE)
 

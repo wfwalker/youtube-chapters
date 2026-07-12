@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 247 (2/21/2025)"
+title: "Episode 247 (February 21, 2025)"
 episode_number: "247"
 date_string: "2/21/2025"
 date: 2025-02-21
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/85OXSWzyCHU"
 image: "/assets/images/title-slides/episode-247.jpg"
 ---
 
-# Episode 247 (2/21/2025)
+# Episode 247 (February 21, 2025)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/85OXSWzyCHU)
 

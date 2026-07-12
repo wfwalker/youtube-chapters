@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 292 (3/27/2026)"
+title: "Episode 292 (March 27, 2026)"
 episode_number: "292"
 date_string: "3/27/2026"
 date: 2026-03-27
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/rU3ymoNnFDI"
 image: "/assets/images/title-slides/episode-292.jpg"
 ---
 
-# Episode 292 (3/27/2026)
+# Episode 292 (March 27, 2026)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/rU3ymoNnFDI)
 

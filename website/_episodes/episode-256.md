@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 256 (5/16/2025)"
+title: "Episode 256 (May 16, 2025)"
 episode_number: "256"
 date_string: "5/16/2025"
 date: 2025-05-16
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/E3D4ALlqlfU"
 image: "/assets/images/title-slides/episode-256.jpg"
 ---
 
-# Episode 256 (5/16/2025)
+# Episode 256 (May 16, 2025)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/E3D4ALlqlfU)
 

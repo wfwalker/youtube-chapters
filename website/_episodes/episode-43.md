@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 43 (1/8/2021)"
+title: "Episode 43 (January 8, 2021)"
 episode_number: "43"
 date_string: "1/8/2021"
 date: 2021-01-08
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/PcZFKARMaQo"
 image: "/assets/images/title-slides/episode-43.jpg"
 ---
 
-# Episode 43 (1/8/2021)
+# Episode 43 (January 8, 2021)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/PcZFKARMaQo)
 

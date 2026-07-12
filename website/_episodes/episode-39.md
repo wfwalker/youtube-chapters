@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 39 (12/11/2020)"
+title: "Episode 39 (December 11, 2020)"
 episode_number: "39"
 date_string: "12/11/2020"
 date: 2020-12-11
@@ -13,7 +13,7 @@ notes: "yes"
 youtube_url: "https://youtu.be/hfljJ87kgbs"
 ---
 
-# Episode 39 (12/11/2020)
+# Episode 39 (December 11, 2020)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/hfljJ87kgbs)
 

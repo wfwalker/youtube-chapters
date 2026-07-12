@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 24 (8/28/2020)"
+title: "Episode 24 (August 28, 2020)"
 episode_number: "24"
 date_string: "8/28/2020"
 date: 2020-08-28
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/oLyXU2T1ZuA"
 image: "/assets/images/title-slides/episode-24.jpg"
 ---
 
-# Episode 24 (8/28/2020)
+# Episode 24 (August 28, 2020)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/oLyXU2T1ZuA)
 

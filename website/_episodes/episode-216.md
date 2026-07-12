@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 216 (7/5/2024)"
+title: "Episode 216 (July 5, 2024)"
 episode_number: "216"
 date_string: "7/5/2024"
 date: 2024-07-05
@@ -14,7 +14,7 @@ youtube_url: ""
 image: "/assets/images/title-slides/episode-216.jpg"
 ---
 
-# Episode 216 (7/5/2024)
+# Episode 216 (July 5, 2024)
 
 ### Set List
 

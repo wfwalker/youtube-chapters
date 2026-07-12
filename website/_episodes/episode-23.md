@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 23 (8/21/2020)"
+title: "Episode 23 (August 21, 2020)"
 episode_number: "23"
 date_string: "8/21/2020"
 date: 2020-08-21
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/m7JFcEdod0E"
 image: "/assets/images/title-slides/episode-23.jpg"
 ---
 
-# Episode 23 (8/21/2020)
+# Episode 23 (August 21, 2020)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/m7JFcEdod0E)
 

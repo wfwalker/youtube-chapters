@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 288 (2/6/2026)"
+title: "Episode 288 (February 6, 2026)"
 episode_number: "288"
 date_string: "2/6/2026"
 date: 2026-02-06
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/S0zUsM5qJZ0"
 image: "/assets/images/title-slides/episode-288.jpg"
 ---
 
-# Episode 288 (2/6/2026)
+# Episode 288 (February 6, 2026)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/S0zUsM5qJZ0)
 

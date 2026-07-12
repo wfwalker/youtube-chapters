@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 258 (5/30/2025)"
+title: "Episode 258 (May 30, 2025)"
 episode_number: "258"
 date_string: "5/30/2025"
 date: 2025-05-30
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/Kug2UvXeFw0"
 image: "/assets/images/title-slides/episode-258.jpg"
 ---
 
-# Episode 258 (5/30/2025)
+# Episode 258 (May 30, 2025)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/Kug2UvXeFw0)
 

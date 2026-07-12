@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 172 (7/21/2023)"
+title: "Episode 172 (July 21, 2023)"
 episode_number: "172"
 date_string: "7/21/2023"
 date: 2023-07-21
@@ -14,7 +14,7 @@ youtube_url: "https://youtube.com/live/ElbkjWw665s"
 image: "/assets/images/title-slides/episode-172.jpg"
 ---
 
-# Episode 172 (7/21/2023)
+# Episode 172 (July 21, 2023)
 
 [Watch Full Stream on YouTube &rarr;](https://youtube.com/live/ElbkjWw665s)
 

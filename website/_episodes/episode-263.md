@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 263 (7/4/2025)"
+title: "Episode 263 (July 4, 2025)"
 episode_number: "263"
 date_string: "7/4/2025"
 date: 2025-07-04
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/hhGsnvxRRAQ"
 image: "/assets/images/title-slides/episode-263.jpg"
 ---
 
-# Episode 263 (7/4/2025)
+# Episode 263 (July 4, 2025)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/hhGsnvxRRAQ)
 

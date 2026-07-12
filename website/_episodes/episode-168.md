@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 168 (6/23/2023)"
+title: "Episode 168 (June 23, 2023)"
 episode_number: "168"
 date_string: "6/23/2023"
 date: 2023-06-23
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/w28RQAWi17U"
 image: "/assets/images/title-slides/episode-168.jpg"
 ---
 
-# Episode 168 (6/23/2023)
+# Episode 168 (June 23, 2023)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/w28RQAWi17U)
 

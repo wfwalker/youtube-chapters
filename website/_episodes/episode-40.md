@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 40 (12/18/2020)"
+title: "Episode 40 (December 18, 2020)"
 episode_number: "40"
 date_string: "12/18/2020"
 date: 2020-12-18
@@ -13,7 +13,7 @@ notes: "yes"
 youtube_url: "https://youtu.be/yhWB3cwCzOI"
 ---
 
-# Episode 40 (12/18/2020)
+# Episode 40 (December 18, 2020)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/yhWB3cwCzOI)
 

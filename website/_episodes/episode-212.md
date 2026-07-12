@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 212 (6/7/2024)"
+title: "Episode 212 (June 7, 2024)"
 episode_number: "212"
 date_string: "6/7/2024"
 date: 2024-06-07
@@ -14,7 +14,7 @@ youtube_url: "https://www.youtube.com/live/7zbegj_ZYN4"
 image: "/assets/images/title-slides/episode-212.jpg"
 ---
 
-# Episode 212 (6/7/2024)
+# Episode 212 (June 7, 2024)
 
 [Watch Full Stream on YouTube &rarr;](https://www.youtube.com/live/7zbegj_ZYN4)
 

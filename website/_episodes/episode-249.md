@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 249 (3/14/2025)"
+title: "Episode 249 (March 14, 2025)"
 episode_number: "249"
 date_string: "3/14/2025"
 date: 2025-03-14
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/XrnoBxZGghE"
 image: "/assets/images/title-slides/episode-249.jpg"
 ---
 
-# Episode 249 (3/14/2025)
+# Episode 249 (March 14, 2025)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/XrnoBxZGghE)
 

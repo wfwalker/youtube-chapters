@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 131 (9/16/2022)"
+title: "Episode 131 (September 16, 2022)"
 episode_number: "131"
 date_string: "9/16/2022"
 date: 2022-09-16
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/2NNZE3aK5FA"
 image: "/assets/images/title-slides/episode-131.jpg"
 ---
 
-# Episode 131 (9/16/2022)
+# Episode 131 (September 16, 2022)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/2NNZE3aK5FA)
 

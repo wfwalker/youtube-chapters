@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 282 (12/19/2025)"
+title: "Episode 282 (December 19, 2025)"
 episode_number: "282"
 date_string: "12/19/2025"
 date: 2025-12-19
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/ymINXCQpjmI"
 image: "/assets/images/title-slides/episode-282.jpg"
 ---
 
-# Episode 282 (12/19/2025)
+# Episode 282 (December 19, 2025)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/ymINXCQpjmI)
 

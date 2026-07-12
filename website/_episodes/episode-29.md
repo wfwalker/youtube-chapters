@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 29 (10/2/2020)"
+title: "Episode 29 (October 2, 2020)"
 episode_number: "29"
 date_string: "10/2/2020"
 date: 2020-10-02
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/5H3aJ1p02Qo"
 image: "/assets/images/title-slides/episode-29.jpg"
 ---
 
-# Episode 29 (10/2/2020)
+# Episode 29 (October 2, 2020)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/5H3aJ1p02Qo)
 

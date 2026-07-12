@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 135 (10/14/2022)"
+title: "Episode 135 (October 14, 2022)"
 episode_number: "135"
 date_string: "10/14/2022"
 date: 2022-10-14
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/hs2qWsSLfxY"
 image: "/assets/images/title-slides/episode-135.jpg"
 ---
 
-# Episode 135 (10/14/2022)
+# Episode 135 (October 14, 2022)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/hs2qWsSLfxY)
 

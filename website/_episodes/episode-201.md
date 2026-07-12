@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 201 (3/8/2024)"
+title: "Episode 201 (March 8, 2024)"
 episode_number: "201"
 date_string: "3/8/2024"
 date: 2024-03-08
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/LbsjAeA49TU"
 image: "/assets/images/title-slides/episode-201.jpg"
 ---
 
-# Episode 201 (3/8/2024)
+# Episode 201 (March 8, 2024)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/LbsjAeA49TU)
 

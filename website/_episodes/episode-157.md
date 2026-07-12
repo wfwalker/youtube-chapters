@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 157 (4/7/2023)"
+title: "Episode 157 (April 7, 2023)"
 episode_number: "157"
 date_string: "4/7/2023"
 date: 2023-04-07
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/kVbZruEPROM"
 image: "/assets/images/title-slides/episode-157.jpg"
 ---
 
-# Episode 157 (4/7/2023)
+# Episode 157 (April 7, 2023)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/kVbZruEPROM)
 

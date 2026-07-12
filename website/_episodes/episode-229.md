@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 229 (10/18/2024)"
+title: "Episode 229 (October 18, 2024)"
 episode_number: "229"
 date_string: "10/18/2024"
 date: 2024-10-18
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/6MVWBYqXsLQ"
 image: "/assets/images/title-slides/episode-229.jpg"
 ---
 
-# Episode 229 (10/18/2024)
+# Episode 229 (October 18, 2024)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/6MVWBYqXsLQ)
 

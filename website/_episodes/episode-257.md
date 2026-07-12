@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 257 (5/23/2025)"
+title: "Episode 257 (May 23, 2025)"
 episode_number: "257"
 date_string: "5/23/2025"
 date: 2025-05-23
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/kUqk9AqDzsY"
 image: "/assets/images/title-slides/episode-257.jpg"
 ---
 
-# Episode 257 (5/23/2025)
+# Episode 257 (May 23, 2025)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/kUqk9AqDzsY)
 

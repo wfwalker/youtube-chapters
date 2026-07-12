@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 195 (1/12/2024)"
+title: "Episode 195 (January 12, 2024)"
 episode_number: "195"
 date_string: "1/12/2024"
 date: 2024-01-12
@@ -13,7 +13,7 @@ notes: ""
 youtube_url: "https://youtube.com/live/dkMgQ_pHYNk"
 ---
 
-# Episode 195 (1/12/2024)
+# Episode 195 (January 12, 2024)
 
 [Watch Full Stream on YouTube &rarr;](https://youtube.com/live/dkMgQ_pHYNk)
 

@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 273 (9/26/2025)"
+title: "Episode 273 (September 26, 2025)"
 episode_number: "273"
 date_string: "9/26/2025"
 date: 2025-09-26
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/rGd3hgvZY8I"
 image: "/assets/images/title-slides/episode-273.jpg"
 ---
 
-# Episode 273 (9/26/2025)
+# Episode 273 (September 26, 2025)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/rGd3hgvZY8I)
 

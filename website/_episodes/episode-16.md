@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 16 (7/3/2020)"
+title: "Episode 16 (July 3, 2020)"
 episode_number: "16"
 date_string: "7/3/2020"
 date: 2020-07-03
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/pX-E6ZVGrpA"
 image: "/assets/images/title-slides/episode-16.png"
 ---
 
-# Episode 16 (7/3/2020)
+# Episode 16 (July 3, 2020)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/pX-E6ZVGrpA)
 

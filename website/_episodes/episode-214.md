@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 214 (6/21/2024)"
+title: "Episode 214 (June 21, 2024)"
 episode_number: "214"
 date_string: "6/21/2024"
 date: 2024-06-21
@@ -14,7 +14,7 @@ youtube_url: ""
 image: "/assets/images/title-slides/episode-214.jpg"
 ---
 
-# Episode 214 (6/21/2024)
+# Episode 214 (June 21, 2024)
 
 ### Set List
 

@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Episode 271 (9/12/2025)"
+title: "Episode 271 (September 12, 2025)"
 episode_number: "271"
 date_string: "9/12/2025"
 date: 2025-09-12
@@ -14,7 +14,7 @@ youtube_url: "https://youtu.be/FgMun1DwyAU"
 image: "/assets/images/title-slides/episode-271.jpg"
 ---
 
-# Episode 271 (9/12/2025)
+# Episode 271 (September 12, 2025)
 
 [Watch Full Stream on YouTube &rarr;](https://youtu.be/FgMun1DwyAU)
 
