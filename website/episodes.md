@@ -4,31 +4,6 @@ title: "All Episodes"
 ---
 
 <style>
-  .hero-section {
-    text-align: center;
-    margin-bottom: 4rem;
-    padding: 3rem 1rem;
-  }
-  
-  .hero-title {
-    font-family: 'Outfit', sans-serif;
-    font-weight: 800;
-    font-size: 3.5rem;
-    margin: 0 0 1rem 0;
-    background: var(--accent-gradient);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    letter-spacing: -0.03em;
-    line-height: 1.1;
-  }
-  
-  .hero-subtitle {
-    color: var(--text-secondary);
-    font-size: 1.2rem;
-    max-width: 600px;
-    margin: 0 auto;
-    font-weight: 400;
-  }
   
   .grid-header {
     display: flex;
@@ -40,11 +15,10 @@ title: "All Episodes"
   }
   
   .grid-title {
-    font-family: 'Outfit', sans-serif;
+    font-family: var(--font-title);
     font-size: 1.6rem;
-    font-weight: 600;
+    font-weight: var(--font-title-weight);
     margin: 0;
-    letter-spacing: -0.01em;
   }
   
   .episodes-list {
@@ -81,11 +55,10 @@ title: "All Episodes"
   }
   
   .card-title {
-    font-family: 'Outfit', sans-serif;
+    font-family: var(--font-title);
     font-size: 1.3rem;
-    font-weight: 600;
+    font-weight: var(--font-title-weight);
     margin: 0 0 0.4rem 0;
-    letter-spacing: -0.01em;
     line-height: 1.25;
   }
   
@@ -103,25 +76,11 @@ title: "All Episodes"
     border-top: 1px solid rgba(255, 255, 255, 0.04);
     padding-top: 0.8rem;
   }
-  
-  .badge-style {
-    background-color: rgba(255, 255, 255, 0.04);
-    padding: 0.2rem 0.6rem;
-    border-radius: 6px;
-    font-size: 0.75rem;
-    text-transform: capitalize;
-  }
-  
-  .badge-count {
-    color: var(--accent-hover);
-    font-weight: 600;
-    font-size: 0.85rem;
-  }
 </style>
 
-<div class="hero-section">
-  <h1 class="hero-title">Episodes</h1>
-  <p class="hero-subtitle">Chronological record of live performances. Click an episode to see its full setlist, tempos, styles, and timing details.</p>
+<div class="hero-banner">
+  <h1 class="hero-banner-title">Episodes</h1>
+  <p class="hero-banner-subtitle">Chronological record of live performances. Click an episode to see its full setlist, tempos, styles, and timing details.</p>
 </div>
 
 <div class="grid-header">

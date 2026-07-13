@@ -1,0 +1,391 @@
+/* Friday Jazz Happy Hour - Global Design System */
+
+:root {
+  --bg-color: #0b0d10;
+  --card-bg: rgba(20, 24, 33, 0.75);
+  --text-primary: #f3f4f6;
+  --text-secondary: #9ca3af;
+  --accent-color: #3b82f6;
+  --accent-hover: #60a5fa;
+  --accent-gradient: linear-gradient(135deg, #3b82f6, #8b5cf6);
+  --border-color: rgba(255, 255, 255, 0.06);
+  
+  --font-title: 'Besley', serif;
+  --font-title-weight: 500;
+  --font-body: 'Libre Franklin', sans-serif;
+  --font-meta: 'Oswald', sans-serif;
+}
+
+body {
+  font-family: var(--font-body);
+  background-color: var(--bg-color);
+  color: var(--text-primary);
+  margin: 0;
+  line-height: 1.6;
+  background-image: 
+    radial-gradient(at 0% 0%, rgba(59, 130, 246, 0.12) 0, transparent 55%),
+    radial-gradient(at 100% 0%, rgba(139, 92, 246, 0.08) 0, transparent 55%);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  -webkit-font-smoothing: antialiased;
+}
+
+header {
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border-bottom: 1px solid var(--border-color);
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba(11, 13, 16, 0.75);
+}
+
+.header-container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 1rem 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.site-logo {
+  font-family: var(--font-title);
+  font-weight: var(--font-title-weight);
+  font-size: 1.4rem;
+  background: var(--accent-gradient);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-decoration: none;
+  letter-spacing: -0.02em;
+}
+
+.nav-links a {
+  font-family: var(--font-meta);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--text-secondary);
+  text-decoration: none;
+  margin-left: 1.5rem;
+  font-size: 0.9rem;
+  font-weight: 500;
+  transition: color 0.2s ease;
+}
+
+.nav-links a:hover {
+  color: var(--text-primary);
+}
+
+main {
+  flex: 1;
+  max-width: 1100px;
+  width: calc(100% - 4rem);
+  margin: 2.5rem auto;
+  padding: 0 2rem;
+}
+
+footer {
+  border-top: 1px solid var(--border-color);
+  padding: 2.5rem;
+  text-align: center;
+  color: var(--text-secondary);
+  font-size: 0.85rem;
+  margin-top: auto;
+  background: rgba(8, 10, 12, 0.5);
+}
+
+/* ==========================================================================
+   Consolidated UI Components
+   ========================================================================== */
+
+/* 1. Card Panel component (glassmorphism look) */
+.card-panel {
+  background: var(--card-bg);
+  border: 1px solid var(--border-color);
+  border-radius: 16px;
+  padding: 1.5rem 2rem;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.2);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+}
+
+/* 2. Hero Banners */
+.hero-banner {
+  text-align: center;
+  margin-bottom: 3rem;
+  padding: 3rem 1rem;
+}
+
+.hero-banner-title {
+  font-family: var(--font-title);
+  font-weight: var(--font-title-weight);
+  font-size: 3.5rem;
+  margin: 0 0 1rem 0;
+  background: var(--accent-gradient);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  line-height: 1.1;
+}
+
+.hero-banner-subtitle {
+  color: var(--text-secondary);
+  font-size: 1.2rem;
+  max-width: 600px;
+  margin: 0 auto;
+  font-weight: 400;
+  line-height: 1.6;
+}
+
+/* 3. Badges */
+.badge {
+  display: inline-flex;
+  align-items: center;
+  font-family: var(--font-meta);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  font-size: 0.75rem;
+  border-radius: 999px;
+  border: 1px solid var(--border-color);
+  color: var(--text-secondary);
+  background-color: rgba(255, 255, 255, 0.05);
+  padding: 0.35rem 0.85rem;
+}
+
+.badge--accent {
+  border-color: rgba(59, 130, 246, 0.3);
+  color: var(--accent-hover);
+}
+
+.badge--success {
+  border-color: rgba(16, 185, 129, 0.3);
+  color: #34d399;
+}
+
+.badge--gradient {
+  background: var(--accent-gradient);
+  color: white;
+  font-weight: 600;
+  border: none;
+  text-decoration: none;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.badge--gradient:hover {
+  transform: translateY(-2px);
+  color: white;
+  box-shadow: 0 4px 12px rgba(59, 130, 246, 0.2);
+}
+
+.badge-style {
+  background-color: rgba(255, 255, 255, 0.04);
+  padding: 0.25rem 0.65rem;
+  border-radius: 6px;
+  font-size: 0.78rem;
+  text-transform: capitalize;
+  border: 1px solid rgba(255, 255, 255, 0.04);
+}
+
+/* 4. Form Controls */
+.search-filters {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1.5rem;
+  margin-bottom: 2.5rem;
+  flex-wrap: wrap;
+}
+
+.search-box-wrapper {
+  position: relative;
+  flex: 1;
+  min-width: 300px;
+}
+
+.search-icon {
+  position: absolute;
+  left: 1rem;
+  top: 50%;
+  transform: translateY(-50%);
+  color: var(--text-secondary);
+  font-size: 1.1rem;
+  pointer-events: none;
+}
+
+.form-input {
+  width: 100%;
+  padding: 0.85rem 1.2rem;
+  background: var(--card-bg);
+  border: 1px solid var(--border-color);
+  border-radius: 14px;
+  color: var(--text-primary);
+  font-family: inherit;
+  font-size: 0.95rem;
+  outline: none;
+  box-sizing: border-box;
+  transition: all 0.2s ease;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+.form-input:focus {
+  border-color: var(--accent-color);
+  box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.15), 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+.search-box-wrapper .form-input {
+  padding-left: 2.8rem;
+}
+
+.filters-wrapper {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.form-select {
+  padding: 0.85rem 1.2rem;
+  background: var(--card-bg);
+  border: 1px solid var(--border-color);
+  border-radius: 14px;
+  color: var(--text-primary);
+  font-family: inherit;
+  font-size: 0.95rem;
+  outline: none;
+  box-sizing: border-box;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+.form-select:focus {
+  border-color: var(--accent-color);
+  box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.15), 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+/* 5. Tables */
+
+/* A. Simple Table (Episodes & Songs) */
+.simple-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1rem;
+}
+
+.simple-table th {
+  font-family: var(--font-meta);
+  text-align: left;
+  color: var(--text-secondary);
+  font-weight: 500;
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  padding: 1rem;
+  border-bottom: 2px solid var(--border-color);
+}
+
+.simple-table td {
+  padding: 1.1rem 1rem;
+  border-bottom: 1px solid var(--border-color);
+  font-size: 0.95rem;
+}
+
+.simple-table tr:last-child td {
+  border-bottom: none;
+}
+
+.simple-table tr:hover td {
+  background-color: rgba(255, 255, 255, 0.015);
+}
+
+.simple-table td a {
+  color: var(--accent-hover);
+  text-decoration: none;
+  transition: color 0.15s ease;
+  display: inline-flex;
+  align-items: center;
+}
+
+.simple-table td a:hover {
+  color: var(--text-primary);
+  text-decoration: underline;
+}
+
+/* B. Card Row Table (Rotation lists) */
+.songs-table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0 12px;
+}
+
+.songs-table th {
+  font-family: var(--font-meta);
+  text-align: left;
+  color: var(--text-secondary);
+  font-weight: 500;
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  padding: 0.5rem 1.5rem;
+  border: none;
+}
+
+.songs-table th.sortable {
+  cursor: pointer;
+  user-select: none;
+  transition: color 0.15s ease;
+}
+
+.songs-table th.sortable:hover {
+  color: var(--text-primary);
+}
+
+.songs-table th.active-sort {
+  color: var(--accent-hover);
+}
+
+.song-row {
+  cursor: pointer;
+  transition: transform 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.song-row td {
+  background: var(--card-bg);
+  border-top: 1px solid var(--border-color);
+  border-bottom: 1px solid var(--border-color);
+  padding: 1.3rem 1.5rem;
+  color: var(--text-primary);
+  transition: all 0.2s ease;
+}
+
+.song-row td:first-child {
+  border-left: 1px solid var(--border-color);
+  border-top-left-radius: 16px;
+  border-bottom-left-radius: 16px;
+}
+
+.song-row td:last-child {
+  border-right: 1px solid var(--border-color);
+  border-top-right-radius: 16px;
+  border-bottom-right-radius: 16px;
+}
+
+.song-row:hover td {
+  background: rgba(255, 255, 255, 0.03);
+  border-color: var(--accent-color);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+.song-row:hover {
+  transform: translateY(-2px);
+}
+
+.song-title-link {
+  color: var(--accent-hover);
+  text-decoration: none;
+  transition: color 0.15s ease;
+}
+
+.song-title-link:hover {
+  color: var(--text-primary);
+  text-decoration: underline;
+}

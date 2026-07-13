@@ -21,86 +21,6 @@ layout: default
     margin-bottom: 1.5rem;
   }
   
-  .meta-badge {
-    font-family: var(--font-meta);
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
-    background-color: rgba(255, 255, 255, 0.05);
-    padding: 0.35rem 0.85rem;
-    border-radius: 999px;
-    font-size: 0.75rem;
-    color: var(--text-secondary);
-    border: 1px solid var(--border-color);
-  }
-  
-  .meta-badge.watch-btn {
-    background: var(--accent-gradient);
-    color: white;
-    font-weight: 600;
-    border: none;
-    text-decoration: none;
-    transition: transform 0.2s ease;
-  }
-  
-  .meta-badge.watch-btn:hover {
-    transform: translateY(-2px);
-    color: white;
-  }
-  
-  .setlist-card {
-    background: var(--card-bg);
-    border: 1px solid var(--border-color);
-    border-radius: 16px;
-    padding: 1.5rem 2rem;
-    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.2);
-    backdrop-filter: blur(8px);
-    -webkit-backdrop-filter: blur(8px);
-  }
-
-  
-  table {
-    width: 100%;
-    border-collapse: collapse;
-    margin-top: 1rem;
-  }
-  
-  th {
-    font-family: var(--font-meta);
-    text-align: left;
-    color: var(--text-secondary);
-    font-weight: 500;
-    font-size: 0.85rem;
-    text-transform: uppercase;
-    letter-spacing: 0.08em;
-    padding: 1rem;
-    border-bottom: 2px solid var(--border-color);
-  }
-  
-  td {
-    padding: 1.1rem 1rem;
-    border-bottom: 1px solid var(--border-color);
-    font-size: 0.95rem;
-  }
-  
-  tr:last-child td {
-    border-bottom: none;
-  }
-  
-  tr:hover td {
-    background-color: rgba(255, 255, 255, 0.015);
-  }
-  
-  td a {
-    color: var(--accent-hover);
-    text-decoration: none;
-    transition: color 0.15s ease;
-  }
-  
-  td a:hover {
-    color: var(--text-primary);
-    text-decoration: underline;
-  }
-
   .title-slide-container {
     margin-bottom: 2.5rem;
     border-radius: 16px;
@@ -118,10 +38,41 @@ layout: default
     display: block;
     object-fit: cover;
   }
+  
+  .episode-navigation {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 3rem;
+    gap: 1rem;
+  }
+  
+  .nav-btn {
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    padding: 1rem 1.5rem;
+    background: var(--card-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 12px;
+    transition: all 0.2s ease;
+    box-sizing: border-box;
+  }
+  
   .nav-btn:hover {
     border-color: var(--accent-color) !important;
     transform: translateY(-2px);
     box-shadow: 0 4px 20px rgba(59, 130, 246, 0.1);
+  }
+  
+  .prev-btn {
+    align-items: flex-start;
+    width: 48%;
+  }
+  
+  .next-btn {
+    align-items: flex-end;
+    width: 48%;
+    text-align: right;
   }
 </style>
 
@@ -133,25 +84,25 @@ layout: default
   {% if page.theme and page.theme != "" or page.shirt and page.shirt != "" or page.tip_jar and page.tip_jar != "" %}
     <div class="episode-meta" style="margin-bottom: 0.8rem;">
       {% if page.theme and page.theme != "" %}
-        <span class="meta-badge" style="border-color: rgba(59, 130, 246, 0.3); color: var(--accent-hover);">🎨 Theme: {{ page.theme }}</span>
+        <span class="badge badge--accent">🎨 Theme: {{ page.theme }}</span>
       {% endif %}
       {% if page.shirt and page.shirt != "" %}
-        <span class="meta-badge">👕 Shirt: {{ page.shirt }}</span>
+        <span class="badge">👕 Shirt: {{ page.shirt }}</span>
       {% endif %}
       {% if page.tip_jar and page.tip_jar != "" %}
-        <span class="meta-badge" style="border-color: rgba(16, 185, 129, 0.3); color: #34d399;">❤️ Tip Jar: {{ page.tip_jar }}</span>
+        <span class="badge badge--success">❤️ Tip Jar: {{ page.tip_jar }}</span>
       {% endif %}
     </div>
   {% endif %}
 
   <div class="episode-meta">
     {% if page.youtube_url and page.youtube_url != "" %}
-      <a href="{{ page.youtube_url }}" target="_blank" class="meta-badge watch-btn">Watch Stream &rarr;</a>
+      <a href="{{ page.youtube_url }}" target="_blank" class="badge badge--gradient">Watch Stream &rarr;</a>
     {% endif %}
   </div>
   
   {% if page.notes and page.notes != "" %}
-    <div class="meta-badge" style="display: block; margin-top: 1rem; border-radius: 8px; line-height: 1.5; padding: 0.8rem 1.2rem; background: rgba(255, 255, 255, 0.02); max-width: 800px; color: var(--text-primary);">
+    <div class="badge" style="display: block; margin-top: 1rem; border-radius: 8px; line-height: 1.5; padding: 0.8rem 1.2rem; background: rgba(255, 255, 255, 0.02); max-width: 800px; color: var(--text-primary); text-transform: none; letter-spacing: normal;">
       <strong>📝 Show Notes:</strong> {{ page.notes }}
     </div>
   {% endif %}
@@ -163,9 +114,9 @@ layout: default
   </div>
 {% endif %}
 
-<div class="setlist-card">
+<div class="card-panel">
   <h3>Set List</h3>
-  <table>
+  <table class="simple-table">
     <thead>
       <tr>
         <th style="width: 5%;">#</th>
@@ -206,20 +157,20 @@ layout: default
 </div>
 
 {% if page.previous or page.next %}
-  <div class="episode-navigation" style="display: flex; justify-content: space-between; margin-top: 3rem; gap: 1rem;">
+  <div class="episode-navigation">
     {% if page.previous %}
-      <a href="{{ page.previous.url | relative_url }}" class="nav-btn prev-btn" style="display: flex; flex-direction: column; align-items: flex-start; text-decoration: none; padding: 1rem 1.5rem; background: var(--card-bg); border: 1px solid var(--border-color); border-radius: 12px; transition: all 0.2s ease; width: 48%; box-sizing: border-box;">
+      <a href="{{ page.previous.url | relative_url }}" class="nav-btn prev-btn">
         <span style="font-size: 0.8rem; color: var(--text-secondary); text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 0.3rem;">&larr; Previous Show</span>
-        <span style="font-size: 0.95rem; font-weight: 600; color: var(--accent-hover); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; width: 100%;">{{ page.previous.title }}</span>
+        <span style="font-size: 0.95rem; font-weight: 500; color: var(--accent-hover); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; width: 100%;">{{ page.previous.title }}</span>
       </a>
     {% else %}
       <div style="width: 48%;"></div>
     {% endif %}
 
     {% if page.next %}
-      <a href="{{ page.next.url | relative_url }}" class="nav-btn next-btn" style="display: flex; flex-direction: column; align-items: flex-end; text-decoration: none; padding: 1rem 1.5rem; background: var(--card-bg); border: 1px solid var(--border-color); border-radius: 12px; transition: all 0.2s ease; width: 48%; box-sizing: border-box; text-align: right;">
+      <a href="{{ page.next.url | relative_url }}" class="nav-btn next-btn">
         <span style="font-size: 0.8rem; color: var(--text-secondary); text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 0.3rem;">Next Show &rarr;</span>
-        <span style="font-size: 0.95rem; font-weight: 600; color: var(--accent-hover); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; width: 100%;">{{ page.next.title }}</span>
+        <span style="font-size: 0.95rem; font-weight: 500; color: var(--accent-hover); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; width: 100%;">{{ page.next.title }}</span>
       </a>
     {% else %}
       <div style="width: 48%;"></div>

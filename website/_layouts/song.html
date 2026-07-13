@@ -20,99 +20,24 @@ layout: default
     gap: 0.8rem;
     margin-bottom: 1.5rem;
   }
-  
-  .meta-badge {
-    font-family: var(--font-meta);
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
-    background-color: rgba(255, 255, 255, 0.05);
-    padding: 0.35rem 0.85rem;
-    border-radius: 999px;
-    font-size: 0.75rem;
-    color: var(--text-secondary);
-    border: 1px solid var(--border-color);
-  }
-  
-  .meta-badge.count {
-    background: var(--accent-gradient);
-    color: white;
-    font-weight: 600;
-    border: none;
-  }
-  
-  .performance-card {
-    background: var(--card-bg);
-    border: 1px solid var(--border-color);
-    border-radius: 16px;
-    padding: 1.5rem 2rem;
-    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.2);
-    backdrop-filter: blur(8px);
-    -webkit-backdrop-filter: blur(8px);
-  }
-
-  
-  table {
-    width: 100%;
-    border-collapse: collapse;
-    margin-top: 1rem;
-  }
-  
-  th {
-    font-family: var(--font-meta);
-    text-align: left;
-    color: var(--text-secondary);
-    font-weight: 500;
-    font-size: 0.85rem;
-    text-transform: uppercase;
-    letter-spacing: 0.08em;
-    padding: 1rem;
-    border-bottom: 2px solid var(--border-color);
-  }
-  
-  td {
-    padding: 1.1rem 1rem;
-    border-bottom: 1px solid var(--border-color);
-    font-size: 0.95rem;
-  }
-  
-  tr:last-child td {
-    border-bottom: none;
-  }
-  
-  tr:hover td {
-    background-color: rgba(255, 255, 255, 0.015);
-  }
-  
-  td a {
-    color: var(--accent-hover);
-    text-decoration: none;
-    transition: color 0.15s ease;
-    display: inline-flex;
-    align-items: center;
-  }
-  
-  td a:hover {
-    color: var(--text-primary);
-    text-decoration: underline;
-  }
 </style>
 
 <div class="song-header">
   <h1 class="song-title">{{ page.title }}</h1>
   <div class="song-meta">
     {% if page.composer and page.composer != "" %}
-      <span class="meta-badge">Composer: {{ page.composer }}</span>
+      <span class="badge">Composer: {{ page.composer }}</span>
     {% endif %}
     {% if page.style and page.style != "" %}
-      <span class="meta-badge">Style: {{ page.style }}</span>
+      <span class="badge">Style: {{ page.style }}</span>
     {% endif %}
-    <span class="meta-badge count">Played {{ page.play_count }} times</span>
+    <span class="badge badge--gradient">Played {{ page.play_count }} times</span>
   </div>
 </div>
 
-<div class="performance-card">
+<div class="card-panel">
   <h3>Performance History</h3>
-  <table>
+  <table class="simple-table">
     <thead>
       <tr>
         <th style="width: 25%;">Date</th>

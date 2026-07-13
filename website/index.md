@@ -74,9 +74,9 @@ title: "Friday Jazz Happy Hour Archive"
   }
 
   .nav-card-stat {
-    font-family: 'Outfit', sans-serif;
+    font-family: var(--font-title);
     font-size: 2.6rem;
-    font-weight: 800;
+    font-weight: var(--font-title-weight);
     line-height: 1;
     background: linear-gradient(135deg, #ffffff, #a1a1aa);
     -webkit-background-clip: text;
@@ -84,11 +84,10 @@ title: "Friday Jazz Happy Hour Archive"
   }
 
   .nav-card-title {
-    font-family: 'Outfit', sans-serif;
+    font-family: var(--font-title);
     font-size: 1.45rem;
-    font-weight: 700;
+    font-weight: var(--font-title-weight);
     margin: 0 0 0.8rem 0;
-    letter-spacing: -0.01em;
     line-height: 1.25;
   }
 
@@ -139,8 +138,8 @@ title: "Friday Jazz Happy Hour Archive"
   }
   
   .live-stream-header {
-    font-family: 'Outfit', sans-serif;
-    font-weight: 700;
+    font-family: var(--font-title);
+    font-weight: var(--font-title-weight);
     font-size: 1.5rem;
     margin-top: 0;
     margin-bottom: 1.2rem;
