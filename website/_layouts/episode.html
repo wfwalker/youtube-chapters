@@ -21,6 +21,82 @@ layout: default
     margin-bottom: 1.5rem;
   }
   
+  /* Episode Header Navigation Row */
+  .episode-nav-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    margin: 1.8rem 0;
+    width: 100%;
+  }
+  
+  .nav-pill {
+    display: flex;
+    flex-direction: column;
+    padding: 0.5rem 1.2rem;
+    background: var(--card-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 12px;
+    text-decoration: none;
+    transition: all 0.2s ease;
+    min-width: 140px;
+    flex: 1;
+    box-sizing: border-box;
+  }
+  
+  .prev-pill {
+    align-items: flex-start;
+  }
+  
+  .next-pill {
+    align-items: flex-end;
+    text-align: right;
+  }
+  
+  .nav-pill:hover {
+    border-color: var(--accent-color);
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(59, 130, 246, 0.1);
+  }
+  
+  .pill-label {
+    font-size: 0.7rem;
+    color: var(--text-secondary);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+  
+  .pill-title {
+    font-size: 0.88rem;
+    font-weight: 500;
+    color: var(--accent-hover);
+    margin-top: 0.1rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 100%;
+  }
+  
+  .nav-pill-placeholder {
+    min-width: 140px;
+    flex: 1;
+  }
+  
+  .watch-stream-pill {
+    padding: 0.8rem 1.5rem;
+    font-size: 0.9rem;
+    border-radius: 12px;
+    text-align: center;
+    white-space: nowrap;
+    flex: 1;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    height: 46px;
+    box-sizing: border-box;
+  }
+
   .title-slide-container {
     margin-bottom: 2.5rem;
     border-radius: 16px;
@@ -37,42 +113,6 @@ layout: default
     height: auto;
     display: block;
     object-fit: cover;
-  }
-  
-  .episode-navigation {
-    display: flex;
-    justify-content: space-between;
-    margin-top: 3rem;
-    gap: 1rem;
-  }
-  
-  .nav-btn {
-    display: flex;
-    flex-direction: column;
-    text-decoration: none;
-    padding: 1rem 1.5rem;
-    background: var(--card-bg);
-    border: 1px solid var(--border-color);
-    border-radius: 12px;
-    transition: all 0.2s ease;
-    box-sizing: border-box;
-  }
-  
-  .nav-btn:hover {
-    border-color: var(--accent-color) !important;
-    transform: translateY(-2px);
-    box-shadow: 0 4px 20px rgba(59, 130, 246, 0.1);
-  }
-  
-  .prev-btn {
-    align-items: flex-start;
-    width: 48%;
-  }
-  
-  .next-btn {
-    align-items: flex-end;
-    width: 48%;
-    text-align: right;
   }
 </style>
 
@@ -95,9 +135,30 @@ layout: default
     </div>
   {% endif %}
 
-  <div class="episode-meta">
+  <!-- Top Navigation & Watch Stream Row -->
+  <div class="episode-nav-row">
+    {% if page.previous %}
+      <a href="{{ page.previous.url | relative_url }}" class="nav-pill prev-pill">
+        <span class="pill-label">&larr; Previous</span>
+        <span class="pill-title">{{ page.previous.title | split: ":" | first }}</span>
+      </a>
+    {% else %}
+      <div class="nav-pill-placeholder"></div>
+    {% endif %}
+
     {% if page.youtube_url and page.youtube_url != "" %}
-      <a href="{{ page.youtube_url }}" target="_blank" class="badge badge--gradient">Watch Stream &rarr;</a>
+      <a href="{{ page.youtube_url }}" target="_blank" class="badge badge--gradient watch-stream-pill">Watch Stream &rarr;</a>
+    {% else %}
+      <div class="nav-pill-placeholder"></div>
+    {% endif %}
+
+    {% if page.next %}
+      <a href="{{ page.next.url | relative_url }}" class="nav-pill next-pill">
+        <span class="pill-label">Next &rarr;</span>
+        <span class="pill-title">{{ page.next.title | split: ":" | first }}</span>
+      </a>
+    {% else %}
+      <div class="nav-pill-placeholder"></div>
     {% endif %}
   </div>
   
@@ -155,25 +216,3 @@ layout: default
   </table>
   {{ content }}
 </div>
-
-{% if page.previous or page.next %}
-  <div class="episode-navigation">
-    {% if page.previous %}
-      <a href="{{ page.previous.url | relative_url }}" class="nav-btn prev-btn">
-        <span style="font-size: 0.8rem; color: var(--text-secondary); text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 0.3rem;">&larr; Previous Show</span>
-        <span style="font-size: 0.95rem; font-weight: 500; color: var(--accent-hover); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; width: 100%;">{{ page.previous.title }}</span>
-      </a>
-    {% else %}
-      <div style="width: 48%;"></div>
-    {% endif %}
-
-    {% if page.next %}
-      <a href="{{ page.next.url | relative_url }}" class="nav-btn next-btn">
-        <span style="font-size: 0.8rem; color: var(--text-secondary); text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 0.3rem;">Next Show &rarr;</span>
-        <span style="font-size: 0.95rem; font-weight: 500; color: var(--accent-hover); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; width: 100%;">{{ page.next.title }}</span>
-      </a>
-    {% else %}
-      <div style="width: 48%;"></div>
-    {% endif %}
-  </div>
-{% endif %}

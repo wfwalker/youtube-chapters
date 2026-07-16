@@ -35,7 +35,6 @@ layout: default
         <th class="sortable" data-sort="composer">Composer <span class="sort-icon"></span></th>
         <th class="sortable" data-sort="style">Style <span class="sort-icon"></span></th>
         <th class="sortable" data-sort="plays" data-default="desc" style="text-align: right;">Plays <span class="sort-icon"></span></th>
-        <th class="sortable" data-sort="ready" data-default="desc" style="text-align: right; width: 120px;">Readiness <span class="sort-icon"></span></th>
       </tr>
     </thead>
     <tbody id="songsTableBody">
@@ -46,7 +45,6 @@ layout: default
             data-composer="{{ song.composer | escape | downcase }}" 
             data-style="{{ song.style | escape | downcase }}" 
             data-plays="{{ song.play_count }}" 
-            data-ready="{{ song.ready_rating | default: 0 }}"
             onclick="window.location='{{ song.url | relative_url }}'">
           <td>
             <a href="{{ song.url | relative_url }}" class="song-title-link" onclick="event.stopPropagation();">{{ song.title }}</a>
@@ -61,20 +59,6 @@ layout: default
           </td>
           <td style="text-align: right;">
             <span class="badge-count">{{ song.play_count }}x</span>
-          </td>
-          <td style="text-align: right;">
-            <div class="ready-stars">
-              {% assign rating = song.ready_rating | plus: 0 %}
-              {% if rating > 0 %}
-                {% for i in (1..rating) %}★{% endfor %}
-                {% assign empty_stars = 5 | minus: rating %}
-                {% if empty_stars > 0 %}
-                  {% for i in (1..empty_stars) %}<span class="star-empty">☆</span>{% endfor %}
-                {% endif %}
-              {% else %}
-                -
-              {% endif %}
-            </div>
           </td>
         </tr>
       {% endfor %}
@@ -154,7 +138,7 @@ layout: default
         let valA = a.getAttribute(`data-${key}`);
         let valB = b.getAttribute(`data-${key}`);
         
-        if (key === 'plays' || key === 'ready') {
+        if (key === 'plays') {
           valA = parseInt(valA) || 0;
           valB = parseInt(valB) || 0;
           return direction === 'asc' ? valA - valB : valB - valA;
