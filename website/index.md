@@ -15,7 +15,8 @@ title: "Friday Jazz Happy Hour Archive"
     font-family: var(--font-title);
     font-weight: var(--font-title-weight);
     font-size: 4rem;
-    margin: 0 0 1rem 0;
+    margin: 0 0 0.5rem 0;
+    padding-bottom: 0.15em;
     background: var(--accent-gradient);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
