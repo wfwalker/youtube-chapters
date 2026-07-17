@@ -176,21 +176,8 @@ title: "Friday Jazz Happy Hour Archive"
     }
   }
 
-  .video-responsive {
-    position: relative;
-    padding-bottom: 56.25%; /* 16:9 ratio */
-    height: 0;
-    overflow: hidden;
-    border-radius: 12px;
-    border: 1px solid var(--border-color);
-  }
-  
-  .video-responsive iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
+  .live-stream-card .responsive-video-container {
+    margin: 0;
   }
 </style>
 
@@ -205,7 +192,7 @@ title: "Friday Jazz Happy Hour Archive"
     <span class="live-indicator"></span>
     Upcoming / Live Show
   </h3>
-  <div class="video-responsive">
+  <div class="responsive-video-container">
     <iframe src="https://www.youtube.com/embed/live_stream?channel=UCsfG2kMhKa8QfTGdo9zawNg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 </div>
