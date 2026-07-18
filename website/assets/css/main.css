@@ -104,7 +104,8 @@ footer {
 .card-panel,
 .nav-card,
 .live-stream-card,
-.episode-card {
+.episode-card,
+.title-slide-container {
   background: var(--card-bg);
   border: 1px solid var(--border-color);
   border-radius: 16px;
@@ -476,12 +477,14 @@ footer {
 }
 
 .nav-card,
-.episode-card {
+.episode-card,
+.nav-pill {
   transition: transform 0.25s cubic-bezier(0.16, 1, 0.3, 1), border-color 0.25s ease, box-shadow 0.25s ease;
 }
 
 .nav-card:hover,
-.episode-card:hover {
+.episode-card:hover,
+.nav-pill:hover {
   transform: translateY(-5px);
   border-color: var(--accent-color);
   box-shadow: 0 12px 40px rgba(59, 130, 246, 0.18);
@@ -682,12 +685,14 @@ footer {
   border: 1px solid rgba(239, 68, 68, 0.25);
 }
 
-/* 11. Individual Episode Page Styles */
-.episode-header {
+/* 11. Individual Episode & Song Page Styles */
+.episode-header,
+.song-header {
   margin-bottom: 2.5rem;
 }
 
-.episode-title {
+.episode-title,
+.song-title {
   font-family: var(--font-title);
   font-weight: var(--font-title-weight);
   font-size: 2.8rem;
@@ -695,7 +700,8 @@ footer {
   line-height: 1.1;
 }
 
-.episode-meta {
+.episode-meta,
+.song-meta {
   display: flex;
   flex-wrap: wrap;
   gap: 0.8rem;
@@ -716,11 +722,8 @@ footer {
   display: flex;
   flex-direction: column;
   padding: 0.5rem 1.2rem;
-  background: var(--card-bg);
-  border: 1px solid var(--border-color);
   border-radius: 12px;
   text-decoration: none;
-  transition: all 0.2s ease;
   min-width: 140px;
   flex: 1;
   box-sizing: border-box;
@@ -733,12 +736,6 @@ footer {
 .next-pill {
   align-items: flex-end;
   text-align: right;
-}
-
-.nav-pill:hover {
-  border-color: var(--accent-color);
-  transform: translateY(-1px);
-  box-shadow: 0 4px 12px rgba(59, 130, 246, 0.1);
 }
 
 .pill-label {
@@ -780,13 +777,8 @@ footer {
 
 .title-slide-container {
   margin-bottom: 2.5rem;
-  border-radius: 16px;
   overflow: hidden;
-  border: 1px solid var(--border-color);
-  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.3);
   max-width: 100%;
-  backdrop-filter: blur(8px);
-  -webkit-backdrop-filter: blur(8px);
 }
 
 .title-slide-img {
