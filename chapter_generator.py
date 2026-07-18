@@ -411,16 +411,20 @@ def main():
     # Build chapters
     song_timestamps = {}
     song_timestamps["0:00"] = "Intro / Chat"
+    song_offsets = []
     
     for idx, start_seg in enumerate(song_starts):
         chapter_time = max(0.0, start_seg["start"] + args.offset)
         formatted_start = format_time(chapter_time)
-        if formatted_start == "0:00":
-            continue
+        raw_seconds = int(round(chapter_time))
         if idx < len(target_songs):
-            song_timestamps[formatted_start] = target_songs[idx]
+            name = target_songs[idx]
         else:
-            song_timestamps[formatted_start] = f"Song {idx+1}"
+            name = f"Song {idx+1}"
+            
+        if formatted_start != "0:00":
+            song_timestamps[formatted_start] = name
+            song_offsets.append((name, raw_seconds, formatted_start))
             
     print("\nDetected Music Blocks (unadjusted for offset):")
     for idx, seg in enumerate(segments):
@@ -451,6 +455,20 @@ def main():
         
     print("="*40)
     print("You can copy the lines above and paste them into your YouTube video description!")
+    
+    # Output copy-paste column for Google Sheets
+    print("\n" + "="*40)
+    print(" GOOGLE SHEETS COPY-PASTE COLUMN")
+    print("="*40)
+    print("Copy the numbers below and paste them directly into the 'Offset' column in Google Sheets:")
+    print("----------------------------------------")
+    for name, raw_sec, formatted in song_offsets:
+        print(raw_sec)
+    print("----------------------------------------")
+    print("Verification mapping:")
+    for name, raw_sec, formatted in song_offsets:
+         print(f"  - {name}: {raw_sec}s ({formatted})")
+    print("="*40)
 
 if __name__ == "__main__":
     main()

@@ -166,3 +166,8 @@ This tool automatically detects song start times in a YouTube live stream record
     ```bash
     python3 chapter_generator.py "/path/to/livestream_recording.mp4" --sheet-id "YOUR_ID" --sheet-name "Shows 2026"
     ```
+
+*   **Bill's Current invocation**:
+    ```bash
+    .venv/bin/python chapter_generator.py "/Users/walker/Documents/Ecamm Live Recordings/Bill Walker on 2026-07-17 at 17.00.12.mov" --csv-path "FJHH songs - Songs.csv" --skip-start 180 --min-duration 120``
+    ```
