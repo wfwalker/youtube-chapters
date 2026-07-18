@@ -411,7 +411,7 @@ def generate_songs_and_data_feeds(songs_data, hof, rerun_keys, canonical_dates, 
     # Sort songs alphabetically by key
     for slug in sorted(songs_data.keys()):
         data = songs_data[slug]
-        title = max(set(data["names"]), key=data["names"].count)
+        title = max(sorted(list(set(data["names"]))), key=data["names"].count)
         composer = data["composer"] or ""
         style = data["style"] or ""
         performances = data["performances"]
