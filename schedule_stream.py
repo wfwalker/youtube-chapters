@@ -113,6 +113,7 @@ def main():
     parser.add_argument("--date", required=True, help="Date of show in YYYY-MM-DD format (e.g. 2026-07-24).")
     parser.add_argument("--thumbnail", required=True, help="Path to the cover slide JPEG image.")
     parser.add_argument("--description", default="", help="Description text for the stream.")
+    parser.add_argument("--headline", help="Custom headline text to prepend to the stream description.")
     parser.add_argument("--privacy", choices=["public", "unlisted", "private"], default="unlisted", help="Privacy status (default: unlisted).")
     
     args = parser.parse_args()
@@ -122,7 +123,22 @@ def main():
     start_time_iso = f"{args.date}T17:00:00-07:00"
     
     title = f"Friday Jazz Happy Hour #{args.show}"
-    description_text = args.description or f"Welcome to Friday Jazz Happy Hour #{args.show}!\nLive streaming every Friday at 5:00 PM Pacific."
+    
+    # Build description body
+    body_text = args.description or f"Welcome to Friday Jazz Happy Hour #{args.show}!\nLive streaming every Friday at 5:00 PM Pacific."
+    if args.headline:
+        description_text = f"{args.headline}\n\n{body_text}"
+    else:
+        description_text = body_text
+        
+    # Append the three standard footer links
+    footer = (
+        "\n\n"
+        "▶ subscribe to our mailing list: https://fridayjazzhappyhour.com/mailinglist\n"
+        "▶ how i make the show: https://fridayjazzhappyhour.com/about\n"
+        "▶ original music: https://billwalker.bandcamp.com/"
+    )
+    description_text += footer
     
     # 1. Auth with credentials
     youtube = get_authenticated_service()
