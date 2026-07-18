@@ -124,24 +124,16 @@ footer {
   padding: 3rem 1rem;
 }
 
-.hero-banner-title,
-.dashboard-title {
+.hero-banner-title {
   font-family: var(--font-title);
   font-weight: var(--font-title-weight);
+  font-size: 3.5rem;
   margin: 0 0 0.5rem 0;
   padding-bottom: 0.15em;
   background: var(--accent-gradient);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   line-height: 1.1;
-}
-
-.hero-banner-title {
-  font-size: 3.5rem;
-}
-
-.dashboard-title {
-  font-size: 4rem;
 }
 
 .hero-banner-subtitle {
@@ -604,7 +596,7 @@ footer {
     gap: 1.2rem;
   }
   
-  .dashboard-title {
+  .hero-banner-title {
     font-size: 2.8rem;
   }
 }
@@ -688,4 +680,118 @@ footer {
   background-color: rgba(239, 68, 68, 0.15);
   color: #f87171;
   border: 1px solid rgba(239, 68, 68, 0.25);
+}
+
+/* 11. Individual Episode Page Styles */
+.episode-header {
+  margin-bottom: 2.5rem;
+}
+
+.episode-title {
+  font-family: var(--font-title);
+  font-weight: var(--font-title-weight);
+  font-size: 2.8rem;
+  margin: 0 0 0.75rem 0;
+  line-height: 1.1;
+}
+
+.episode-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.8rem;
+  margin-bottom: 1.5rem;
+}
+
+/* Episode Header Navigation Row */
+.episode-nav-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  margin: 1.8rem 0;
+  width: 100%;
+}
+
+.nav-pill {
+  display: flex;
+  flex-direction: column;
+  padding: 0.5rem 1.2rem;
+  background: var(--card-bg);
+  border: 1px solid var(--border-color);
+  border-radius: 12px;
+  text-decoration: none;
+  transition: all 0.2s ease;
+  min-width: 140px;
+  flex: 1;
+  box-sizing: border-box;
+}
+
+.prev-pill {
+  align-items: flex-start;
+}
+
+.next-pill {
+  align-items: flex-end;
+  text-align: right;
+}
+
+.nav-pill:hover {
+  border-color: var(--accent-color);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(59, 130, 246, 0.1);
+}
+
+.pill-label {
+  font-size: 0.7rem;
+  color: var(--text-secondary);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.pill-title {
+  font-size: 0.88rem;
+  font-weight: 500;
+  color: var(--accent-hover);
+  margin-top: 0.1rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  width: 100%;
+}
+
+.nav-pill-placeholder {
+  min-width: 140px;
+  flex: 1;
+}
+
+.watch-stream-pill {
+  padding: 0.8rem 1.5rem;
+  font-size: 0.9rem;
+  border-radius: 12px;
+  text-align: center;
+  white-space: nowrap;
+  flex: 1;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  height: 46px;
+  box-sizing: border-box;
+}
+
+.title-slide-container {
+  margin-bottom: 2.5rem;
+  border-radius: 16px;
+  overflow: hidden;
+  border: 1px solid var(--border-color);
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.3);
+  max-width: 100%;
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+}
+
+.title-slide-img {
+  width: 100%;
+  height: auto;
+  display: block;
+  object-fit: cover;
 }
