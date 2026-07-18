@@ -4,15 +4,25 @@ title: "friday jazz happy hour"
 subtitle: "Hi! My name is Bill Walker. On March 20th, 2020 I started doing a weekly live streaming show from my back room during the COVID-19 shelter-in-place. I'm still doing it every Friday, please join us!"
 ---
 
-<div class="live-stream-card">
+<div id="live-stream-card" class="live-stream-card">
   <h3 class="live-stream-header">
     <span class="live-indicator"></span>
     Upcoming / Live Show
   </h3>
   <div class="responsive-video-container">
-    <iframe src="https://www.youtube.com/embed/live_stream?channel=UCsfG2kMhKa8QfTGdo9zawNg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe id="live-stream-iframe" src="https://www.youtube.com/embed/live_stream?channel=UCsfG2kMhKa8QfTGdo9zawNg&enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 </div>
+
+<div id="live-stream-fallback" class="card-panel" style="display: none; text-align: center; margin-bottom: 3rem;">
+  <div style="font-size: 3rem; margin-bottom: 1rem;">📺</div>
+  <h3 style="margin: 0 0 0.5rem 0; font-size: 1.4rem; font-family: var(--font-title); font-weight: var(--font-title-weight); color: var(--accent-hover); background: var(--accent-gradient); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">No stream scheduled yet</h3>
+  <p style="margin: 0; font-size: 0.95rem; color: var(--text-secondary); line-height: 1.5; max-width: 500px; margin: 0 auto;">
+    Next week's live stream hasn't been scheduled on YouTube yet. We stream live every Friday at 5:00 PM Pacific. In the meantime, explore the archives below!
+  </p>
+</div>
+
+<script src="{{ '/assets/js/live-detector.js' | relative_url }}"></script>
 
 <div class="navigation-grid">
   <a href="{{ '/episodes.html' | relative_url }}" class="nav-card">
