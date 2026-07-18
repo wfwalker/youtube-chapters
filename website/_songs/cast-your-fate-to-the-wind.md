@@ -1,6 +1,6 @@
 ---
 layout: song
-title: "Cast your fate to the wind"
+title: "Cast your Fate to the Wind"
 composer: "Vince Guaraldi"
 style: "Pop"
 play_count: 9

@@ -1,15 +1,8 @@
 ---
 layout: default
-title: "Friday Jazz Happy Hour Archive"
+title: "friday jazz happy hour"
+subtitle: "Hi! My name is Bill Walker. On March 20th, 2020 I started doing a weekly live streaming show from my back room during the COVID-19 shelter-in-place. I'm still doing it every Friday, please join us!"
 ---
-
-
-
-<div class="dashboard-hero">
-  <h1 class="dashboard-title">friday jazz happy hour</h1>
-  <p class="dashboard-subtitle">Hi! My name is Bill Walker. On March 20th, 2020 I started doing a weekly live streaming show from my back room during the COVID-19 shelter-in-place. I'm still doing it every Friday, please join us!
-</p>
-</div>
 
 <div class="live-stream-card">
   <h3 class="live-stream-header">

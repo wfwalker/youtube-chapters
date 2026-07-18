@@ -21,6 +21,14 @@
     </div>
   </header>
   <main>
+    {% unless page.layout == 'episode' or page.layout == 'song' %}
+      <div class="hero-banner">
+        <h1 class="hero-banner-title{% if page.url == '/' or page.url == '/index.html' %} dashboard-title{% endif %}">{{ page.title }}</h1>
+        {% if page.subtitle %}
+          <p class="hero-banner-subtitle">{{ page.subtitle }}</p>
+        {% endif %}
+      </div>
+    {% endunless %}
     {{ content }}
   </main>
   {% unless page.layout == 'song' %}

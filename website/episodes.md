@@ -1,14 +1,8 @@
 ---
 layout: default
-title: "All Episodes"
+title: "Episodes"
+subtitle: "Chronological record of live performances. Click an episode to see its full setlist, tempos, styles, and timing details."
 ---
-
-
-
-<div class="hero-banner">
-  <h1 class="hero-banner-title">Episodes</h1>
-  <p class="hero-banner-subtitle">Chronological record of live performances. Click an episode to see its full setlist, tempos, styles, and timing details.</p>
-</div>
 
 <div class="grid-header">
   <h2 class="grid-title">All Shows ({{ site.episodes | size }})</h2>

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Colophon"
+subtitle: "Production Setup & Gear &mdash; how I produce the Friday Jazz Happy Hour live stream each week."
 ---
 
 <div class="responsive-video-container">
@@ -11,6 +12,7 @@ title: "Colophon"
 
 * Arturia KeyLab 61 MkII MIDI Keyboard
 * Yamaha P-120 88 key MIDI Keyboard
+* Fender Rhodes Mark I Stage 88 electric piano
 * Ableton Push 2 Control surface
 * Focusrite Scarlett 8i18
 * MacBook Pro with Ableton Live 12 Suite
