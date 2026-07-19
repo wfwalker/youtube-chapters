@@ -1,0 +1,55 @@
+---
+layout: default
+title: "Episodes"
+subtitle: "Chronological record of live performances. Click an episode to see its full setlist, tempos, styles, and timing details."
+---
+
+<div class="grid-header" style="margin-bottom: 1rem;">
+  <h2 class="grid-title">All Shows ({{ site.episodes | size }})</h2>
+</div>
+
+{% assign sorted_episodes = site.episodes | sort: "date" | reverse %}
+{% assign current_year = "" %}
+
+{% for epi in sorted_episodes %}
+  {% capture epi_year %}{{ epi.date | date: "%Y" }}{% endcapture %}
+  
+  {% if epi_year != current_year %}
+    {% if current_year != "" %}
+      </div>
+    {% endif %}
+    {% assign current_year = epi_year %}
+    
+    <h2 class="year-heading">{{ current_year }}</h2>
+    <div class="episodes-list">
+  {% endif %}
+  
+    <a href="{{ epi.url | relative_url }}" class="episode-card" style="background-image: url('{% if epi.image %}{{ epi.image | relative_url }}{% else %}{{ '/assets/images/title-slides/FJHH-titlecard-nodate.jpg' | relative_url }}{% endif %}'); background-size: cover; background-position: center;">
+      {% if epi.image == nil or epi.image == "" %}
+        <div class="card-top">
+          <h3 class="card-title">
+            {% if epi.episode_number and epi.episode_number != "" %}
+              Episode #{{ epi.episode_number }}
+            {% else %}
+              Live Stream Show
+            {% endif %}
+          </h3>
+          <span class="card-date">{{ epi.date_string }}</span>
+        </div>
+      {% endif %}
+      {% if epi.theme and epi.theme != "" %}
+        <div class="episode-card-body">
+          <div class="episode-card-body-item">🎨 Theme: {{ epi.theme }}</div>
+        </div>
+      {% endif %}
+      {% if epi.rerun %}
+        <div class="card-meta">
+          <span class="badge-style badge-style--rerun">Rerun</span>
+        </div>
+      {% endif %}
+    </a>
+{% endfor %}
+
+{% if current_year != "" %}
+  </div>
+{% endif %}

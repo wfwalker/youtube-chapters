@@ -627,6 +627,23 @@ footer {
   gap: 1.5rem;
 }
 
+.year-heading {
+  font-family: var(--font-title);
+  font-size: 2.2rem;
+  font-weight: var(--font-title-weight);
+  margin-top: 3.5rem;
+  margin-bottom: 1.5rem;
+  border-bottom: 1px solid var(--border-color);
+  padding-bottom: 0.6rem;
+  background: var(--accent-gradient);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.year-heading:first-of-type {
+  margin-top: 1.5rem;
+}
+
 .episode-card {
   padding: 1.6rem;
   text-decoration: none;
@@ -634,7 +651,30 @@ footer {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  min-height: 90px;
+  min-height: 140px;
+  position: relative;
+  overflow: hidden;
+}
+
+.episode-card::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(180deg, rgba(10, 14, 20, 0.25) 0%, rgba(6, 8, 12, 0.6) 100%);
+  z-index: 1;
+  transition: opacity 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.episode-card:hover::before {
+  opacity: 0.25;
+}
+
+.episode-card > * {
+  position: relative;
+  z-index: 2;
 }
 
 .card-top {
