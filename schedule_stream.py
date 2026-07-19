@@ -107,6 +107,53 @@ def upload_thumbnail(youtube, video_id, thumbnail_path):
         media_body=MediaFileUpload(thumbnail_path, mimetype='image/jpeg')
     ).execute()
 
+def find_playlist_id(youtube, playlist_name):
+    """Finds the playlist ID for a given playlist title."""
+    print(f"Finding playlist ID for: '{playlist_name}'...")
+    next_page_token = None
+    while True:
+        response = youtube.playlists().list(
+            part="id,snippet",
+            mine=True,
+            maxResults=50,
+            pageToken=next_page_token
+        ).execute()
+        
+        for item in response.get("items", []):
+            if item["snippet"]["title"].strip().lower() == playlist_name.strip().lower():
+                print(f"  Found playlist ID: {item['id']}")
+                return item["id"]
+                
+        next_page_token = response.get("nextPageToken")
+        if not next_page_token:
+            break
+            
+    print(f"  Warning: Playlist '{playlist_name}' not found.")
+    return None
+
+def add_video_to_playlist(youtube, playlist_id, video_id):
+    """Adds a video to a specific playlist."""
+    print(f"Adding video {video_id} to playlist {playlist_id}...")
+    body = {
+        "snippet": {
+            "playlistId": playlist_id,
+            "resourceId": {
+                "kind": "youtube#video",
+                "videoId": video_id
+            }
+        }
+    }
+    try:
+        response = youtube.playlistItems().insert(
+            part="snippet",
+            body=body
+        ).execute()
+        print(f"  Successfully added to playlist! Playlist Item ID: {response['id']}")
+        return True
+    except Exception as e:
+        print(f"  Warning: Could not add video to playlist: {e}", file=sys.stderr)
+        return False
+
 def main():
     parser = argparse.ArgumentParser(description="Schedule a YouTube Live Stream and upload its cover slide.")
     parser.add_argument("--show", required=True, help="Episode number (e.g. 305).")
@@ -122,10 +169,10 @@ def main():
     # Format ISO 8601 offset representation: 'YYYY-MM-DDT17:00:00-07:00' (or -08:00 depending on DST)
     start_time_iso = f"{args.date}T17:00:00-07:00"
     
-    title = f"Friday Jazz Happy Hour #{args.show}"
+    title = f"Bill Walker's Friday Jazz Happy Hour # {args.show}"
     
     # Build description body
-    body_text = args.description or f"Welcome to Friday Jazz Happy Hour #{args.show}!\nLive streaming every Friday at 5:00 PM Pacific."
+    body_text = args.description or f"Welcome to Friday Jazz Happy Hour # {args.show}!\nLive streaming every Friday at 5:00 PM Pacific."
     if args.headline:
         description_text = f"{args.headline}\n\n{body_text}"
     else:
@@ -159,6 +206,12 @@ def main():
     
     # 5. Upload Custom Slide
     upload_thumbnail(youtube, broadcast_id, args.thumbnail)
+    
+    # 6. Add to Playlist
+    playlist_name = "Bill Walker's Friday Jazz Happy Hour"
+    playlist_id = find_playlist_id(youtube, playlist_name)
+    if playlist_id:
+        add_video_to_playlist(youtube, playlist_id, broadcast_id)
     
     watch_url = f"https://youtu.be/{broadcast_id}"
     print("\n" + "="*40)
